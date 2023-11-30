@@ -5,17 +5,17 @@
 ## 目录
 
 - 入门
-  - [先决条件](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#先决条件)
-  - [安装](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#安装)
+  - [先决条件]
+  - [安装]
 - QT界面用法
-  - [启动应用程序](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#启动应用程序)
-  - [选择爬虫](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#选择爬虫)
-  - [开始抓取](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#开始抓取)
-  - [查看日志](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#查看日志)
-- [脚本用法](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#脚本用法)
-- [添加新爬虫](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#添加新爬虫)
-- [贡献](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#贡献)
-- [许可证](https://chat.openai.com/c/9e8783fc-6162-43a8-920a-a083f66155f9#许可证)
+  - [启动应用程序]
+  - [选择爬虫]
+  - [开始抓取]
+  - [查看日志]
+- [脚本用法]
+- [添加新爬虫]
+- [贡献]
+- [许可证]
 
 ## 入门
 
@@ -29,19 +29,7 @@
 
 ### 安装
 
-1. 将存储库克隆到本地计算机：
-
-```
-bashCopy code
-git clone https://github.com/your-username/your-repository.git
-```
-
-1. 导航到项目目录：
-
-```
-bashCopy code
-cd your-repository
-```
+1. 下载到本地计算机：
 
 1. 安装所需的依赖项：
 
@@ -93,6 +81,4 @@ python Gui.py
 
 欢迎贡献！如果您有任何想法、建议或改进，请提出问题或创建拉取请求。
 
-## 许可证
 
-该项目根据 MIT 许可证许可 - 有关详细信息，请参阅 [LICENSE](https://chat.openai.com/c/LICENSE) 文件。
