@@ -29,13 +29,20 @@
 
 ### 安装
 
-1. 下载到本地计算机：
+1. 将存储库克隆到本地计算机：
+
+
+1. 导航到项目目录：
+
+```
+bashCopy code
+cd your-repository
+```
 
 1. 安装所需的依赖项：
 
 ```
 bashCopy code
-pip install -r requirements.txt
 ```
 
 ## QT界面用法
@@ -45,7 +52,6 @@ pip install -r requirements.txt
 运行以下命令以启动图形用户界面：
 
 ```
-bashCopy code
 python Gui.py
 ```
 
@@ -76,9 +82,12 @@ python Gui.py
 ## 爬取到的资源的路径
 
 项目目录/你定义的目录/网站名称/*
+爬取到的链接会记录在json文件中，在下一次爬取的时候会读取，跳过已经爬取到的链接
 
 ## 贡献
 
 欢迎贡献！如果您有任何想法、建议或改进，请提出问题或创建拉取请求。
 
+## 许可证
 
+该项目根据 MIT 许可证许可 - 有关详细信息，请参阅 [LICENSE](https://opensource.org/license/MIT/) 文件。
