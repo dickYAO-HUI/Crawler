@@ -19,6 +19,7 @@ class XinanCrawler(BaseCrawler):
             soup = BeautifulSoup(novel_response.text, 'html.parser')
             path_link=soup.find("div",class_="list_left_bot").select("div ul li a")
             links =["http://www.xnzjw.cn/"+a['href'] for a in path_link]
+            self.logger.info(f"读取{url}")
         else:
             return None
         return links
@@ -48,6 +49,7 @@ class XinanCrawler(BaseCrawler):
                 if link not in self.visited_urls:  # 检查链接是否已经访问过
                     self.get_novel(link)
                     self.visited_urls.add(link)
+                    self.logger.info(f"下载完成{link}")
             except Exception as e:
                 self.logger.error(f"An error occurred while processing link {link}: {str(e)}")
                 
@@ -87,6 +89,7 @@ class TibetNovelCrawl(BaseCrawler):
             soup = BeautifulSoup(novel_response.text, 'html.parser')
             path_link=soup.select("li div h6 a")
             links =["https://www.tibetcul.com"+a['href'] for a in path_link]
+            self.logger.info(f"读取{url}")
         else:
             return None
         return links
@@ -111,6 +114,7 @@ class TibetNovelCrawl(BaseCrawler):
                 if link not in self.visited_urls:  # 检查链接是否已经访问过
                     self.save_data(link)
                     self.visited_urls.add(link)
+                    self.logger.info(f"下载完成{link}")
             except Exception as e:
                 self.logger.error(f"An error occurred while processing link {link}: {str(e)}")
 
@@ -145,6 +149,7 @@ class ChinawriterCrawler(BaseCrawler):
             path_link=soup.find("div",class_="list_left").select("div ul li span a")
             links =[a['href'].replace('\n', '') for a in path_link]
             links=Util.add_domain_if_no_http(links,"http://www.chinawriter.com.cn/")
+            self.logger.info(f"读取{url}")
         else:
             return None
             
@@ -169,6 +174,7 @@ class ChinawriterCrawler(BaseCrawler):
                 if link not in self.visited_urls:  # 检查链接是否已经访问过
                     self.save_data(link)
                     self.visited_urls.add(link)
+                    self.logger.info(f"下载完成{link}")
             except Exception as e:
                 self.logger.error(f"An error occurred while processing link {link}: {str(e)}")
 
