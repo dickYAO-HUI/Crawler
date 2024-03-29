@@ -1,0 +1,5563 @@
+ALIEN III
+screenplay by D.T. Twohy
+
+FIRST DRAFT
+October 1989
+
+- - -
+
+	FADE IN:
+
+1	EXT. METEOROID SWARM - DEEP SPACE
+
+	Meteoroids drift through space, silent and peaceful. Suddenly a shark
+	in their midst: Attacking from behind, a ship collects smaller
+	meteoroids in a jawlike scoop, swallowing them whole.
+
+2	INT. MINING SHIP
+
+	Inside, rotating teeth smash the meteors into rubble. Hoppers fill.
+	Lasers scan the rubble for composition before conveyors trundle it
+	away. The factory is crudely efficient, PREHISTORICALLY LOUD. Until...
+
+	The teeth stop rotating...
+
+	Conveyors seize up...
+
+	Lasers die...
+
+3	EXT. MINING SHIP
+
+	And the jawlike scoop, hinged, begins closing.
+
+4	INT. MINING SHIP
+
+	With the LOUDEST CLANG EVER HEARD, the jaws clamp shut.
+
+	ECHOES through empty corridors. Only then the ship is hauntingly quiet
+	do we hear the first signs of human life: FOOTSTEPS.
+
+	Greasy and agitated, the PROSPECTOR appears. He doesn't know why the
+	machines have stopped, but he does know what's responsible. He stalks
+	to a door...
+
+5	INT. OPERATIONS - MINING SHIP
+
+	...and flat-hands it open.
+
+					PROSPECTOR
+			So what the hell is it now?
+
+	Terminals flash the same message:
+
+				AUTOMATIC SHUTDOWN P/24/97.
+			POSSIBLE XENOMORPH DETECTION, HOPPER 6.
+
+					PROSPECTOR
+			"Xenomorph," huh?
+				(stabbing reset button)
+			Crush it.
+
+	But the machinery won't reactivate. Screens continue to flash the
+	message. The prospector storms out.
+
+6	INT. HOPPER - MINING SHIP
+
+	In the shadowy depths of a hopper, the prospector uses a lever to
+	search through meteoroid rubble. Some of the rock is a vitreous,
+	golden-hued. Amber.
+
+					PROSPECTOR
+			These fuckin' fossil-hunts...
+
+	Then he spots it. Mostly buried in rubble. What little we can see
+	reminds us of a tail. A dark, coiled tail.
+
+	Scowling, the prospector reaches down. Pokes it. Feels it. Lifts it up
+	to reveal...
+
+	A piece of flexible conduit.
+
+					PROSPECTOR
+				(peering at ceiling)
+			Fallin' apart. Whole ship's comin'
+			apart at the welds.
+
+	He searches on. Finally he abandons his lever for a chunk of amber. He
+	hoists it up, trying for better light. We can't tell for sure -- but
+	it looks like something is suspended inside the rock.
+
+7	INT. OPERATIONS - MINING SHIP
+
+					PROSPECTOR
+				(to comm-panel)
+			...Company Mining Ship WYM/263,
+			Sector 118-M, Quad 4, working the
+			Borealis Claim. Filing report as
+			required by section...section...
+
+	He thumbs through a greasy manual but can't find the right reference.
+	He flings it aside.
+
+					PROSPECTOR (CONT'D)
+			"Xenomorph" specimen detected and
+			recovered. Currently suspended in
+			organic resin-polymer compound,
+			a.k.a. "amber," little or no
+			fossilization. It you want it, come
+			get it.
+
+	He slaps a switch. "MESSAGE DISPATCHED" appears on the terminal, then
+	"SHUTDOWN CANCELLED." All around, we hear the great MACHINERY POUNDING
+	back to life.
+
+	The prospector swivels to face the chunk of rock. Now backlit, we see
+	that inside -- suspended in a coffin of golden glass -- is a face-
+	hugger. A protean Alien.
+
+					PROSPECTOR
+			So tell me. Why would such a big
+			company like this be interested in
+			such a little shit like you? Huh?
+
+	He taps the rock. No movement inside. He draws closer, trying to
+	discern more detail. And just when we expect the face-hugger to
+	shatter out and grab the prospector's face...
+
+	Something grabs his shoulder.
+
+					ASSISTANT
+			What's goin' on?
+
+					PROSPECTOR
+				(shaking off hand)
+			Same ol' ratshit. Go back to sleep.
+			Your shift don't start for three
+			hours yet.
+
+8	EXT. MINING SHIP - METEOROID FIELD
+
+	The jaws reopen. As it returns to chasing meteoroids, the ship passes
+	close to VIEW. We get a good look at the corporate logo of "Weylan-
+	Yutani" before we...
+
+									FADE OUT
+
+				"THREE YEARS LATER"
+
+	FADE IN:
+
+9	EXT. EARTH - PRE-DAWN
+
+	Dark Earth. The lights of a rampant civilization craze the landmasses.
+	Soon an orbit-to-orbit transport appears. It angles toward a glowing
+	horizon.
+
+10	INT. CABIN - TRANSPORT SHIP
+
+	Passengers sit in the dim interior, portholes their only luxury. Some
+	peer out to see...
+
+11	EXT. SPACE STATION - PRE-DAWN
+
+	Something huge ahead. Whatever it is, it blots out the starfield
+	behind it.
+
+12	INT. CABIN - TRANSPORT SHIP
+
+	More passengers strain to see.
+
+13	EXT. SPACE STATION - DAWN
+
+	Now the sun rises behind Earth, illuminating the rind of atmosphere
+	and then...
+
+	The space station. Iron black, spired, cathedralesque, designed by
+	Eiffel and then hand-sculpted by Rodin. It looms in geosynchronous
+	orbit 23,000 miles above Earth -- a smirch of Hell right where Heaven
+	should be.
+
+14	INT. CABIN - TRANSPORT SHIP
+
+	Reaction passengers: They've never seen it this close. Nor did they
+	want to.
+
+15	EXT. SPACE STATION - DAWN
+
+	The transport reaches a blockade of red-flashing buoys.
+
+16	INT. COCKPIT - TRANSPORT SHIP
+
+					PILOT #1
+				(into headset)
+			Moloch Island, this is MDT/67 out of
+			Gateway Station. Bearing 1-2-Fiver
+			on equatorial approach. Requesting
+			clearance to dock.
+
+	PILOT #1 waits, eyeing the station through her canopy. The central
+	spire spews burned gas into space.
+
+					PILOT #1
+			Again, this is MDT/67 out of
+			Gateway. Still awaiting docking
+			clearance.
+
+17	EXT. SPACE - STATION - DAWN
+
+	As if to answer, the buoys turn a provisional yellow. Positioning
+	rockets fire. The buoys rearrange to form a landing corridor.
+
+18	INT. COCKPIT - TRANSPORT SHIP
+
+	As the pilot gooses her throttle.
+
+19	INT. MAIN CABIN - TRANSPORT SHIP
+
+	As yellow buoys drift past portholes.
+
+20	EXT. DOCKING PORT - SPACE STATION - DAWN
+
+	As the transport slews into a broadside approach.
+
+21	INT. MAIN CABIN - TRANSPORT SHIP
+
+	CLANGS and WHINES of docking. At the front of the cabin, an ICC
+	MARSHALL rises, brandishing a weapon.
+
+					MARSHALL
+			Everybody up.
+
+	The passengers CLATTER to their feet. Only now do we see their chains.
+
+22	INT. ADMISSION AREA
+
+	CLOSE on a hand pressing down on a scan-plate. U.V. light passes
+	beneath the hand.
+
+					SCAN VOICE
+			Russo, Susan Lee. F23837. Murder,
+			Second Degree. 20-Year sentence.
+
+	The hand turns over. The wrist area has been branded with an I.D.
+	number. A pigment burn.
+
+					CAPTAIN (O.S.)
+			Maintenance duty.
+
+	WIDER. We're inside the station. The first five prisoners are hooked
+	together and led away. The next prisoner in line shuffles forward to
+	place his hand on the scanner.
+
+					SCAN VOICE
+			Van Brunt, Carl Henrik. M23838.
+			Manslaughter, 49 counts. 49-year
+			sentence.
+
+	VAN BRUNT. Scandinavian. Forty. He moves aside for the next prisoner.
+
+					SCAN VOICE
+			Kiryu, Cheryl. F23839. Possession of
+			Firebomb, Incitement to Riot,
+			Corporate Terrorism. Life sentence,
+			no possibility of parole.
+
+	KIRYU. Amerasian. Thirty. Next prisoner up.
+
+					SCAN VOICE
+			Grimes, Howard Stumbo. M23840.
+			Bigamy, Spousal Rape, Rape with
+			Foreign Object, Attempted Murder.
+			Aggregate 32-year sentence.
+
+	Piqued, the guard CAPTAIN looks up from his terminal. GRIMES gives him
+	a shit-for-brains grin.
+
+					CAPTAIN
+			What was the foreign object?
+
+					GRIMES
+			My dick. It's so big, they didn't
+			believe it was real.
+
+	Block guards jerk him away.
+
+					GRIMES
+			Hey, it's true. They booked me two
+			seats just to get up here.
+
+					SCAN VOICE
+			Domingo, Gustava Gomez Jesus
+			Incantada.
+
+	Prisoners lean out of line to look at DOMINGO. Latin. Tenty years old.
+	Wears his anger like a coat.
+
+					SCAN VOICE (CONT'D)
+			M23841. Murder, First Degree, four
+			counts. Death sentence on each
+			count.
+
+	Prisoners APPLAUD the big deal of the day. Domingo wants to piss on
+	them all. Now STYLES moves up. He's about to put his hand on the
+	scanner when...
+
+					CAPTAIN
+			Styles, Scott Taylor. Fraud, 10-year
+			sentence. Additional five years for
+			escape, Terre Haute. Additional
+			eight years for escape, Terminal
+			Island.
+				(looking up)
+			You know, son, I just get the
+			feeling you're gonna give us snags.
+
+					STYLES
+			Oh, no sir. I've learned my lesson.
+			Well, "lessons."
+
+					CAPTAIN
+			Foundry.
+
+	Guards chain the five inmates together.
+
+					CAPTAIN
+			Oh, and Daggs?
+				(indicating Styles)
+			Full shackles outside the block.
+			Line of sight at all times.
+
+	Nodding, the guard named DAGGS turns his eyes on Styles. Styles looks
+	back resignedly. "Gonna be one of those years."
+
+23	INT. CORRIDOR OUTSIDE FOUNDRY
+
+	Caged elevator cars transport personnel between levels, comparable
+	"equavator" cars transport them laterally along curved corridors. Now
+	in coveralls, the five new inmates appear. BLOCK GUARD leads. Daggs
+	shadows.
+
+					BLOCK GUARD
+			...touch a guard, you get stitched.
+			Fail to respond promptly to a
+			guard's order, any guard -- block,
+			solitary, special services -- you
+			get stitched. Pilfer supplies, you
+			get stitched...
+
+					GRIMES
+				(to Styles)
+			"Stitched"?
+
+					STYLES
+			Don't ask.
+
+					GRIMES
+				(to Daggs)
+			What's "stitched"?
+
+	A wicked CHITTERING SOUND: Grimes ducks as the wall beside him
+	explodes with crisscrossing lines. When the sound stops, hundreds of
+	small-bore needles have embedded the wall.
+
+					BLOCK GUARD
+				(recycling stitch rifle)
+			Any other questions?
+
+	None. The guard moves to a massive steel door and slaps an open-relay.
+
+					BLOCK GUARD
+			Then let's get busy.
+
+	So far, the station has impressed us as sterile and efficient. But
+	when the overhead DOOR RUMBLES open, we see...
+
+	Blasting furnaces. Rippling heat. Rising steam. This is the central
+	spire, where space-mined ore is processed into steel. The NOISE is
+	like a hundred train wrecks, and if Hell had nightmares, this would
+	surely be one.
+
+24	INT. FOUNDRY
+
+	Prisoners everywhere, stoking furnaces, lifting rock, oiling
+	conveyors, channeling rivers of glowing metal.
+
+	ROAMING, the VIEW FINDS Styles and Van Brunt. They rake limestone over
+	screens, sifting out impurities. The dust gets in their eyes, nose,
+	mouths. Between coughs:
+
+					VAN BRUNT
+			...G-class freighter. Made fueling
+			runs between the M-class tankers and
+			smaller ships.
+
+					STYLES
+			Pilot?
+
+					VAN BRUNT
+			Helmsman. Or I was, until a docking
+			went bad. Came in hot. Took out the
+			better part of two ships. 49 dead.
+
+					STYLES
+			Never make pilot that way. Wasn't
+			equipment failure?
+
+					VAN BRUNT
+			Hard to say. So drunk at the time,
+			don't remember much.
+
+					STYLES
+			Forty-nine years...
+
+					VAN BRUNT
+			You? Twenty years or something?
+
+					VOICE
+			It's all the same.
+
+	They look. The voice came from a prisoner raking with his back to
+	VIEW.
+
+					VAN BRUNT
+			Say something?
+
+	The prisoner turns -- and startles us. His skin, his hair, even his
+	eyes have turned an IVORY white from years of working the limestone.
+
+					IVORY
+			All sentences are the same. All.
+
+25	INT. MACHINE SHOP - FOUNDRY
+
+	A glassed-off machine shop. Pipe, wire, small castings are being made.
+
+	Workers are stacking a pallet with heavy pipe -- and stacking it too
+	high. The first pipe falls, starting an avalanche that CLATTERS
+	toward...
+
+	Kiryu. She sees it coming but freezes up. At the last second, hands
+	jerk her away.
+
+	The pipes smash to a stop.
+
+	It's Domingo. He probably just saved Kiryu's life -- but without
+	thanking him, she pulls free and goes back to work.
+
+26	INT. FOUNDRY
+
+	A white-hot ingot, circular and massive, is dropped into a quenching
+	tank. Steam blasts upward, drawing the attention of...
+
+	Grimes. He works near the blast furnaces, shoveling up warm slag like
+	a stable boy mucking stalls.
+
+	The cooled ingot is craned out of the quenching tank and dropped in
+	top-loading centrifuge. Airlock doors close. The centrifuge begins to
+	rotate.
+
+	Grimes follows other workers to observation windows that overlook
+	Earth.
+
+27	EXT. BOTTOM OF SPACE STATION - DAY
+
+	Building speed, the centrifuge lowers from the station.
+
+28	INT. FOUNDRY
+
+	A DETONATION rocks the foundry as...
+
+29	EXT. BOTTOM OF SPACE STATION - DAY
+
+	The ingot is discharged. Twenty tons of spinning steel streaks toward
+	Earth.
+
+30	INT. FOUNDRY
+
+					GRIMES
+			Holy... Where's it gonna hit?
+
+					WORKER
+			South China Sea. Ship picks it up.
+			Right angle, they only lose about 15
+			percent in the atmosphere.
+
+	Workers disperse. Grimes loiters, watching the ingot vanish.
+
+					GRIMES
+			Love to scream one of those fuckers
+			down on the ex-wife's apartment...
+
+	The barrel of a stitch rifle flicks his ear. The guard motions Grimes
+	back to work.
+
+31	EXT. SPACE STATION - NIGHT
+
+	Burned gasses continue to belch from the central spire, blackening a
+	full moon.
+
+32	INT. FOUNDRY
+
+	CLOSE on a small machine spitting out coins. They're crude and dark,
+	made of slag. But the logo is familiar. "Weylan-Yutani."
+
+	End-of-shift prisoners shuffle forward in line like the living dead,
+	faces blackened and haggard. Guards pay the workers with newly minted
+	coins. Styles is getting patted down by Daggs when...
+
+					AMPLIFIED VOICE
+			Prisoner M22197. Step out. Prisoner
+			M22197. Step out.
+
+	Prisoners look. No one steps forward.
+
+					AMPLIFIED VOICE
+			Second chance. Prisoner M22197. Step
+			out. Prisoner M221--
+
+	Suddenly one man bolts, running blindly.
+
+	Guards level tangle guns, stubby and twin-barrelled. MULTIPLE
+	DISCHARGES.
+
+	Bolo balls sling through the air...
+
+	And catch the man, orbiting him, cocooning him in steel filament. He
+	crashes to the floor ten steps from where he started his run. The
+	prisoner is Ivory.
+
+					STYLES
+			What's he volunteering for?
+
+					DAGGS
+			Been here a long time. Could be his
+			appeals finally crapped out. Funny
+			how they run like that.
+				(for Styles' sake)
+			Like someone could actually get off
+			this rock, huh?
+
+33	INT. SECURITY CORRIDOR
+
+	Again chained together, the five new inmates drag-ass along a
+	corridor. They carry bedrolls. The block guard keys open a security
+	door and ushers them into...
+
+34	INT. GUARD HOUSE
+
+	A circular control room. The walls are solid glass -- but, oddly, they
+	look out on nothing but solid wall.
+
+					BLOCK GUARD
+			Goin' my way?
+
+					CONTROL GUARD
+				(running switches)
+			Down it is.
+
+	The guard house begins dropping -- and now the windows fill with the
+	rising cell block. It's a staggering sight: We're in the middle of an
+	immense cylinder, cells ringing the perimeter, inmates roaming like
+	lost animals. Tier after tier rise past the windowed walls -- and it's
+	all the same.
+
+					DOMINGO
+			Fuckin' Mother of God...
+
+	Finally the guard house stops. Security door opens. The block guard
+	unchains the inmates -- then backs off. This is as far as he goes.
+
+					STYLES
+			Which cell?
+
+					BLOCK GUARD
+			Any one you can find.
+
+35	INT. MIDDLE TIER - CELL BLOCK
+
+	The new inmates step onto a walkway. The door locks behind them. Kiryu
+	peers down the foot-wide crack between walkway and guard house.
+
+	HER POV: The bottom of the cell block lost in shadow. How many more
+	tiers can there be?
+
+					GRIMES
+			I think there's been a mistake.
+
+					VAN BRUNT
+			What, you're not really guilty?
+
+					GRIMES
+			Oh, I'm guilty. Just not this
+			guilty.
+
+	The new inmates push ahead.
+
+	THEIR POV: An inmate brushing his teeth in a toilet. Graffiti-scarred
+	walls. A gang of females rousting a male inmate. A jogger using the
+	circular walkway for a lap track. At least three inmates per cell. No
+	open bunks.
+
+	Two JOY BOYS in codpieces pass. They touch Domingo seductively. He
+	bats their hands away. They laugh and blow kisses.
+
+	THEIR POV: Blacks in shower caps playing dominoes. Inmates with bio-
+	electric tattoos. A narcotized guy trying to peel the walls. A man and
+	woman pulling a stand-up fuck. Inmates watching baseball on a caged
+	monitor.
+
+					ANNOUNCER (V.O.)
+			...so far this year, the Yanks are
+			13 and 12, three of those victories
+			big ones coming on the road against
+			Tokyo, Nagoya, and Osaka. And
+			Tuesday night's game with the
+			Hitachi Indians looms as a pivotal
+			one...
+
+	New inmates Stop. They've circled the entire tier and haven't found an
+	open cell.
+
+					VOICE
+			No luck, huh?
+
+	They look. The voice belongs to BELLHOP, an ingratiating maggot of a
+	man.
+
+					BELLHOP
+			Vacancies are hard to come by in
+			this hotel.
+
+					STYLES
+			But I bet you know where some are.
+
+					BELLHOP
+			Several. Happy to take you there.
+			For two slags.
+
+					DOMINGO
+			Hey. Dickwipe. Fuck you, awright? I
+			just spent maybe twelve hours
+			cuttin' hot pipe, and for that they
+			pay me five coins. Now you want two?
+			Fuck you dead, man. From both ends.
+
+	But Styles flips Bellhop a coin.
+
+					STYLES
+			Show us.
+				(to Domingo)
+			My throw.
+
+36	INT. STAIRCASES - CELL BLOCK
+
+	Zig-zagging, Bellhop leads the new inmates down through the cell
+	block. They pass tier after tier.
+
+					BELLHOP
+			...little Wild Eye, Hash Mash,
+			smokes with six percent real tobacco
+			-- you just let me know. Watch this
+			step here, bit loose. Comin' up on
+			lockdown -- I strongly urge that you
+			not be caught outside your cell.
+			Right this way, not much further
+			now...
+
+					GRIMES
+			Much lower, man, we're gonna drop
+			out the ass-end of this thing.
+
+37	INT. BOTTOM TIER - CELL BLOCK
+
+	They reach the bottom. This is it. Dungeon-level.
+
+					BELLHOP
+			And here we are. First Floor.
+
+	New inmates look around. Several cells are free.
+
+					DOMINGO
+			So what the shit's wrong with it?
+
+					BELLHOP
+			Pardon?
+
+					DOMINGO
+			How come rest ot the place is full,
+			but this isn't? How come?
+
+					BELLHOP
+			Well, it's closer to the gravity
+			generators, so you're a couple
+			pounds heavier, little more
+			sluggish. And the light isn't what
+			it should be.
+
+	That's all. They inspect the cells. Bunks have springs. Grimes kick-
+	starts a toilet. It actually flushes.
+
+					STYLES
+				(to Bellhop)
+			That's all, huh?
+
+					BELLHOP
+			They're nice rooms. Really. Can't do
+			better than these.
+
+	Styles flips him the second coin. Not wasting any time, Bellhop heads
+	back to the stairs.
+
+					DOMINGO
+			Rats. Got big fuckin' rats down
+			here, doncha?
+
+					BELLHOP
+				(oddly)
+			Oh, no. You'll have no problems with
+			rats.
+
+	He's gone. Styles and Van Brunt settle into the first cell. Grimes
+	takes the second, Domingo the third. Kiryu is left to choose between
+	bunking with the rapist Grimes or killer Domingo. She chooses Domingo.
+
+					GRIMES
+			Thanks, cunt.
+
+38	INT. STYLES' CELL
+
+	Styles is taking a sink-bath, trying to wash away the limestone and
+	the whole day. PIPES KNOCK, and the faucet sputters dry. He wasn't
+	close to finishing.
+
+39	INT. BOTTOM TIER - CELL BLOCK
+
+	Air-drying, Styles walks the tier with Van Brunt. Other inmates here
+	seem to be the runts and whack-outs of the prison:
+
+	The HIKER, a paraplegic who walks only with the aid of a motorized
+	backpack that "walks" his legs for him...
+
+	A man thin enough to be a human X-RAY...
+
+	The GASHER, a self-mutilating woman who notches her skin with a
+	shank...
+
+					STYLES
+			Quite a neighborhood.
+
+	And the ABORIGINE, a dreadlocker who paints his cell wall with
+	primitive drawings. The drawings seem to be of an animal. But before
+	Styles can get a closer look...
+
+					BLOCK VOICE
+			Lockdown. 30 seconds to lockdown.
+
+40	INT. CELL BLOCK
+
+	SELECTED SHOTS of inmates grabbing belongings and moving for stairs
+	and cells.
+
+					BLOCK VOICE
+			Lockdown. 20 seconds to lockdown.
+
+41	INT. STYLES' CELL
+
+					BLOCK VOICE
+			Lockdown. 10 seconds to lockdown.
+
+	Styles and Van Brunt crab-step inside just as the door closes. Around
+	the cell block, we hear DOORS THUNDERING SHUT.
+
+					BLOCK VOICE
+			Lockdown complete.
+
+42	INT. CELL BLOCK
+
+	A WHISTLE sounds. Entry doors open, and unleashed guard dogs stream
+	into the block. Searching tor loose inmates, the dogs race around the
+	tiers...
+
+	...zig-zag down stairs...
+
+	...flood the lower tiers...
+
+43	INT. GRIMES' CELL
+
+	...and appear here. One dog stops at Grimes' cell. It almost looks
+	friendly.
+
+					GRIMES
+			Hey, dog.
+
+	It lunges, slamming into the bars and nearly taking out Grimes'
+	throat.
+
+					GRIMES
+			Shit. Lassie get the fuck home, huh?
+			Get the hell outta here.
+
+44	INT. CELL BLOCK
+
+	Circling like a glass carousel, the guard house rises, pushed upward
+	by one massive steel piston. Soon it vanishes, embedded in the
+	ceiling.
+
+45	INT. CELL BLOCK
+
+	As all lights extinguish.
+
+46	INT. DOMINGO'S CELL
+
+	Later. Domingo wakes. The bunk is rocking. "What the hell?" Small
+	MOANS and GASPS from beneath him -- from Kiryu. Domingo grins, taking
+	the sounds for autoerotic. Figuring he can be of assistance, he eases
+	off his bunk.
+
+	And finds sharp metal thrust under his chin.
+
+	Kiryu holds a bed strut, worked free of the bunk. That's what she
+	was doing.
+
+					DOMINGO
+			Just thought maybe you was --
+
+					KIRYU
+			I know what you were thinking. Now
+			get away before I bury this in your
+			worthless pygmy brain.
+
+	He backs off -- then snatches the shank away.
+
+	For a beat Domingo just stares, and the only question is whether he'll
+	rape her before or after he cuts open her throat. But then Domingo
+	eases back onto his bunk and lies down.
+
+47	INT. STYLES' CELL
+
+	Glow-worms dot the ceiling like stars. One falls...
+
+	...and lands on Styles. He brushes it away and tries to get back to
+	sleep but can't: The night sounds of the prison -- SOBBING, FLUSHING
+	TOILETS, BARKING DOGS -- fill his ears. He rolls away from VIEW.
+
+	But a new SOUND rolls him back. This doesn't come from above like the
+	other sounds. This seems to come from...
+
+	The tier walkway. Empty. Quiet.
+
+	Styles is at the bars, looking out. Was it just the dog? Hearing
+	nothing now, he starts back to his bunk. But the SOUND returns.
+
+	STYLES' POV: Through the walkway grating, we see the machinery level
+	below, a jungle of conduit and hydraulics. It's from there that the
+	SLIDING-CLAWING sound comes.
+
+	Styles tracks the sound with his eyes. It passes under the walkway...
+	moves toward his cell...and stops dead under his feet. Now something
+	SCRATCHES, as if trying to penetrate the solid floor. For a small
+	eternity, Styles doesn't move. Then the sound SLIDE-CLAWS away.
+	Breathing again, Styles looks out the bars to see...
+
+	Someone watching him from another cell. It's the X-Ray man.
+
+48	EXT. SPACE STATION - DAWN
+
+	Sunrise.
+
+49	INT. SOLITARY WARD
+
+	A single-cell door is opened. From inside the dark room, a lonely
+	white face looks out.
+
+50	INT. GAS CHAMBER
+
+	Guards shove Ivory into a primitive throne-like chair. Pull straps.
+	Cinch buckles. Through a window Ivory can see...
+
+	The faces of the witnesses.
+
+51	INT. CELL BLOCK
+
+	A pitiless light floods the block. It's met with a CHORUS OF GROANS.
+
+52	INT. GRIMES' CELL
+
+					GRIMES
+				(waking thickly)
+			Ten minutes. They turned off the
+			lights ten minutes ago...
+
+53	INT. STYLES' CELL
+
+	Styles and Van Brunt rise.
+
+					VAN BRUNT
+			Stiff every place but where it
+			counts.
+
+54	INT. DOMINGO'S CELL
+
+	Kiryu dresses. Domingo stays in his bunk.
+
+					DOMINGO
+			Fuck them. I ain't goin' back to
+			that psycho shitpile. What're they
+			gonna do? Not pay me? Huh? Fuck 'em.
+			Fuck 'em dead.
+
+	A caged monitor flickers to life. On the screen we see Ivory, strapped
+	down in the chair.
+
+55	INT. CELL BLOCK
+
+	As the image appears on screens everywhere.
+
+56	INT. STYLES' CELL
+
+	As Styles moves closer to a monitor, recognizing the man.
+
+57	INT. GAS CHAMBER
+
+	As a black hood is dragged over Ivory's head.
+
+58	INT. OUTSIDE GAS CHAMBER
+
+	As guards double-check machinery.
+
+59	INT. CELL BLOCK
+
+	As the entire block grows quiet, watching.
+
+60	INT. SECURITY CORRIDOR
+
+	The female WARDEN appears with captain of the guards, striding quickly
+	toward the chamber. She pushes through a door...
+
+61	INT. WITNESS ROOM
+
+	...and takes her place at the viewing glass. She barely glances at the
+	hooded inmate before nodding approval O.S. We get the feeling she's
+	done this before.
+
+62	INT. OUTSIDE GAS CHAMBER
+
+	Where a lever is pulled.
+
+63	INT. GAS CHAMBER
+
+	CLOSE on a bag of crystals dropping into an acid bath beneath the
+	chair. Gas roils upward...
+
+	Enveloping Ivory. We know what's happening under the hood: He's
+	holding his breath. Squirming. Working the good air up and down his
+	throat, trying to make it last.
+
+64	INT. WITNESS ROOM
+
+	As the warden drums her fingers.
+
+65	INT. CELL BLOCK
+
+	As the new inmates watch.
+
+66	INT. GAS CHAMBER
+
+	Finally Ivory inhales. Screams as the gas burns his throat. Goes into
+	hypoxiac spasms. And dies quickly but badly.
+
+67	INT. DOMINGO'S CELL
+
+	Domingo stares open-mouthed as the monitor flickers out. SCATTERED
+	APPLAUSE from some sick fucks around the block. From the next cell:
+
+					GRIMES
+			Uh, just out of curiosity, Domingo
+			...how many appeals you got left?
+
+	Domingo jumps off the bunk, grabs his pants.
+
+					DOMINGO
+			What're we doin'? Let's go, let's
+			go. Hey, open these fuckin' doors,
+			huh? Let's get busy.
+
+68	INT. BUNKER
+
+	CLOSE on Ivory's hooded head, unmoving and lifeless. Suddenly he
+	draws a jagged breath.
+
+	He rips off the hood. Though his mind is still dying in the gas
+	chamber, his body, he now discovers, is somewhere else.
+
+	"Where's the window? The faces?"
+
+	He finds himself in a chair -- this one without straps. He's inside
+	what appears to be a small outpost bunker. No windows. Inactive
+	monitors. Pre-form construction.
+
+	"I'm dead, I'm dead, I gotta be dead..."
+
+	He stands experimentally. Moves. Runs a hand over equipment. A monitor
+	activates. It shows an external view: The outside terrain is rocky and
+	windswept.
+
+	"What planet is this? And how the hell did I get here?"
+
+	He finds cots for other personnel -- but there are no others. Just
+	him.
+
+	Movement on the monitor. Did he just imagine it? He stares until it
+	happens again: Something slides past the exterior camera, momentarily
+	filling the frame with darkness. Skeletal darkness.
+
+	A SCRATCHING SOUND turns Ivory. He tracks the sound to a seam in the
+	wall panels. He touches the spot -- and can feel the thing outside,
+	the thing barely an inch away, the thing that explores the seam with
+	him.
+
+	WHUMP. Ivory stumble-steps back. WHUMP. The seam cracks. WHUMP.
+	Ivory looks around for a weapon, shield, anything. WHUMP. The Alien
+	is inside.
+
+69	INT. BUNKER MOCK-UP FACILITY - P-4 LAB
+
+	Now we see the bunker from the outside -- and see the backdrops, the
+	wind machines, the halt-environment. It's all fake. All but the
+	SCREAMING.
+
+70	INT. CONTROL ROOM - P-4 LAB
+
+	CLOSE on a monitor. We're watching images from a hidden camera --
+	jumpy, hard-to-track images of Ivory's death. By whipping tail. By
+	rending arms. By striking jaws. Just who watches these images and
+	where they're being seen -- none of it matters yet. All we know is
+	that this one prisoner has now died twice.
+
+71	EXT. SPACE STATION - DAY
+
+	As a steel ingot is blasted toward Earth.
+
+72	INT. FOUNDRY
+
+	Feeding time: The new inmates file past a portable mess station,
+	taking food. A thick, nutrient-stuffed sausage is plopped down on
+	Grimes' plate.
+
+					GRIMES
+			Now we know why the crappers weren't
+			clogged up.
+
+					DOMINGO
+			I gotta question. When we die, do we
+			come right back here?
+
+					KIRYU
+			We're already dead. Just don't know
+			it yet.
+
+					VAN BRUNT
+			She walks, she talks.
+
+					GRIMES
+			But will she do our cocks?
+
+					DOMINGO
+			Hey, toadshit. You gotta say the
+			first thing that comes to your
+			mouth?
+
+	Leaving them behind, Styles looks for a place to sit. He spots...
+
+	X-Ray. The man sits alone on the floor, sipping water. There's a tray
+	of food beside him. Untouched.
+
+					STYLES
+			So how'd you sleep last night?
+
+					X-RAY
+			Same as every night.
+
+					STYLES
+			Lousy? Or not at all?
+
+	No reaction. Styles sits.
+
+					STYLES
+			Heard some craziness last night. You
+			hear any craziness?
+
+					X-RAY
+			You're strong. You should move up. I
+			tried, once, but they hit me and
+			made me go back to the bottom.
+				(indicating tray)
+			You want it?
+
+					STYLES
+			Looks like you need it more.
+
+					X-RAY
+			Water. That's all for me. Water's
+			the only way.
+
+					STYLES
+			You don't eat? At all?...
+
+					X-RAY
+			Can't. I can but I can't.
+
+					STYLES
+			You'll starve if you don't eat. Do
+			you know this?
+
+					X-RAY
+			But I'll die if I do.
+
+	KLAXON HORN recall prisoners. With doubts about X-Ray's sanity, Styles
+	tries one more time.
+
+					STYLES
+			What're you saying? Something's
+			wrong with the food?
+
+					X-RAY
+				(conspiratorially)
+			It won't take me. Next time it
+			comes, won't want me. Too thin.
+			It'll take someone else.
+
+	Styles ponders it. Until he gets kicked in the back.
+
+					DAGGS
+			Feedin' time's over.
+
+73	EXT. SPACE STATION - DAY
+
+	A company mining ship is docked at the central spire, off-loading
+	cargo.
+
+74	INT. FOUNDRY
+
+	Docking officers patrol a platform near the top of the foundry. The
+	mining ship is visible through a viewport. Personel move in and out
+	via an airlock. Beneath the platform, raw ore spills down chutes...
+
+	...drops through SUB-CRUSHERS...
+
+	...then gets hauled across conveyored ore-bridges to be dumped into
+	stockpiles.
+
+	Styles is among the prisoners who work the bridges, shoveling spilled
+	rock off the catwalks and back onto conveyors. The ore seems endless,
+	and more and more of it falls onto the prisoners' feet. It aggravates
+	Styles but he figures someone will slow it down.
+
+	No one does. Soon the ore is spilling off the catwalks and hailing
+	down on the main floor. Workers take cover.
+
+	At the end or the bridge, ore swamps the catwalk. It forms a moving
+	rampart that pushes one frantic worker off the edge...
+
+	...and into the stockpile. SHOUTED VOICES. In moments he'll be buried
+	alive.
+
+	Fed up with the madness, Styles rears back and buries his shovel deep
+	into the conveyor system.
+
+	Bridges stop. Crushers die. Chutes go empty.
+
+	CLOSEUPS of guards turning to look.
+
+	Though he only meant to stop the one bridge, Styles has managed to
+	shut down the entire off-load. The foundry is quieter than we thought
+	possible. Suddenly someone is marching toward Styles. It's a guard, a
+	MASTODON of a man. The catwalk rocks under his weight.
+
+					STYLES
+			Too much ore...it was coming too
+			fast...had to do something before --
+
+	Hands grab him by the head and jerk him off his feet.
+
+					MASTODON
+			No one. Hear me? No one shuts down
+			the foundry.
+
+	He slams Styles back -- right into a stanchion bracket. Styles just
+	hangs there, impaled, graying out into unconsciousness.
+
+75	INT. TELESURGERY BERTH - INFIRMARY
+
+	CLOSE on a surgical instrument, plunking into a pan of disinfectant
+	and spreading blood. VIEW MOVES past a tray or fresh instruments...
+	surgical draping...to equipment that monitors vital signs.
+
+					SURGEON'S VOICE
+			Lung's holding air.
+
+					WOMAN'S VOICE
+			Muscle reweave looks good, too.
+
+	Bio-readouts change.
+
+					WOMAN'S VOICE
+			He's coming around. You want more
+			NumbOut?
+
+					SURGEON'S VOICE
+			That's okay. Almost done here.
+
+	The patient is Styles, blinking awake. His mind gathers speed.
+
+					STYLES
+			How bad?
+
+					SURGEON'S VOICE
+			Hmm? Oh, we've seen a lot worse.
+			Aren't feeling this, are you?
+
+					STYLES
+			Huh-uh. Not a thing. Must be doin' a
+			pretty good job of...
+
+	Styles lifts his head to look at the surgeon -- and sees twin robotic
+	arms. They're doing the surgery. He lurches up. Human hands shove him
+	down.
+
+					WOMAN'S VOICE
+			Try that again, and we'll start all
+			over -- without the anesthetic.
+
+	Now we see the ITV (interactive television) system. One screen shows
+	the Earth-based surgeon, who wears a camera-helmet and electronic
+	gloves. His surgical moves are being mimicked here by the robotic
+	arms.
+
+					STYLES
+			Oh, for shit's sake...
+
+	On the ITV screen, we see the surgeon picking up closure clamps...
+
+	And then we see the robotic hands using identical clamps to close the
+	incision.
+
+					SURGEON
+			Closed...
+
+	On the ITV screen, the surgeon selects an aerosol canister...
+
+	And then the robot sprays the surgical site with quick-dry fluid.
+	Clamps are removed. The incision holds perfectly.
+
+					SURGEON (CONT'D)
+			...and sutured.
+
+	The surgeon ungloves. The robotic arms go limp.
+
+					SURGEON
+			Gotta run, Packard -- they're
+			waiting for me on the front nine.
+			Credit my account?
+
+					WOMAN'S VOICE
+			Done.
+
+	The woman's voice belongs to PACKARD. She strips away surgical
+	draping, tosses Styles fresh coveralls, scribbles on a clipboard.
+	Styles doesn't move.
+
+					PACKARD
+			We don't give lollipops.
+
+					STYLES
+			Maybe I should just lie here. Couple
+			hours.
+
+					PACKARD
+			Isn't necessary. That aerosol skin
+			holds better than scar tissue.
+				(over shoulder)
+			Guard?
+
+					STYLES
+			Hey, doc. Feel like I been chewed up
+			by a wolf and shit over a cliff,
+			okay? Little slack might be in
+			order.
+
+					PACKARD
+			One: I'm a diagnostic physiologist,
+			not a "doc." We don't have "docs"
+			here. They wouldn't be caught dead
+			in a place like this even if the
+			money was decent, which it isn't.
+			Two: I can't afford the time or
+			space.
+
+	She throws back curtains to reveal the infirmary. Daggs can be seen
+	bird-dogging one of the female med-techs.
+
+					PACKARD
+			Guard? Got a throw-back. Writing it
+			up now.
+
+					DAGGS
+				(staying put)
+			Comin'.
+
+	Packard leaves FRAME. HOLD on Styles easing to his feet and dressing,
+	using the time to check out the infirmary. It's cramped and crowded,
+	the med-techs over-worked and underpaid. But to Styles, it looks like
+	Nirvana.
+
+	Now he assesses Packard, spotting her inside a glass office. Not as
+	old as he first thought. Not as tough as she thinks. And not at all
+	hard on the eyes.
+
+76	INT. PACKARD'S OFFICE - INFIRMARY
+
+	Packard sorts through a blizzard of paper-work, searching for...
+
+					PACKARD
+			Transfer forms...
+
+					STYLES
+			Mean these?
+
+	He's in the office, holding the forms. Packard gives him a wary look,
+	then accepts the forms without comment. Now she pats around for a pen.
+	Styles finds one behind her ear. Another look. Going with the
+	charming-bastard approach:
+
+					STYLES
+			I know what you're thinking. "How
+			did I ever get along without this
+			guy?"
+
+					PACKARD
+			Try again.
+
+					STYLES
+			"This guy could be a big help around
+			here. I should get him reassigned."
+
+					PACKARD
+			What's the scam here? Just tell me
+			up front, and we'll both save time.
+
+					STYLES
+			No scam. Just occurred to me out
+			there that you could use another
+			grunt and I could use another job.
+
+					PACKARD
+			We used to use prisoners. They stole
+			everything but the ceiling.
+
+					STYLES
+			Gimme a throw. I'm a handy guy.
+
+					PACKARD
+			That's the problem.
+
+	Daggs enters. He gives Styles a world-class scowl.
+
+					DAGGS
+			She tell you to come in here?
+
+					STYLES
+				(to Packard)
+			Last chance to dance.
+
+	Packard gives him a final appraisal. Then to Daggs:
+
+					PACKARD
+			Get this asshole out of here.
+
+77	INT. INFIRMARY
+
+	Leg-irons clamp around ankles. TILT UP as Daggs, finished chaining
+	Styles, pulls him toward the door. A CRASH turns them back.
+
+	MED-TECH #1 dropped a rack of vials. He starts to clean up the mess,
+	but someone lifts him to his feet. Packard.
+
+					MED-TECH #1
+			Sorry. Just slipped.
+
+	She checks his eyes. His pupils look like olives.
+
+					PACKARD
+			You're gone.
+
+					MED-TECH #1
+			Whaddya mean?
+
+					PACKARD
+			Transferred. Hydroponics, custodial,
+			anywhere but here.
+
+	Daggs heads for the door. It's not their problem.
+
+					MED-TECH #1
+			Hey, look, it was just an accident,
+			okay. Coulda happened to --
+
+					PACKARD
+			You're glassed out. You been in the
+			drugs. Christ, I don't believe you
+			people. You're no better than the...
+				(a new thought)
+			Guard.
+
+	Daggs turns.
+
+					PACKARD
+			Unhook him. I'll put him to work
+			here.
+
+					DAGGS
+			Who? Him?
+
+	He swaps looks with Styles. They're equally surprised.
+
+					DAGGS
+			Don't think the captain's gonna go
+			for it. This guy's --
+
+					PACKARD
+			I'll square it with the captain. You
+			just unhook him.
+				(to med-tech)
+			At least I know I can't trust the
+			prisoners.
+
+	She moves to Styles.
+
+					PACKARD
+			All right, you want a new job? You
+			got one.
+
+78	INT. INFIRMARY
+
+	At a work-station, Styles is doing a biopsy on a dark pasty substance.
+	He views it under a magnifier.
+
+	STYLES' POV: of a wormlike parasite.
+
+	On a chart, Styles checks "positive" under the heading "Kennel B, Dog
+	#12." With a resigned sigh, he disposes of the first stool sample and
+	unwraps another.
+
+					MED-TECH #2 (O.S.)
+			Hey, hey, lookit here...
+
+	Styles turns. Med-tech #2 is at a monitor, which shows an external
+	view of the station. A ship is at the docking port.
+
+					MED-TECH #2
+			Water tanker's in.
+
+					MED-TECH #3
+			'Bout time.
+
+					REED (O.S.)
+			Showers on me, bartender. All the
+			way around.
+
+	Carrying a sealed package, REED enters. He's young, bookishly
+	handsome, fancies himself a cocksmith.
+
+					PACKARD
+				(eyeing package)
+			For me?
+
+					REED
+			Hand-delivered, please note.
+
+	Packard opens the package. Medicine.
+
+					REED
+			Pullin' a late one tonight?
+
+					PACKARD
+			Out of here as soon as I inventory
+			this stuff.
+
+					REED
+			Why not stop by? You can fix us
+			dinner.
+
+					PACKARD
+			Try Hockmeyer. She's young and
+			easily impressed. Might even know
+			how to cook.
+
+					REED
+			Tellin' me you don't know the way to
+			a man's heart, Packard?
+
+					PACKARD
+			Through his veins, last I looked.
+
+	She inventories. Reed wanders the infirmary, checking things out. He
+	comes to a stop behind Styles.
+
+					REED
+			Are you doing what I think you're
+			doing?
+
+					PACKARD
+			Ten grams of Indapamide? I ordered
+			fifty. And where's my Cloxacillin?
+
+					REED
+			Had a problem with the fermentation
+			tanks.
+
+					PACKARD
+			Tell me something, Reed. Why is it,
+			if we have an on-site pharmaceutical
+			lab, that I have to beg for
+			medicine? I mean, just out of idle
+			curiosity.
+
+					REED
+				(to Styles)
+			Least she's beggin' for something.
+
+	He slaps Styles on the back -- right on the surgical site.
+
+					REED
+			Make it up to you next week,
+			Packard. One way or another.
+
+	He leaves. Packard shakes her head.
+
+					PACKARD
+			This place...
+
+79	INT. CORRIDOR OUTSIDE P-4 LAB
+
+	Back in chains, Styles is being transported by Daggs. Packard walks in
+	the same direction, scanning paperwork.
+
+					STYLES
+			So how'd you wind up with this job?
+			If you're not a doctor?
+
+					PACKARD
+			I applied for sewer superintendent,
+			but all the openings were taken.
+				(tired of reading)
+			How's the back?
+
+					STYLES
+			Okay. 'Til whats-his-nuts showed up.
+
+					PACKARD
+			Reed?
+
+					STYLES
+			Friend of yours?
+
+					PACKARD
+			Biochemist. Brilliant guy, really.
+			Just kind of a sleaze.
+				(nodding ahead)
+			Works in the P-4 lab.
+
+	They near the lab. A P-4 technician appears, placing a hand on a wall-
+	mounted scanner. The door opens. It's the thickness of a bank vault.
+
+					STYLES
+			Serious door.
+
+	Passing, Styles slows to get a look inside. Daggs jerks him away like
+	a dog on a leash.
+
+80	INT. EQUAVATOR STOP - CORRIDOR
+
+					PACKARD
+			I'll file the paperwork. You might
+			not get paid for the first few days.
+			But eventually.
+
+	An equavator arrives. Packard steps aboard. The caged car begins
+	drawing away.
+
+					STYLES
+			Hey. Thanks.
+
+	She looks back but doesn't answer. In a moment the car is gone.
+
+					STYLES
+			So. Think she likes me?
+
+					DAGGS
+			She wouldn't piss on the best part
+			of you.
+
+81	INT. CELL BLOCK
+
+	In lockdown lighting.
+
+82	INT. ABORIGINE'S CELL
+
+	The Aborigine paints his wall in the dark.
+
+83	INT. X-RAY'S CELL
+
+	X-Ray finishes a cup of water.
+
+84	INT. HIKER'S CELL
+
+	The Hiker removes his motorized backpack for the night.
+
+85	INT. DOMINGO'S CELL
+
+	Domingo climbs onto the upper bunk. He tosses a moment, thinking about
+	the woman below him.
+
+					DOMINGO
+			Hey.
+
+	No answer. Domingo leans over the side.
+
+					DOMINGO
+			Hey.
+
+	Kiryu looks up.
+
+					DOMINGO
+			Good night.
+
+	She gives him a look. "That's the stupidest thing I've ever heard a
+	human being say." Domingo gives up and lies back down. A long beat,
+	and then:
+
+					KIRYU
+				(begrudgingly)
+			'Night.
+
+86	INT. BOTTOM TIER
+
+	The tier dog lies on the walkway, resting but not asleep. Soon its
+	head lifts, hearing something. It's a faint SCRAPING-CLAWING.
+
+	Beneath the walkway grating lies the jungle of conduit. Like a living
+	shadow, something down there moves.
+
+	Hackles rising, the dog turns and skulks up the stairs. It wants no
+	part of this.
+
+87	INT. HIKER'S CELL
+
+	Hiker wakes suddenly -- and doesn't know why. He rolls over to see...
+
+	A hole in the cell floor. Pried open at a seam.
+
+	Silently, Hiker detaches a metal rod from his backpack. Now he finds a
+	mirror and leans out of the bunk to angle the mirror over the hole. He
+	sees...
+
+	Inside the hole. There's only blackness.
+
+	Hiker slithers off the lower bunk and drags himself closer.
+
+88	INT. MACHINERY LEVEL
+
+	The VIEW PEERS UP through the hole as Hiker peers down. And only now
+	do we see the thing behing him -- the dark coiled mass that clings
+	spiderlike to a ceiling corner.
+
+89	INT. HIKER'S CELL
+
+	A tail whips through the air, noosing around his neck. Hiker gurgles
+	a scream as the tail rears him back...
+
+	And body-slams him into the ceiling.
+
+90	INT. X-RAY'S CELL
+
+	Fluids spatter X-Ray's face. He wakes to see in the next cell...
+
+91	INT. HIKER'S CELL
+
+	Hiker's body splashing against the ceiling.
+
+92	INT. STYLES' CELL
+
+	A CRY. Styles is on his feet, moving to the bars, looking out. Can't
+	see much in the dark. Just movement. Fast, horrid, lethal.
+
+93	INT. CELL BLOCK
+
+	In QUICK PUMMELING SHOTS:
+
+	X-Ray screaming.
+
+	The Rogue Alien turning. Spotting a new target.
+
+	X-Ray realizing he's next.
+
+	Hiker being dropped to floor. Boneless.
+
+	Rogue Alien smashing into side bars. Over and over. Trying to get at
+	X-Ray.
+
+	Inmates calling for help. Others waking.
+
+	Steel piston moving. Guard house dropping. Spotlights sweeping tiers.
+
+	Rogue sizing up bars. Then making an OMINOUS CLATTERING SOUND as its
+	exoskeleton begins moving, plates unhinging, shifting, collapsing.
+	Rogue reshaping itself -- then, impossibly, passing through the bars.
+
+	X-Ray falling silent. Stunned.
+
+	The Rogue snapping back into shape, rehinging in one tremendous body-
+	flex. And now attacking.
+
+	Blood dancing on air.
+
+	Rogue attacking.
+
+	Entrails spilling.
+
+	Attacking. Attacking. Attacking.
+
+94	INT. BOTTOM TIER - CELL BLOCK
+
+	The guard house finally bottoms out. Spotlights find...
+
+					STYLES
+			Over there! Other side, other side!
+
+	Lights whirl around the tier. The cells there are red. And empty. And
+	quietly dripping.
+
+95	INT. MACHINERY LEVEL
+
+	Flashlight beams probe machinery. SHOTS of huge gears. Pistons.
+	Conduit. And the first sign of blood.
+
+	Guards with dogs track the blood through the machinery level, the
+	bowels of the station. The trail leads to...
+
+	A utility shaft. In better light, we see the faces of these Special
+	Service guards, a.k.a. the Shit Squad. It's a ragged but tough-ass
+	crew of men and women who will do just about anything for time-and-a-
+	half.
+
+	Their BOSS looks down the shaft. It narrows and turns, hiding its
+	other end.
+
+					BOSS
+			Right Nut. Get a reading.
+
+	RIGHT NUT shoulders to the front, aims an Echo Location Gun (E.L.G.)
+	down the shaft and pulls the trigger.
+
+96	INT. UTILITY SHAFT
+
+	Small sonic grenades DETONATE, blinding us.
+
+97	INT. MACHINERY LEVEL
+
+					RIGHT NUT
+				(reading display)
+			Clear, Boss.
+
+	Guards trade glances. Does that mean it got away? Or does that mean
+	they have to go down there?
+
+					BOSS
+			Let's get a deeper reading.
+
+98	INT. UTILITY SHAFT
+
+	Right Nut climbs down -- and one look at his face tells us he hates
+	this gig. He reaches the twist where the shaft becomes a tunnel. Beams
+	his light. Sees nothing. Crawls ahead to reach...
+
+	A juncture. Here the tunnel splits into two passages. Right Nut points
+	the E.L.G. down a passage and FIRES.
+
+	CLOSE on the gun's display-screen. We can "see" the sonic grenades
+	detonate. They show clear tunnel.
+
+	Right Nut turns and FIRES down the other passage.
+
+	A bogey registers. It's far ahead and moving away. But it's there.
+
+					RIGHT NUT
+			Shit.
+
+	He deliberates -- then makes the wisest decision of his young life.
+
+99	INT. MACHINERY LEVEL
+
+					RIGHT NUT
+			Clear, Boss. Nothing down there.
+
+	Other guards help him out of the shaft.
+
+					BOSS
+			Awright, someone get a torch. Seal
+			this thing up tight as a 12-year-
+			old. Left Nut, pick a dog and kill
+			it. Then drag it around the cell
+			block so they all see.
+
+	Guards deploy. Boss turns back to Right Nut -- and his face wonders if
+	the tunnel really was clear.
+
+100	EXT. SPACE STATION - DAY
+
+	In hard morning light.
+
+101	INT. BOTTOM TIER - CELL BLOCK
+
+					BLOCK VOICE
+			Doors opening. Stand clear. Doors
+			opening.
+
+	Throughout the block, cell DOORS CLATTER open. The new inmates shuffle
+	out, glancing furtively at the two cells now curtained off with tarps.
+	Sounds of RECONSTRUCTION.
+
+	Inmates move for the stairwells. Styles slows as he passes the
+	Aborigine's cell -- and looks at what he tried to see the night
+	before.
+
+	STYLES' POV: The cave drawings. Stylized and crude. But the beast
+	portrayed is, to Styles' eyes, alien. To our eyes, it is unmistakably
+	Alien.
+
+					STYLES
+			Some bad craziness here...
+
+102	INT. CORRIDOR
+
+	Chained together, lines of inmates are being herded off to work. Daggs
+	falls in step beside Styles.
+
+					STYLES
+			So what is it?
+
+					DAGGS
+			What's that?
+
+	Just a look trom Styles.
+
+					DAGGS
+			Heard it was a rabid dog. Got loose
+			of the kennel and was living under
+			the cell block.
+
+					STYLES
+			A dog? That comes through the floor?
+			That sound right to you, Daggs?
+
+					DAGGS
+			Only know what I hear.
+
+					STYLES
+			But do you believe what you hear?
+
+					DAGGS
+			I believe it's time to shit-can all
+			these questions.
+
+103	INT. INFIRMARY
+
+	Styles at his work-station. Instead of stool samples, he's checking
+	paperwork. He turns upon hearing...
+
+					PACKARD (O.S.)
+				(to med-tech)
+			...hook up the Doppler probe to his
+			pulse points. Oh, and rehydrate some
+			blood. Four units.
+
+	Packard strides in, attending a patient on a gurney. The patient goes
+	to the telesurgery berth. Packard goes to the terminal in her office.
+
+104	INT. PACKARD'S OFFICE - INFIRMARY
+
+					STYLES
+				(entering)
+			Been checking these records, these
+			kennel histories. There's not one
+			reference to --
+
+					PACKARD
+			Away, Styles.
+
+					STYLES
+			I'm talking about last night.
+
+					PACKARD
+			I don't know about last night.
+
+					STYLES
+			You didn't hear?
+
+					PACKARD
+			What'd I just say?
+
+					STYLES
+			Two inmates died. In the cell clock.
+
+					NURSE
+			Doctor's office.
+
+	A downworld NURSE has appeared on the terminal screen.
+
+					PACKARD
+			Packard here, resident D.P. up on
+			Moloch. I have a patient, multiple
+			perforations from a stitch rifle,
+			extensive arterial damage, now being
+			prepped for telesurgery.
+
+					NURSE
+			I'm sorry, but Dr. Gibson gave me
+			strict instructions not to --
+
+					PACKARD
+			I'm not listening. She's the
+			vascular surgeon on call, so find
+			her and have her on-line in 15
+			minutes.
+
+	Disconnect.
+
+					PACKARD
+			Take it back. Did hear. Something
+			about a rabid dog.
+
+					STYLES
+			What about the bodies?
+
+					PACKARD
+			What about 'em?
+
+					STYLES
+			Have you seen them?
+
+					PACKARD
+			Why would I? Said they were dead,
+			didn't you?
+
+					STYLES
+			Just thought...
+
+					PACKARD
+				(annoyed)
+			This isn't a hospital, Styles. It's
+			a repair shop. Replace a valve,
+			patch a leak, check the levels and
+			get 'em back on-line. It they're
+			dead, that's that. They get shipped
+			downworld somewhere.
+
+					STYLES
+				(showing records)
+			Look. Not one case of rabies in
+			three years. How's a dog gonna get
+			it? It's contagious, isn't it? From
+			bites? So how's one dog gonna get
+			rabies if none of the others have
+			it?
+
+					PACKARD
+			Probably from an inmate.
+
+105	INT. INFIRMARY
+
+
+	She exits the office and moves for telesurgery. Styles stays with her.
+
+					STYLES
+			What is it? You afraid to find out?
+			Or you just don't care?
+
+					PACKARD
+			Nobody is here because they "care."
+			We're all trying to qualify for a
+			stress-disability pension and get 40
+			percent base-salary for life. Him,
+			her, me, all of us. Get it?
+
+					STYLES
+				(loaded)
+			Yeah. Guess I do.
+
+					PACKARD
+			It's a Company world, Styles. And
+			I'm just one citizen.
+
+106	EXT. SPACE STATION - DAY
+
+	Buoys flash yellow. Soon the drone ship appears -- a sleek surface-to-
+	orbit limousine with stubbed wings and needled nose. It shows the
+	corporate logo of Weylan-Yutani.
+
+107	INT. UPPER-LEVEL CORRIDOR
+
+					STATION VOICE
+			Company drone ship docking...
+
+	The captain of the guards is striding quickly for the docking port.
+
+					STATION VOICE
+			Drone ship docked.
+
+					CAPTAIN
+			Shit.
+
+	He breaks into a trot.
+
+108	INT. DOCKING PORT
+
+	Twin airlocks here, a large one for cargo, a smaller one for
+	personnel. The captain enters just as the latter is FLOODING WITH AIR.
+	A door lifts open to reveal...
+
+	One man. Amerasian. Flawless business attire. Black-hole eyes that
+	absorb everything and reflect nothing.
+
+					CAPTAIN
+			Mr. Lone. Warden's in conference,
+			otherwise she would've been down
+			here to meet you personally, but she
+			asked me to make sure you get...
+
+	LONE brushes past the captain...
+
+109	INT. UPPER-LEVEL CORRIDOR
+
+	...and strikes off on his own. The captain catches up. Nearing a
+	junction, he tries to steer Lone to the right.
+
+					CAPTAIN
+			Quarters this way, Mr. Lone. I know
+			how confusing this place can be.
+
+	But Lone, knowing precisely where he is, steps aboard an equavator and
+	departs to the left. The captain SWEARS and hits an intercom.
+
+					CAPTAIN
+			Made a course-correction on us. He's
+			inbound on Level Ten.
+
+					WARDEN (V.O.)
+			The P-4 lab?
+
+					CAPTAIN
+			Where else?
+
+110	INT. CORRIDOR OUTSIDE P-4 LAB
+
+	CLOSE on Lone's hand, held flat to the doorside scanner. PULL BACK as
+	the vault-like door opens to admit him.
+
+111	INT. REED'S OFFICE - P-4 LAB
+
+	Reed is at his desk, feet up, gene-schematics laid over his face. An
+	assistant, MOHL, enters nervously.
+
+					MOHL
+			Uh, Mr. Reed...
+
+					REED
+			Don't bother me. I'm having a sexual
+			fantasy.
+
+					MOHL
+			It's him. Mr. Lone. He's here.
+
+	Reed springs to his feet.
+
+112	INT. CONTROL ROOM - P-4 LAB
+
+	CLOSE on a monitor. We're watching a video replay, "BREACH TEST 12/C."
+	The video has been heavily processed with reference markers, time-
+	frame counters, overlay graphs. But beneath all that lurks an Alien.
+	It's outside the mock-up bunker, looking for a way in.
+
+					REED (O.S.)
+			Here. 1:37. It finds the seam.
+
+	VIDEO VIEW of the Alien clawing at the chink between the bunker's pre-
+	form panels.
+
+					REED (O.S.)
+			It knows that's the weak point.
+
+	VIDEO VIEW of the Alien lunging, ramming the spot.
+
+					REED (O.S.)
+			And now it's making its breach.
+
+	VIDEO VIEW cuts to the bunker interior. The Alien is breaking through
+	to attack Ivory. Just when we think we'll have to see it all over
+	again, the monitor dies.
+
+					REED
+			Inside at 2:06 -- 29 seconds to
+			breach standard, non-pressurized
+			walling. Efficient but crude. It's
+			not my favorite monoclone.
+
+	Nodding agreement, Lone turns to a ceiling-tall chamber, a room within
+	this room. It's paneled with dark windows.
+
+					MR. LONE
+			On the other hand...
+
+					REED
+			We have this. Mohl?
+
+	Mohl lowers the room lights and raises the chamber lamps. And now we
+	see it:
+
+	A synthetic womb floats in a cradle of zero-gravity, fed by umbilicus.
+	It gives us the creeps just looking at it, but not Lone. He moves
+	closer. Translucent areas of the womb form glazed windows. Lone
+	squints, trying to see through. Suddenly the womb spasms.
+
+					REED
+			Just a reaction to the light. We're
+			trying to slowly brighten its
+			environment to minimize birth-
+			trauma, but...
+
+	The womb jerks again.
+
+					REED
+			But it really prefers the dark.
+				(to Mohl)
+			Photoacoustic.
+
+	Mohl brings the chamber lamps down, then activates the photoacoustic
+	equipment.
+
+					REED
+				(tapping monitor)
+			Here.
+
+	The screen shows a false-colored image of the thing within the womb.
+	Coiled, knotty-spined, long-headed, we recognize it as Alien. Or
+	something akin.
+
+					REED
+			Kind ot pretty, hmm?
+
+	Clearly, Lone agrees: He taps playfully on the glass of the monitor,
+	reminding us of a father at the window or a nursery. Seemingly in
+	response, the colorful life-thing twitches.
+
+					MR. LONE
+			How much longer?
+
+	The door opens for the captain and warden. Lone ignores them a moment.
+
+					REED
+			We're tracking cell-sloughage, and
+			if there's any correlation between
+			this one and earlier copies...
+
+	He looks to Mohl, the human notebook.
+
+					MOHL
+			220 hours of gestation.
+
+					REED
+			Roughly eight days.
+
+					MR. LONE
+				(now including warden)
+			And the next scheduled execution?
+
+					WARDEN
+			19 days.
+
+					MR. LONE
+			So other than a scheduling problem,
+			we have no snags?
+
+	Nervous eye-flicks between the warden, captain, Reed. "Does he know?"
+
+					WARDEN
+			If Reed says we're on schedule, then
+			I'd have to agree.
+
+					MR. LONE
+			What of our dog? Our rabid one?
+
+	Headaches all the way around. "He knows."
+
+					WARDEN
+			We're, uh, taking care of that
+			situation.
+
+					MR. LONE
+			It's dead, then?
+
+					REED
+			If it's not yet, it will be soon --
+			all monoclones are short-lived to
+			make sure they're sterile. Suicide
+			gene kicks in after 30 days.
+			Roughly.
+
+					CAPTAIN
+			In the meantime, it seems to be
+			localized to the cell block. Which,
+			obviously, is segregated from the
+			rest of the station.
+
+					MR. LONE
+			If it is, how did it get there? And
+			if it did, what's to prevent it from
+			finding its way back?
+
+	Good questions. No answers.
+
+					MR. LONE
+			I don't think it's in the company's
+			interest to engage in further
+			denial. We have a decontained
+			biohazard. Let's deal with it
+			quickly and smartly...
+				(to Reed)
+			Before we all wind up "roughly"
+			dead.
+
+113	INT. CORRIDOR - ADMINISTRATION LEVEL
+
+	On the move:
+
+					CAPTAIN
+			I'll be down in Special Services.
+			See what Boss can come up with.
+
+	Captain splits off. Lone and the warden reach an office, and the
+	warden hand-scans the door open. Lone enters first...
+
+114	INT. WARDEN'S OFFICE
+
+	...and moves behind the desk. It bugs the warden.
+
+					MR. LONE
+			Desk, departure time for next deep-
+			space transport out of Gateway.
+
+					DESK VOICE
+			22:50 tonight.
+
+					MR. LONE
+			Desk, reserve passage for one.
+
+					WARDEN
+				(thinly veiled)
+			You're not staying? I was hoping
+			that you could.
+
+					MR. LONE
+			I can and am. The reservation is
+			yours.
+
+					WARDEN
+				(realizing)
+			You can't fire me. I'm on a
+			perpetual contract.
+
+					MR. LONE
+			True. But you can be reassigned in
+			cases of gross incompetence. And I
+			think you've qualified splendidly.
+
+					WARDEN
+			Because some lab worker flushed
+			something down a drain? Let
+			something slip out under the door?
+			For that I'm responsible?
+
+					MR. LONE
+			No. For trying to keep it from me.
+				(scanning terminal)
+			I see here there's a position on New
+			Arcticus that requires an employee
+			of your standing...
+
+					WARDEN
+			Arcticus? That's twenty months in
+			hypersleep.
+
+	He fixes her with those shark-black eyes.
+
+					MR. LONE
+			But only ten one way.
+
+	The warden understands. Understands that Lone doesn't have to make
+	this a round-trip ticket.
+
+115	INT. PACKARD'S CABIN
+
+	The room is spartan, not so much furnished as equipped. Few personal
+	knick-knacks. VIEW FINDS Packard slumped in a chair, reviewing
+	paperwork her mind isn't on. Finally she pulls out what she's really
+	thinking about -- the kennel histories. She pages through. Then dials
+	a terminal.
+
+					DESK VOICE
+			Warden's desk.
+
+					PACKARD
+			She in?
+
+					DESK VOICE
+			I'm sorry. Warden Wells is on
+			administrative leave.
+
+					PACKARD
+			For how long?
+
+					DESK VOICE
+			Indefinitely.
+
+					PACKARD
+			And no one told us? I don't believe
+			this. Who's in charge?
+
+					DESK VOICE
+			Mr. Lone has temporarily taken over
+			operations.
+
+					PACKARD
+				(halr-recognizing)
+			Lone?
+
+					DESK VOICE
+			Is there any message?
+
+					PACKARD
+			No. No message.
+
+	Disconnect.
+
+					PACKARD
+			This place...
+
+	A beat, then she calls up the corporate directory to run a name. The
+	screen fills with a videograph of Lone. Packard scans the sidebar
+	information -- and finds the words "Bio-Weapons Division."
+
+116	EXT. SPACE STATION - NIGHT
+
+	With the moon as a backdrop.
+
+117	INT. HIKER'S CELL
+
+	The tarps are gone. The cell has been patched, painted, repaired. The
+	only sign of its former occupant is the metal backpack rod that Styles
+	finds in a corner.
+
+					STYLES
+			Just needs a vacancy sign...
+
+	The sink faucet drips. Styles shuts it off. Then with a thought, he
+	squeaks it back on. WATER RUNS beneath the floor.
+
+					BLOCK VOICE
+			Lockdown. 30 seconds to lockdown.
+
+118	INT. BOTTOM TIER - CELL BLOCK
+
+	Tracking the water, Styles exits the cell. The pipes are visible under
+	the grated walkway. They merge with a larger duct that bores through
+	the heart of machinery level.
+
+					BLOCK VOICE
+			Lockdown. 20 seconds to lockdown.
+
+	Styles kneels and inspects the walkway grating. Some of the joints
+	look rusted. Vulnerable.
+
+					BLOCK VOICE
+			Lockdown. 10 seconds to lockdown.
+
+					VAN BRUNT
+				(calling from cell)
+			Styles?
+
+	Styles looks up -- and realizes he's on the wrong side of the tier. He
+	kicks it into high gear...
+
+119	INT. STYLES' CELL
+
+	...and enters as the cell door begins closing. Spinning, Styles holds
+	the backpack rod lengthwise in the path of the closing door. The door
+	clamps down on the rod. We hear other DOORS SLAMMING SHUT -- but the
+	backpack rod, shivering under the strain, seems like it might hold the
+	door at bay.
+
+					BLOCK VOICE
+			Lockdown complete.
+
+	The rod explodes. Shrapnel nearly decapitates Van Brunt. The DOOR
+	CRASHES SHUT.
+
+					VAN BRUNT
+			wish I could find a blade that would
+			shave that close.
+
+					STYLES
+			Stronger. Just a little stronger.
+
+120	INT. CELL BLOCK
+
+	In lockdown lighting.
+
+121	INT. DOMINGO'S CELL
+
+	START on the lower bunk, empty. MOVE to the upper bunk. We find Kiryu
+	here, naked and asleep, her head pillowed on Domingo. He's wide awake.
+	Listening. Standing guard for them both.
+
+	Something grabs his leg. Domingo lunges with his shank. It nearly
+	cuts...
+
+	Grimes, his hand snaking back through the side bars.
+
+					GRIMES
+			Little jumpy, huh?
+
+122	INT. THREE CELLS
+
+	A midnight meeting: Styles and Van Brunt stand at the side bars of
+	their cell, looking past Grimes to confer with Domingo and Kiryu in
+	the cell once-removed.
+
+					STYLES
+			Having second thoughts about this
+			place -- an' to tell the truth,
+			they're the same as my first ones. I
+			want to make a move.
+
+					DOMINGO
+			Let's do it. Tomorrow. Go up top,
+			find that little skag-ass bellhop
+			and grab his cell so's we --
+
+					STYLES
+				(shaking head)
+			I want out, Domingo. The Big Out.
+
+123	PREPARATIONS MONTAGE
+
+	In a collage of fast-moving SHOTS, we see preparations for the
+	breakout:
+
+	A.	Foundry. End of shift. Kiryu is getting paid, a guard counting
+		coins into her palm. The guard fails to notice the metal-weave
+		bracelet on her wrist.
+
+	B.	Cell. Kiryu unwinds the bracelet. It's made of pilfered wire,
+		yards of it.
+
+	C.	Bottom tier. Beneath a staircase, Styles uses the wire to saw
+		the joints of the floor grating.
+
+	D.	Cell. A sink faucet, untended, runs water.
+
+	E.	Bottom tier. Domingo saws on the grate. A joint is severed.
+
+	F.	Cell. After lockdown. Styles watching the tier dog prowl beyond
+		the bars.
+
+	G.	Upper tier. Van Brunt buys shower caps from black inmates.
+
+	H.	Cell. Van Brunt and Kiryu pick glow-worms off the ceiling,
+		collecting them in the plastic caps.
+
+	I.	Cell. The sink faucet runs endlessly.
+
+	J.	Cell. Styles saws the ends off the broken backpack rod,
+		fashioning pieces of equal length.
+
+	K.	Bottom tier. Domingo lifts the cut-out panel free of the
+		grating. The hole leads straight down into the machinery level.
+
+	L.	Cell. The water from the faucet finally begins to dwindle.
+
+124	INT. STYLES' CELL
+
+					BLOCK VOICE
+			Lockdown. Ten seconds to lockdown.
+
+	The cell door moves to within a foot of closure -- then stops, blocked
+	by a new rod. It's three sections of rod wired together into one thick
+	bundle of steel. We hear the OTHER DOORS SLAMMING CLOSED.
+
+					BLOCK VOICE
+			Lockdown complete.
+
+	Straining to close, the cell door GROWLS. Shudders. WHINES. And then,
+	with a SHATTERING CRACK, it surrenders. Styles appears -- and slides
+	the cell door open as easily as if he were stepping onto a patio.
+
+125	INT. BOTTOM TIER - CELL BLOCK
+
+	Morning. Prisoners file for staircases. The new inmates huddle at the
+	walkway railing, sizing up the water duct below.
+
+					STYLES
+			What about it?
+
+					GRIMES
+			It goes down, man. And down is
+			where the what-the-fuck lives.
+
+					STYLES
+			But it's gotta go back up. Water
+			tanker comes in at the docking port,
+			Level Ten.
+
+					GRIMES
+			Yeah? Says who? I never seen no
+			tanker. We're takin' your word for
+			everything here. I mean, why the
+			shit should we listen to you? How
+			cum nobody listens to me?
+
+					DOMINGO
+			'Cuz he's smart.
+
+					GRIMES
+			Yeah? He's here, ain't he? How
+			smart's that? And what's he in for?
+			Fraud. Does that tell you something?
+
+					VAN BRUNT
+			Broken out of every other place he's
+			been.
+
+					GRIMES
+			Well, this ain't every other place.
+			An' hey, what about you? Mr. Crash
+			And Burn? You fuckin' turned 49
+			people into ash. Now you're gonna
+			fly us outta here? Hey, this is
+			ratshit. This is a circle-jerk for
+			kamikazes.
+
+					STYLES
+			Okay, Grimes. You're out.
+
+					GRIMES
+			Yeah? Says who?
+
+	Fed up, Styles slap-grabs Grimes by the back of the head and walks him
+	away.
+
+					STYLES
+			What's your sentence, Grimes? 32
+			years or something?
+
+					GRIMES
+			26 with good behavior.
+
+					STYLES
+			Figure 32. Think you can last that
+			long? In the foundry? Or down here?
+			See, Van Brunt I need for a pilot.
+			Domingo I need because he's strong
+			and won't mind snapping necks on the
+			other end if it comes to that. Kiryu
+			I need because Domingo won't come
+			without her. But you, you little
+			turkey neck, the only reason you're
+			plugged in is because I need to keep
+			an eye on that shit-spewin' mouth of
+			yours.
+
+					GRIMES
+			I dunno know, man. I dunno. Why
+			should we rely on you?
+
+					STYLES
+			You don't rely on me. If I go down
+			when we're goin' out, I want you to
+			keep goin'. I want you to crawl over
+			my bloody corpse and get out of this
+			hellhole. Because believe me,
+			Grimes. I'd do the same for you.
+
+	He shoves Grimes back toward the others.
+
+					STYLES
+			When the water goes, we go.
+
+126	INT. HULL SECTION - CORRIDOR
+
+			"HULL-REPAIR PACK -- EMERGENCY USE ONLY"
+
+	Beneath the warning, a blast-pack hangs in a wall recess. Hands jerk
+	the pack away.
+
+	WIDER, we see S.S. guards moving down the corridor with a hand-cart.
+	The cart is stacked high with blast-packs.
+
+127	INT. SPECIAL SERVICES ARMORY
+
+	Boss finishes positioning nozzles of two blast-packs. They've ben
+	integrated into a doorway trap made of welded pipe. Lasers serve as
+	trip-wires.
+
+					BOSS
+			Awright, stand clear.
+
+	S.S. guards back off. Boss unpins a sonic grenade and pitches it
+	through the doorway. Lightning-fast:
+
+	The grenade trips the beams.
+
+	Blast-packs spray from both sides, shooting out a thick hull-patching
+	resin.
+
+	The sonic GRENADE DETONATES.
+
+	The resin catches the explosion, coating and drying it instantly.
+
+	A plate of resin clatters to the floor. A starburst pattern bulges
+	from its center.
+
+					BOSS
+			There's the concept. Figure we got
+			the makin's for a good ten traps.
+			Now let's wipe ass and make it work.
+
+	Guards begin hauling away blast-packs, pipe, welders. Boss steps to
+	his Right and Left Nut.
+
+					BOSS
+			Whaddya think?
+
+					RIGHT NUT
+			Think a grenade's a grenade -- and a
+			"decontained biohazard" ain't.
+
+					BOSS
+			Yead, I know. That's why I had the
+			foundry make these up.
+
+	He opens a munitions box. Inside are needle-rounds for a stitch rifle
+	-- big nasty ones.
+
+					LEFT NUT
+			Oh, fuck me hard, I love it.
+
+					BOSS
+			Four times the normal bore with
+			phophorus-magnesium tips. They'll
+			burn hard and fast, so inboard
+			passages only. Got it?
+
+					RIGHT NUT
+				(digging in)
+			Party favors...
+
+128	INT. CONTROL-ROOM - P-4 LAB
+
+	After hours. The control room is shadowy and quiet.
+
+					MR. LONE (O.S.)
+			I wonder if it knows we're here.
+			Sometimes it moves in a certain way,
+			turning its head as if to look out.
+
+	VIEW FINDS Lone at the window of the cradle chamber, entranced by the
+	artificial womb that rolls around gently inside.
+
+					MR. LONE (CONT'D)
+			It makes me wonder. What it must
+			think. If it does see us.
+
+	Finally he looks to Mohl, seated at a console, working with the video
+	replays.
+
+					MR. LONE
+			Let me know when you have something
+			for me.
+
+	Mohl nods. Lone turns for the door.
+
+129	INT. CRADLE CHAMBER - P-4 LAB
+
+	WOMB'S POV: Of Lone leaving.
+
+130	INT. INFIRMARY
+
+	CLOSE on a monitor. Someone is cycling through daylight views of the
+	station's exterior. The monitor holds on an angle of the docking port.
+
+	Styles is leaning over the monitor. He absently rubs the back of one
+	hand as he concentrates.
+
+					MED-TECH #2
+			Breaking out?
+
+					STYLES
+				(jarred)
+			Huh?
+
+	The med-tech looks closer at his hand.
+
+					MED-TECH #2
+			That rash. Here. Let's try this.
+				(sprays spot with
+				canister)
+			Give it a couple minutes.
+
+	She sets the canister down and leaves. Brow furrowing, Styles sniffs
+	the sprayed area -- and finds something familiar in the smell. He
+	picks up the canister. Checks the contents. Hangs onto it as he heads
+	for Packard's office.
+
+131	INT. PACKARD'S OFFICE - INFIRMARY
+
+	Packard sits at the terminal, back to VIEW. A man's troubled face is
+	seen on the screen. Something's wrong here.
+
+					HUSBAND
+			...waiting for a good time, but you
+			know, there never was any.
+
+					PACKARD
+			You're not renewing the contract, is
+			that it?
+
+					HUSBAND
+			C'mon, Chris, you had to know. We
+			haven't been together in five
+			months. And I'm not saying that's
+			your fault. But I'm down here, and
+			you're stuck up there, and there's
+			just a lot of things going on in my
+			life right now...
+
+	On the screen, a young woman wanders into the BACKGROUND. Hearing
+	conversation, she turns toward VIEW and seems startled to see the
+	husband conversing. Too late, the woman darts away.
+
+					PACKARD
+			Yeah. I can see.
+
+					HUSBAND
+			I, uh, better go. Eikenberry will
+			clean up the legal stuff, if that's
+			okay with you.
+				(no response)
+			Be well, Chris.
+
+	Disconnect. Packard's eyes puddle up. Trying to shake it off, she
+	wipes her face and checks her reflection in the dead screen. There's
+	another face there.
+
+					PACKARD
+				(spinning)
+			Want to try knocking next time?
+
+					STYLES
+			There's no door.
+
+					PACKARD
+			So beat your head against...
+				(apologizing)
+			It's not you, it's just...this
+			place.
+
+					STYLES
+			Didn't know you were married.
+
+					PACKARD
+			Well, you weren't alone.
+
+					STYLES
+			First contract?
+
+					PACKARD
+				(nodding)
+			One five-year.
+
+					STYLES
+			Hey, least you went the distance. I
+			got 17 days out of my three-year.
+
+					PACKARD
+			You were married for 17 days?
+
+					STYLES
+			Two-and-half weeks of Holy Deadlock.
+				(entering, sitting)
+			She was one of these sweet young
+			things that writes you torrid
+			letters while you're in prison.
+			Don't really understand it, but some
+			women just seem attracted to
+			incarcerated men.
+
+					PACKARD
+			Some sick females out there.
+
+					STYLES
+			We got married in prison. I wanted
+			to surprise her with a honeymoon, so
+			I did the Midnight March over the
+			wall. Surprise was on me. She was
+			married to three other guys in three
+			other prisons.
+
+					PACKARD
+				(feeling it)
+			Ohhhh...
+
+	They commiserate in silence. Then Packard stands, getting back to
+	work.
+
+					PACKARD
+			Well. Did you want something?
+
+					STYLES
+				(showing canister)
+			Mind if I take it with me? Just for
+			my hand here.
+
+					PACKARD
+			That's alcohol-based. Could be used
+			for a torch. They aren't going to
+			let you in the cell block with it.
+
+					STYLES
+			They will if you sign for it.
+
+					PACKARD
+			Christ. Why can't you just steal
+			things like a normal prisoner?
+
+					STYLES
+				(leaving)
+			Okay.
+
+					PACKARD
+			Don't you dare.
+				(suspicious again)
+			If I sign, you aren't gonna screw me
+			with this, are you? Because once a
+			day is my personal limit.
+
+					STYLES
+			Would I do that?
+
+					PACKARD
+			If I gave you half a chance.
+
+					STYLES
+			Which you haven't.
+
+	She looks him over, trying to figure him out -- and maybe just now
+	sees the man inside the prisoner. Then with as much vulnerability as
+	she'll ever show:
+
+					PACKARD
+			I have this thing about trust.
+			Betrayal, actually. So just don't
+			lie to me, okay? Not unless you're
+			absolutely sure I'll never find out.
+
+	He smiles winningly. And helps wipe her face dry.
+
+132	INT. INFIRMARY
+
+	Styles and Packard are visible through the office window. PULL BACK to
+	reveal Daggs watching them -- closely. When Styles exits the office...
+
+					DAGGS
+			Hey, sex ape.
+
+	Styles veers closer.
+
+					DAGGS
+			Let me ask you somethin'. Do you
+			give the smallest shit about this
+			lady? Or you just scammin' her?
+
+					STYLES
+			Don't know what you mean, Daggs.
+			Just doin' a job, that's all.
+				(flipping canister)
+			Just doin' a job.
+
+133	INT. STYLES' CELL
+
+	CLOSE on a faucet, sputtering out the last of its water. PULL BACK to
+	reveal Styles and the other new inmates. That's all they were waiting
+	for.
+
+134	INT. CELL BLOCK
+
+	After lockdown. A WHISTLE sounds. Entry doors open. Guard dogs run
+	free.
+
+135	INT. BOTTOM TIER - CELL BLOCK
+
+	The tier dog appears. Nose low, it circles the walkway once and finds
+	nothing irregular.
+
+	CLOSE on two feet. They swing away from the underside of a staircase
+	and drop to the walkway with a soft THUNK.
+
+	Hearing, the dog turns.
+
+	It's Styles. Outside his cell.
+
+	The dog takes off like a guided missile. Styles waits, needing to time
+	this just right. Now he starts running. And just when the dog is about
+	to chew him a second asshole...
+
+	A cell door opens by itself.
+
+136	INT. EMPTY CELL - BOTTOM TIER
+
+	Styles cuts inside. The dog sticks with him. Styles dives through a
+	cut-away area of the side bars, entering the next cell. The dog tries
+	to follow -- but a mattress appears, blocking the hole. The dog turns
+	back for the cell door just as...
+
+	Strands of wire pull it closed.
+
+	The dog is trapped.
+
+137	INT. BOTTOM TIER
+
+	The new inmates exit the adjacent cell. Skulking past, Grimes blows
+	the trapped dog a kiss.
+
+138	INT. UNDER TIER WALKWAY - MACHINERY LEVEL
+
+	As the new inmates drop through the cut-out panel.
+
+139	INT. MACHINERY LEVEL
+
+	Blackness. Then an orb of soft light appears, followed by others: The
+	inmates are taking out shower caps filled with glow-worms.
+
+					STYLES
+			Not. A fucking. Sound.
+
+	They move out.
+
+140	INT. MACHINERY LEVEL
+
+	CLOSE on a laser trip-beam. TILT UP to find Styles pondering the
+	doorway trap. Wanting no part of it, he leads the others around.
+
+141	INT. MACHINERY LEVEL
+
+	Domingo cranks open a hatch atop the main water line. Van Brunt
+	reaches inside to plumb the bottom. His fingers come back...
+
+					VAN BRUNT
+			Dry.
+
+142	INT. WATER DUCT
+
+	Styles leads, followed by Kiryu, Domingo, Grimes, Van Brunt. They
+	crawl, glow-worm bags strung around their necks like brandy kegs. It's
+	tight in here, no room to turn around, and they hate it. Especially
+	Grimes.
+
+143	INT. JUNCTION - WATER DUCT
+
+	A forking junction. Styles doesn't know which way. He mentally flips a
+	coin and veers to the right.
+
+144	INT. WATER DUCT
+
+	Grimes slows to a stop. Is the duct sloping? Or is it just his
+	imagination?
+
+					GRIMES
+			Hey. Styles.
+
+					VAN BRUNT
+			Shut up, man.
+
+					GRIMES
+			Styles. We're goin' down. Shoulda
+			gone the other way, man, shoulda
+			gone left back there at --
+
+	Domingo kicks him in the face.
+
+					DOMINGO
+			Sorry.
+
+	They crawl on, Grimes nursing a bloody lip. But trailing, Van Brunt
+	stops to cock an ear. What was that SOUND? He looks back through his
+	legs to see...
+
+	A long empty tunnel.
+
+	Van Brunt hurries to catch up. HOLD on the emptiness. And now we
+	hear it: It's that SLIDING-CLAWING sound -- the noise that makes our
+	balls want to crawl up in our stomachs and hide there.
+
+145	EXT. SPACE STATION - NIGHT
+
+	As the massive water tanker pilots to a stop just beyond the blockade
+	of red buoys.
+
+146	INT. DOCKING PORT
+
+					TANKER PILOT (V.O.)
+			Moloch Island, this is Tanker
+			WYT/116 requesting permission to
+			dock at Level 10 gantry.
+
+	The DOCKING OFFICER checks the time, shakes her head.
+
+					DOCKING OFFICER
+			Once in his life he's early...
+				(into headset)
+			WYT/116, this is Moloch Island
+			Docking Control. Bring it on in.
+
+147	EXT. DOCKING PORT - SPACE STATION - NIGHT
+
+	As the tanker docks.
+
+148	INT. WATER DUCT
+
+	START on running water, coursing several inches deep along the floor
+	of the duct. MOVE to Styles, taking note of the deepening water before
+	crawling on.
+
+149	INT. VALVE - WATER DUCT
+
+	Styles reaches an oversized butterfly valve. Water gushes out around
+	the edges. He tries to rotate it open but can't.
+
+					STYLES
+			'Mingo.
+
+	Domingo sloshes past Kiryu to join him.
+
+					DOMINGO
+				(indicating water)
+			Shit's gettin' deeper.
+
+					STYLES
+			Noticed.
+
+					DOMINGO
+			Mean what I think it means?
+
+					STYLES
+			Maybe.
+
+					DOMINGO
+			Uh, Kiryu, she don't swim so hot.
+			Just told me. Maybe we should think
+			about, y'know, maybe goin' back.
+
+					STYLES
+			Can't.
+
+					DOMINGO
+			Why not?
+
+					STYLES
+			'Cuz I have no fucking idea where we
+			are. Now push while I burn.
+
+	He unpockets the canister from the infirmary, lights the aerosol. He
+	turns his torch on hinge of the valve.
+
+150	INT. MAIN WATER TANK
+
+	From the other side, we see the valve being bent away. Styles wriggles
+	through first, then sloshes to his feet. He looks around in dreadful
+	wonder.
+
+	A sky of glow-worms illuminates the cavernous grotto. Waterfalls.
+	Tortured outcroppings of secreted resin. Everything wreaks of decay.
+
+	One by one, the inmates enter. All look around with the same thought.
+	"Let's get through here fast."
+
+	Styles eyes the largest waterfall, fed by an conduit near the ceiling.
+	The adjacent wall looks climbable. He starts for it, pushing through
+	hip-deep water.
+
+	Silent, anxious, the other follow. Van Brunt touches an outcropping.
+	Bones interlace the black resin. Human bones.
+
+	Trailing, Grimes hears a SPLASH. He whirls to see...
+
+	A footprint spreading on the water. Did something fall in? Or did
+	something dive in?
+
+	Styles reaches the far side of the pool. Slips out. Waits for the
+	others. Then starts up the wall.
+
+	Skirting the waterfall, the inmates climb.
+
+	Grimes keeps an eye on the water below. Nothing surfaces to give
+	chase. Breathing a little easier, he climbs out of FRAME -- but we
+	HOLD on the waterfall. Beneath its veil of water, a black shadow
+	climbs.
+
+	Styles scales a platform at the head of the waterfall. He turns back
+	to wait for the others, then...
+
+					STYLES
+			Where's Grimes?
+
+					VAN BRUNT
+			Thought he was right...
+
+	They look back down just as...
+
+	Grimes bursts through the waterfall, skewered on the tail of the
+	Rogue Alien. He tries to scream but can only vomit blooded water. As
+	quickly as he appeared, Grimes vanishes.
+
+	A bone-freezing moment. Suddenly Styles leaps into the conduit that
+	feeds the waterfall...
+
+151	INT. OVERSIZED CONDUIT
+
+	...and grabs the ceiling hand-grips. Kiryu, Van Brunt, Domingo come on
+	his ass. Hand over hand, they sling over the quick-moving water,
+	heading upstream. Domingo chances a look back to see...
+
+	The Rogue Alien.
+
+					DOMINGO
+			It's fuckin' comin'!
+
+	Flushed with adrenaline, the inmates pick up the speed, hands blurring
+	over the grips, Van Brunt jungle-gyms past Kiryu: She's having trouble
+	keeping up.
+
+	Styles peers ahead, How much further? How much?
+
+	The Rogue gains.
+
+	Kiryu misses a grip. She breaks her fall but can only hang, arms on
+	fire. Just when it seems she'll drop into the river...
+
+	Domingo catches her from behind, scissoring her in his legs.
+
+					DOMINGO
+			Hold onto me! Hold on!
+
+	Kiryu twines around him. Carrying both weights now, Domingo swings
+	onward.
+
+152	INT. LANDING - OVERSIZED CONDUIT
+
+	Styles reaches a landing -- and the end of the line: A downpour of
+	water falls from an overhead shaft. The conduit terminates here.
+
+153	INT. OVERSIZED CONDUIT
+
+	CLOSE on Domingo's hands, ripped and bleeding.
+
+	Kiryu slips down his body. Now her feet drag in the river, slowing
+	them even more.
+
+	Trying to work different muscles, Domingo switches to a back-handed
+	grab. It doesn't help.
+
+154	INT. LANDING - OVERSIZED CONDUIT
+
+	Van Brunt makes the landing. Looks around. Can't find...
+
+					VAN BRUNT
+			Styles!
+
+	Suddenly he's there, stepping out of the downpour.
+
+					STYLES
+			There's a ladder! Here!
+
+	Van Brunt plunges an arm into the water. Gropes upward. Feels the
+	first rung. Gulps air and vanishes into the downpour. Styles looks
+	back to see...
+
+	The Rogue right behind Domingo and Kiryu. In three seconds they'll
+	be dead. Unless Domingo will...
+
+					STYLES
+			Drop her.
+
+	The Rogue's long bony back slips underwater.
+
+					STYLES
+			Drop her.
+
+	Domingo keeps coming. Kiryu keeps holding on.
+
+					STYLES
+			Drop her, Domingo!
+
+	He never does. Something black rushes up from the water. In a
+	heartbeat, they're both gone.
+
+155	INT. VERTICAL WATER SHAFT
+
+	SHOTS of Van Brunt and Styles climbing. WATER THUNDERS down -- it's
+	like showering under a thousand fire hoses.
+
+156	INT. UPPER-LEVEL CONDUIT ROOM
+
+	An access hatch turns, opens. Van Brunt falls out of the HOWLING
+	WATER. The hatch is part of a duct that runs from floor to ceiling.
+	Moments later, Styles falls into the room.
+
+	They lie on the floor like docked fish, gulping air. They don't know
+	where they are. They only know they're alive.
+
+	Styles makes it back to his feet. Moves to the hatch. Pushes it closed
+	-- but something blocks it open.
+
+	The Rogue's face rages at the crack.
+
+	Van Brunt slams into the hatch, adding his weight -- but still they
+	can't close it. Styles looks frantically around the room, spots a
+	skein of wire.
+
+					STYLES
+			The wire, the wire! Loop it around!
+
+	Van Brunt pushes away from the hatch and runs for the wire.
+
+	CLOSE on the trip-beam he doesn't see. The beam of the doorway trap.
+	The beam he breaks in full stride.
+
+	Blast-packs shoot from all sides. Van Brunt is coated and dried in
+	mid-air.
+
+	Trap ALARMS WAIL.
+
+	Styles stares at the fallen statue that was Van Brunt -- until a jolt
+	from the hatch turns him back.
+
+	The Rogue's leg thrusts through the crack, groping for the floor.
+
+	Styles pushes for all he's worth.
+
+	Am arm sweeps around the hatch, swiping blindly. Styles ducks, dodges,
+	holds his ground.
+
+	CLATTERING SOUND. Piece by piece, the Rogue begins extruding through
+	the foot-wide crack, plates and ribs unhinged. Styles is losing the
+	battle -- and maybe the war.
+
+	The hatch explodes open. Styles flies back.
+
+	The Rogue surges into the room and snaps together with a body-flex.
+
+	Styles turns to run...
+
+	And finds a flame-thrower staring at him.
+
+	He ducks as the S.S. guard pulls the trigger. FLAME ROARS right over
+	Styles' head...
+
+	Engulfing the Rogue.
+
+	More S.S. guards appear, OPENING FIRE with chittering stitch rifles
+	and concussion grenades. Blinding flashes. Streaming trails of
+	phosphorous. Flaming acid.
+
+	Styles hits the deck and covers up.
+
+	Burning needles stitch across the Rogue's neck, severing the head from
+	body. Impossibly, it stays on its feet.
+
+	Acid lands all around Styles, opening gashes in the floor.
+
+	The captain enters. He steps over the Rogue's head to enter the fray
+	-- but the head strikes with its jaws, still alive, hooking the
+	captain's thigh and twisting him down. At close range, the captain
+	empties his stitch gun into the head. Acid brains splash back,
+	covering him.
+
+	Finally the headless Rogue falls.
+
+	The guns go quiet. A long smoky beat. This was, very simply, one of
+	the most hellacious firefights we've ever seen. The room has been
+	blasted into another time zone.
+
+	Styles unballs and looks. The captain lies dead. But dead, too, is the
+	Rogue Alien. It's over. The nightmare is over.
+
+	Suddenly the floor caves in...
+
+157	INT. MORGUE - P-4 LAB
+
+	...crash-landing Styles into the room below. Shaking off
+	unconsciousness, he sees...
+
+	Prisoners. All dead. All inside shrink-wrap membrane. All torn apart
+	in the most hideous fashion imaginable. One face is recognizable as
+	Ivory's.
+
+	And now Styles realizes that, no, the nightmare isn't over. In fact
+	it's just begun.
+
+158	INT. UPPER-LEVEL CONDUIT ROOM
+
+	Bodies and body parts under sheets. Lone is here, standing at the edge
+	of the collapsed floor, looking down into the P-4 morgue. Momentarily
+	he steps through a door to look at...
+
+159	INT. CORRIDOR
+
+	Styles. Back in full chains, pinned to the wall by guards. Lone fixes
+	him with those bottomless black eyes. And then shakes his head as he
+	leaves.
+
+					MR. LONE
+			Snag.
+
+160	INT. ELEVATOR
+
+					STYLES
+			So what's the verdict?
+
+	No answer from Daggs, who rides the elevator down with two S.S.
+	guards.
+
+					STYLES
+			C'mon, Daggs. If they're gonna cash
+			me out, 'least you can tell me.
+
+	Doors open. Daggs lets the S.S. guards exit first.
+
+					DAGGS
+			Let's put it this way. I don't think
+			you'll wanna renew any magazines.
+
+161	INT. SOLITARY CELL
+
+	A coffin of a room. Styles is chained to the wall.
+
+					VOICE
+			Just for future reference. Am I the
+			world-class jerk I feel like? I
+			mean, was I such an easy mark?
+
+	He finds Packard's face staring down from a caged monitor in the
+	ceiling.
+
+					PACKARD
+			They found the canister. The one you
+			used for a torch. Targeted me,
+			didn't you? Right from the top.
+			Christ, I shoulda known better.
+			Years ago, I shoulda known better.
+
+	Styles looks away.
+
+					PACKARD
+			Don't feel anything, do you? Nothing
+			for the ones that died.
+
+					STYLES
+			Me?
+
+					PACKARD
+			Your idea, wasn't it? The escape?
+			Well, I'm told five people are dead
+			today, including the captain of the
+			guards, who --
+
+					STYLES
+			How 'bout you? What do you feel?
+
+					PACKARD
+			Me.
+
+					STYLES
+			I came to you, remember? Tried to
+			tell you that people were dyin'
+			here, dyin' in some bad craziness.
+			And you didn't hear. You didn't
+			wanna hear.
+
+	Packard goes quiet. Smelling her guilt, Styles rises up in his chains.
+
+					STYLES
+			There was this prisoner. Worked in
+			the foundry. They fumed him out two
+			days ago. You musta seen it -- they
+			piped it through this place like the
+			World Fucking Series. Well, guess
+			what? I just saw him, saw him hacked
+			up like something that doubled back
+			through the slaughterhouse.
+
+					PACKARD
+			What is this? Another angle, another
+			scam? You think that if you concoct
+			some --
+
+					STYLES
+			You tell me what it is. Tell me what
+			happened to the half-dozen guys I
+			saw in body bags. And while
+			you're --
+
+	The screen goes dead.
+
+					STYLES
+				(raging)
+			While you're at it, tell me what
+			they're really makin' behind that
+			door, that big fuckin' honker of a
+			door where your pal Reed works. You
+			really think it's drugs? Just drugs?
+
+	The monitor stays dark -- but there's a small red dot visible in an
+	upper corner. Was it there before? Before she appeared?
+
+					STYLES
+			Then I'll tell you. It's hooked up
+			to this thing, this living gargoyle
+			that they tried to slough off as a
+			rabid dog. That's why I was trying
+			to get outta here, Packard -- just
+			to stay alive. Can you understand
+			that?
+
+	Nothing but the red dot. Styles slumps in his chains.
+
+					STYLES
+			I know a lot of these guys are human
+			sludge. Some of 'em should die --
+			and maybe even me, too. Not 'cause I
+			ever killed anyone. But just for the
+			whole shitty mess I've made of life.
+			But hey. Nobody deserves to die the
+			way they do around here. Nobody.
+
+162	INT. PACKARD'S OFFICE - INFIRMARY
+
+	Packard is at her terminal, still staring down at Styles. Still
+	listening.
+
+163	EXT. SPACE STATION - SUNSET
+
+	As the sun is extinguished by Earth, throwing the station into night.
+
+164	INT. CORRIDOR OUTSIDE P-4 LAB
+
+	START on the vault-like door. PULL BACK to include Packard, staring at
+	it. She waits for foot-traffic to clear before laying a hand on the
+	doorside scanner.
+
+			ACCESS DENIED -- UNAUTHORIZED PERSONNEL.
+
+	She didn't think it would be that easy.
+
+165	INT. CARGO ANNEX - DOCKING PORT
+
+	CLOSE on a sheet being pulled back. Beneath is the shrink-wrapped
+	corpse of the captain.
+
+	Packard holds the sheet. She checks over her shoulder to make sure the
+	docking officers can't see. Then she unpockets a scalpel.
+
+166	INT. P-4 LAB
+
+	The vault-like door opens. Packard steps inside, quickly wrapping up
+	the amputated hand. She ventures deeper into the rambling containment
+	facility, seeing...
+
+	Lab animals behind glass...
+
+	Terminal screens with shifting gene maps...
+
+	Automated biochemistry machines -- sequencers, purifiers,
+	synthesizers, fermentation tanks -- all filtering and HUMMING...
+
+	Active culture dishes marked "Viable Clone Material"...
+
+	Small stockpiles of pharmaceuticals being produced. Drugs are being
+	made here, and that seems to placate Packard. Until she spies...
+
+	Another door. At the far end of the lab.
+
+167	INT. CRADLE CHAMBER - P-4 LAB
+
+	WOMB'S POV: Of someone entering. Stopping. Looking around. And
+	stepping closer.
+
+168	INT. CONTROL ROOM - P-4 LAB
+
+	It's Packard. She's peering through the chamber window at the
+	amorphous thing inside. She moves to a console, activates chamber
+	lamps to see...
+
+	The womb. Floating. Spasming.
+
+169	INT. CRADLE CHAMBER - P-4 LAB
+
+	WOMB'S POV: Of Packard leaving the window.
+
+170	INT. CONTROL ROOM - P-4 LAB
+
+	Minutes later. Packard works the terminal, raiding classified files.
+	Many have the division heading...
+
+					PACKARD
+			"Bio-Weapons." Everywhere.
+
+	She enters a "PROGRAM DIRECTIVE" file.
+
+					PACKARD
+				(scanning)
+			"Program Director is charged with
+			determining the feasibility of
+			chemically and/or genetically
+			altering existing xenomorphic
+			species in order to produce a more
+			adaptive, manageable, transportable
+			strain. To this end, Director will
+			avail...
+				(backtracking)
+			"Xenomorphic species..."
+
+	A nervous glance at the artificial womb. Then moving on, Packard
+	plunders the "PROGRAM HISTORY" directory. Videographs flit across the
+	screen. One makes Packard backtrack.
+
+	CLOSER on the screen. "DECEASED" beneath the face of a woman. She
+	seems about Packard's age. But with the too-old eyes of someone who
+	has seen Hell twice -- and returned to talk about it. The woman is
+	Ripley.
+
+	Now Packard notices an open file-box. Videocards. She picks one at
+	random and feeds it into a terminal slot.
+
+	CLOSER. "BREACH TEST #4/B." Fast-forwarding images. Stopping to reveal
+	SCREAMING. A man's face in chaos. He's inside the bunker. Being
+	shredded by an Alien.
+
+					PACKARD
+			Jesus...
+
+	Shaking, she slots a second videocard.
+
+	CLOSER. Another annotated tape of another prisoner's death.
+
+	Packard is about to try a third when a NOISE interrupts. She spins to
+	see...
+
+	Mohl, Reed's assistant. He's climbing a sub-floor staircase -- a
+	staircase that wasn't there a minute ago.
+
+	Packard blanks the terminal and slips behind a bulkhead.
+
+	Mohl throws a switch. A plate in the floor closes, hiding the stairs.
+	He moves to the terminal console.
+
+	Now Packard spots...
+
+	The videocard she didn't put away.
+
+	Checking equipment, Mohl turns his back.
+
+	In one thin second, Packard steps out, slips the card off the counter,
+	retreats to shadow.
+
+	Mohl turns. Did he hear something? He scans the control room -- and
+	notices the exposed file-box. With the press of a button, the file-box
+	withdraws into the console. Mohl keys it shut and leaves.
+
+171	INT. HIDDEN STAIRS
+
+	The VIEW LOOKS UP the stairs as the overhead plate opens. Packard
+	descends cautiously. At the bottom of the stairs is a door. She lifts
+	the unlock-lever to enter...
+
+172	INT. COLD-CORE AIRLOCK
+
+	An airlock. Packard reaches the other end. Peers through a window
+	there but can't see anything. Reaches for the next unlock-lever -- and
+	reconsiders, noticing...
+
+	Thermal suits hanging on the wall.
+
+	Just to be safe, she drags one on. OXYGEN BREATHES into the helmet.
+	Now Packard opens the next door. Instantly her legs are gone, lost
+	amid clouds of super-chilled air that billow into the airlock.
+
+	Stunned, Packard checks the suit's thermo-gauge. Seconds ago normal,
+	now the readout hits minus-175 -- and still plwnmets.
+
+173	INT. COLD-CORE CHAMBER
+
+	Packard holds in the doorvay. Where are the lights? She moves inside
+	to look for controls -- and the door behind her seals, thrusting us
+	into an even deeper dark.
+
+	She waits for her eyes to adjust. Only RESPIRATOR SOUNDS. Finally
+	Packard can read her thermo-gauge. Minus-400.
+
+	Small blinks of machinery become visible. Packard edges to the lights
+	and leans her helmet closer. Some kind of bio-readouts? She touches
+	the panel. A light springs on to illuminate...
+
+	The Alien.
+
+	Packard recoils the width of the room, smashing into more controls. A
+	second light flares on to reveal...
+
+	Another Alien.
+
+	Packard lurches to the door. Gloved hands grope for the unlock-lever.
+	It's not there. BREATHING comes in worthless snatches -- she's
+	suffocating under an avalanche of fear. All she can find is a key-
+	plate, a fucking key-plate.
+
+	Packard wheels back around and braces for the attack. Instead...
+
+	The Aliens haven't moved. Both are encased in glass. Dormant.
+
+	Packard forces calm on herself. Finds the key attached to the suit.
+	Opens the door -- and leaves it open without exiting. Some stabilizing
+	BREATHS. Now she heads back for a closer look.
+
+	The room is a gallery of Aliens. An army of Aliens. All behind glass.
+
+	Dreading it, Packard activates more case lights. Each Alien is
+	slightly different: One is silvery instead of black, a chameleon that
+	blends with its background. Another, the Brute Alien, shows a stockier
+	strain, its exoskeleton toughened with thorns. Another is a Siamese,
+	fused to a partner. Another is a complete abomination, as if mutated
+	with thalidomide.
+
+	There are more. But Packard doesn't have more nerve.
+
+174	INT. HIDDEN STAIRS
+
+	Airlock door opens. Packard loiters inside, rehanging the suit. Done,
+	she turns for the stairs...
+
+	And runs into Mohl. Reed. The S.S. Boss.
+
+175	INT. WARDEN'S OFFICE
+
+					PACKARD
+			Human experimentation has been
+			outlawed for the last 200 years.
+			Longer.
+
+					MR. LONE
+			Clearly. Yet it's arguable as to
+			whether any prisoner died illegally.
+
+	Lone, Reed, S.S. Boss. All seated, all watching Packard prowl the
+	room, struggling with her temper.
+
+					PACKARD
+			How can you say that? I saw the
+			replays. I saw them, Lone.
+
+					MR. LONE
+			What you saw were prisoners who had
+			been sentenced to death. Prisoners
+			this colony was contractually
+			charged with executing.
+
+					PACKARD
+			They didn't die in the gas chamber.
+
+					MR. LONE
+			Yet they died only after their
+			appeals were exhausted, and only on
+			the scheduled day of their
+			execution. Does a few hours delay
+			make such a difference?
+
+	He uses words like surgical instruments. It rankles Packard.
+
+					PACKARD
+			It's not the time, it's the way. The
+			way you're killing them twice.
+
+					MR. LONE
+			Now you're speaking psychologically.
+
+					PACKARD
+			I'm talking morally. Or is that
+			beyond everybody's frame of
+			reference here?
+
+					MR. LONE
+			I prefer to speak legally. While
+			gassing is one method, no single
+			mode of execution is mandated by ICC
+			law. Though we're not eager to
+			publicize any of these goings-on,
+			Ms. Packard, they are probably
+			lawful nonetheless.
+
+					PACKARD
+			Are they really? You've brought a
+			lethal alien strain to within 30,000
+			kilometers of Earth. How many ICC
+			quarantine laws does that violate?
+
+					MR. LONE
+			Oh, probably a dozen. And on those
+			counts, the Company would be willing
+			to pay all fines levied against it,
+			should --
+
+					PACKARD
+			How 'bout this "rabid dog"? How many
+			inmates did it kill? And who's idea
+			was that?
+
+					MR. LONE
+			An industrial accident stemming from
+			the incompetence of an administrator
+			who has already been reassigned.
+			Nothing more to it than that.
+
+					PACKARD
+				(topping out)
+			What the hell are you doing with
+			these things? Why are they even
+			here?
+
+					REED
+			Just feasibility studies, Packard.
+			No big deal.
+
+					PACKARD
+			To study what? How good they kill?
+
+					MR. LONE
+			Company assets are, as you know,
+			many and far-reaching. There will
+			always be a need for defensive
+			weapons.
+
+					PACKARD
+			Excuse me. But what this company
+			really needs is a damn good plague.
+
+	Moving on, Lone scans a personnel file.
+
+					MR. LONE
+			I see you've applied for early
+			retirement, stress pension. I think
+			you've earned it.
+
+					PACKARD
+			No fucking kidding.
+
+					MR. LONE
+			700 surveyed worlds, Ms. Packard,
+			more than 300 owned and operated by
+			Weylan-Yutani. Some of them quite
+			desirable. Just pick your world.
+			I'll make it happen.
+
+					PACKARD
+			And if I don't want to sell out?
+			What then? Do I wind up in one of
+			your replays?
+
+					MR. LONE
+			You seem to be casting about for a
+			villain where there is none. I'm
+			just a businessman, Ms. Packard. And
+			what I'm offering is a business
+			deal. If you stay, you join the
+			team. If your personal value-
+			structure is such that you can't
+			abide the notion, retire.
+
+	Packard locks eyes with him for a long moment -- and then backs down.
+	She pauses at the door.
+
+					PACKARD
+			What happens to Styles? The prisoner
+			in solitary? What happens to him if
+			I leave?
+
+					MR. LONE
+			Let's worry about your future.
+
+176	INT. CORRIDOR - ADMINISTRATION LEVEL
+
+	Packard walks blindly from the office. Reed catches up and falls in
+	step.
+
+					REED
+			It's tough at first, Packard -- but
+			only at first. After awhile, they're
+			just lab animals. You learn not to
+			get attached.
+
+	She walks out from under his arm.
+
+177	INT. PACKARD'S CABIN
+
+					NARRATOR
+			TC/166. Class-M planet with viable
+			terra formed atmosphere and 112
+			percent Standard Gravity. Industrial
+			center for Weylan-Yutani mining
+			operations in the Third Quadrant.
+			Current population of 2,127 -- 67
+			percent male, 30 female, 3 percent
+			other...
+
+	START on the terminal as it spews travel information, the narrative
+	accompanied by images of described worlds. MOVE to Packard. She's
+	dumping personal belongings into a travel case.
+
+					NARRATOR (CONT'D)
+			RY/24. Class-G planet with no viable
+			atmosphere and 86 percent Standard
+			Gravity. Home of Weylan-Yutani's
+			largest deep-space observatory....
+
+	Packard reaches for a bottom shelf. As she does, something slides out
+	of a breast pocket and hits the floor. She picks it up.
+
+	It's the videocard, the one snatched from the P-4 lab. Imprinting
+	reads...
+
+				"E. S. LONE -- EYES ONLY"
+
+	Packard frowns. Did the others have the imprint? She kills the
+	narration and slots the videocard into the terminal.
+
+	CLOSE on the screen. "BREACH TEST 13/A." More edited, annotated images
+	of a prisoner under attack -- only now there's a striking difference:
+	It's happening in the...
+
+					PACKARD
+			Cellblock?
+
+	CLOSE on the screen. The Alien is smashing at bars, trying to get at
+	the man on the other side. The man is X-Ray, and the Alien is the
+	Rogue. Somehow, someone has managed to record this unforeseen attack
+	-- from numerous angles.
+
+					PACKARD
+				(seething)
+			No villains...
+
+178	INT. SOLITARY CELL
+
+	Styles looks up. FOOTSTEPS approach, at least two sets. Are they
+	coming for him? He rises in his chains. Sounds of an UNLOCK MECHANISM.
+	The door opens, pummeling Styles with light. But there, amid all that
+	incandescence, stands an archangel.
+
+					PACKARD
+			That's the one.
+
+					SOLITARY GUARD
+			He looks all right to me.
+
+					PACKARD
+			Hey. If I didn't have to do surgery
+			at this time of night, you think I'd
+			really be here?
+
+179	INT. CORRIDOR
+
+	Styles lies on a gurney, Packard wheeling. Voices low:
+
+					PACKARD
+			They set it loose. Intentionally.
+			They had replays of the whole thing.
+
+					STYLES
+			Reed?
+
+					PACKARD
+			Lone. Lone all the way.
+
+180	INT. ELEVATOR
+
+	Packard shoves the gurney inside. Doors close.
+
+					STYLES
+			Okay, where to?
+
+					PACKARD
+			Docking port. There's an inbound
+			transport. If I timed this right, we
+			can be on it before they know you're
+			gone. He hooks her arm.
+
+					STYLES
+			Hey. You know, I'm not sure I woulda
+			done this for you.
+
+	She stares -- and sees that he means it.
+
+
+					PACKARD
+			How did you get this far without
+			someone driving a stake through your
+			heart?
+
+					STYLES
+			Just tryin' to be honest with you.
+
+					PACKARD
+			Well, it's a lousy time to start.
+			Now how long can you hold your
+			breath?
+
+					STYLES
+			Why?
+
+	Packard snaps open a roll of layered plastic, a small vacuum device
+	attached to one end. It's a body bag.
+
+					STYLES
+			Aw, fuck.
+
+					PACKARD
+			It's the only way I can get you
+			inside the docking port.
+
+					STYLES
+			Dead?
+
+					PACKARD
+			One minute. That's all the time I
+			need, Styles. Sixty seconds.
+
+	Hating it, Styles sheathes the bag around himself and lies back down.
+	The elevator tops out.
+
+					PACKARD
+			Close your eyes. Take a breath. And
+			then don't move.
+
+	He obeys. Packard hits the vacuum switch...
+
+	And, the plastic implodes, shrink-wrapping Styles in an eyebllnk.
+	He's petrlfled alive.
+
+181	INT. ELEVATOR STOP - UPPER-LEVEL CORRIDOR
+
+	Doors open. Clock ticking in her head -- in our heads -- Packard
+	muscles the gurney out, Styles' body now beneath a loose sheet. VIEW
+	FOLLOWS as she pushes down the corridor and passes foot-traffic.
+
+					PACKARD
+			Pardon me...comin' through...'scuze
+			me...comin' through...
+
+	Making good time, she turns a corner...
+
+182	INT. UPPER-LEVEL CORRIDOR
+
+	And finds a roadblock of guards. Chatting.
+
+	Packard glances around for a corridor, an equavator, anything that
+	will get her around. Nothing.
+
+	She looks down. The sheet has slipped from Styles' face. He already
+	looks dead. Fighting off panic, Packard jerks the sheet back up and
+	pushes straight ahead.
+
+	She passes the guards eventlessly -- though one guard leans out to
+	watch Packard hurrying down the corridor -- hurrying just a little too
+	fast. The guard is Daggs.
+
+183	INT. GUARD POST - DOCKING PORT
+
+	Packard reaches the docking gate. She rushes the gurney inside, but...
+
+					VOICE
+			Whoa, whoa, whoa...
+
+	She looks back. A DOCKING GUARD is scowling.
+
+					DOCKING GUARD
+			Where you goin'?
+
+					PACKARD
+			Oh, just want to make sure we catch
+			the transport.
+
+					DOCKING GUARD
+			Who's "we"?
+
+					PACKARD
+			"Me." Just me.
+
+					DOCKING GUARD
+			Well, it's runnin' few minutes late.
+			So let's get you checked in proper.
+
+	He takes a last hit on his cigarette. Stubs it out. Finds his
+	manifest. Saunters to the gurney. Pulls back the sheet. Are we
+	imagining it? Or is Styles' face blue?
+
+					DOCKING GUARD
+			How'd it happen?
+
+					PACKARD
+			C'mon, does it matter? He's dead.
+
+					DOCKING GUARD
+			Just askin'. I mean, he looks in
+			pretty good shape.
+
+					PACKARD
+			Asphyxia, awright? He suffocated.
+			You need the I.D.? Here, right on
+			the arm.
+
+	The docking guard starts to write. Packard steals a look at Styles.
+	He's moving inside the plastic, twitching involuntarily.
+
+					DOCKING GUARD
+			Shit.
+
+					PACKARD
+			What?
+
+					DOCKING GUARD
+				(scribbling circles)
+			Company pens. Never work right.
+				(turning away)
+			Gimme a second while I --
+
+					PACKARD
+			Here, here, here...
+
+	She snatches the clipboard, scribbles the prisoner number with her own
+	pen, heaves the gurney away.
+
+					PACKARD
+			I'll dump him with the others.
+
+184	INT. CARGO ANNEX - DOCKING PORT
+
+	The gurney slams to a stop against a cargo container -- and Styles
+	flops off, hitting the floor face-first. Packard falls on top and
+	tears at the plastic with her fingers. She can't break through.
+
+	DYING SOUNDS from Styles.
+
+	Packard jams her pen into his mouth and tears. A GREAT GUZZLE OF AIR.
+	She rips more plastic. Birthing free, Styles rolls to all fours.
+
+					STYLES
+			Take it back. I would do this for
+			you. Anytime.
+
+	She reaches to the runners of the gurney, grabs med-tech scrubs.
+
+					PACKARD
+			Get naked.
+
+185	EXT. SPACE STATION - NIGHT
+
+	As buoys rearrange to greet the incoming transport.
+
+186	INT. SOLITARY WARD
+
+	Daggs enters. He moves to the wall of monitors that show prisoners in
+	solitary cells.
+
+					DAGGS
+			Styles. What number?
+
+					SOLITARY GUARD
+			Was in 14.
+
+	Daggs double-takes. "Was"?
+
+					SOLITARY GUARD
+			Just bounced him to the infirmary.
+
+187	INT. WARDEN'S OFFICE
+
+	The DESK CHIMES.
+
+					MR. LONE
+			Yes?
+
+					BOSS (V.O.)
+			Boss here. Got a transfer that says
+			prisoner M23842 is supposed to be
+			down in telesurgery, but I'm --
+
+					MR. LONE
+			Styles? He was moved? By whom?
+
+					BOSS (V.O.)
+			Packard, in-house D.P.
+
+188	INT. INFIRMARY
+
+	Boss and Daggs.
+
+					BOSS
+				(into intercom)
+			We're down in the infirmary now, and
+			it looks dead. Now maybe this guy's
+			just lost in transit, but maybe not.
+			Daggs just saw Packard up on Level
+			Ten.
+
+					MR. LONE (V.O.)
+			Docking port. Get some men there.
+			Now, please. I'll call ahead.
+
+189	INT. DOCKING PORT
+
+	Styles and Packard exit the cargo annex, Styles wearing med-tech
+	scrubs. They reach the mobile operations console just as...
+
+	An INTERCOM BUZZES. The docking guard doesn't hear it yet, standing at
+	the nearby view port. INTERCOM BUZZES again.
+
+	Packard reaches down and kills it.
+
+190	INT. WARDEN'S OFFICE
+
+					CALL ABORTED.
+
+	The message stares up at Lone. He considers it for a lengthy beat
+	before...
+
+					MR. LONE
+			Desk, shut it down. Shut down the
+			entire station.
+
+191	INT. SPECIAL SERVICES ARMORY
+
+	Scramble lights whirl. On the move, S.S. guards snatch arms from
+	gunnery racks...
+
+192	INT. ELEVATOR STOP - LOWER-LEVEL CORRIDOR
+
+	...storm into an elevator...
+
+193	INT. EXPRESS ELEVATOR
+
+	...and squat and brace. Boss slaps open a panel marked "EXPRESS
+	OVERRIDE" and flattens the button inside.
+
+194	INT. ELEVATOR SHAFT
+
+	SCREAMING HELLACIOUSLY on its cables, the express car rockets upward,
+	covering ten levels in two seconds.
+
+195	INT. ELEVATOR STOP - UPPER-LEVEL CORRIDOR
+
+	Doors fly open. Guards roll out like bowling balls and run to their
+	feet.
+
+196	EXT. SPACE STATION - NIGHT
+
+	The transport is easing down the landing corridor. But abruptly the
+	buoys change, switching from blinking yellow to a strobing red. The
+	light is so intense it nearly blinds...
+
+197	INT. COCKPIT - TRANSPORT SHIP
+
+					PILOT #2
+				(shielding eyes)
+			What the hell is...
+
+198	INT. DOCKING PORT
+
+	KLAXON HORNS kick in.
+
+					STATION VOICE
+			Automatic shut-down in progress. All
+			non-essential personnel leave the
+			area now...
+
+199	INT. COCKPIT - TRANSPORT SHIP
+
+	PILOT #2 throttles back and rocks the ship to a stop.
+
+					PILOT #2
+				(into headset)
+			Moloch, what's the B.F.D. here? Do
+			we have clearance or don't we?
+
+200	INT. DOCKING-PORT
+
+					DOCKING OFFICER
+				(into headset)
+			Transport, be advised that --
+
+	A sidearm is pulled from the docking officer's holster. The officer
+	turns to find Styles with the gun. Packard covers the headset mike
+	with a hand.
+
+					PACKARD
+				(to docking officer)
+			Be advised that everything is fine.
+			We've had a temporary malfunction of
+			the shut-down system...
+
+201	INT. COCKPIT - TRANSPORT SHIP
+
+					DOCKING OFFICER (V.O.)
+			...but repairs are already underway.
+			Bring it on in, transport.
+
+202	INT. UPPER-LEVEL CORRIDOR
+
+	As S.S. guards double-time for the docking port.
+
+203	INT. DOCKING PORT
+
+	At the viewport, Styles and Packard watch the transport nose closer.
+
+					STYLES
+			C'mon, c'mon, c'mon...
+
+	CHARGING FEET. They spin to see...
+
+	S.S. guards entering, spreading.
+
+	Too late, Styles realizes he's still holding a gun. He drops it like
+	toxic waste just as...
+
+	The FIREFIGHT ERUPTS. S.S. guards GANG BANG heavy. Styles and Packard
+	dive for the operations console. Needles stitch and chew circuitry.
+	Concussion grenades flash and blind all around. One EXPLODES right
+	between Styles and Packard.
+
+					BOSS
+			Down, down, power down!
+
+	As quickly as it started, the firefight is over. Guards are standing
+	over the stunned Styles and Packard, jerking them to their feet.
+	KLAXON HORNS still wail.
+
+					BOSS
+			Can we kill those things?
+
+	He checks for a switch on the console -- and now notices some stitch-
+	holes that still burn with phosphorous.
+
+					BOSS
+			What the...
+
+	He wheels around. Snatches a rifle away from Left Nut. Ejects the clip
+	to check...
+
+	The ammo. They used the big-bore rounds.
+
+	Now the klaxons die out -- only to give life to a thin PRESSURE COOKER
+	sound. Dreading what he's about to see, Boss turns.
+
+	There's a hole in the airlock door. Air is streaming through. Air is
+	streaming out.
+
+204	INT. DOCKING PORT AIRLOCK
+
+	Like a vapor-trail, the air bores through the heart of the airlock...
+
+205	EXT. SPACE STATION - NIGHT
+
+	...and spews out the exterior airlock door.
+
+206	INT. COCKPIT - TRANSPORT SHIP
+
+					PILOT #2
+				(seeing)
+			Holy...
+
+	He slaps overhead switches and throttles back.
+
+207	EXT. TRANSPORT SHIP - NIGHT
+
+	Front-facing jets fire, reversing the ship's direction.
+
+208	INT. DOCKING PORT
+
+	Slapping hands over the breach in the door:
+
+					BOSS
+			The bulkhead! Get it closed! Someone
+			grab a blast-pack! Move, move, move,
+			move!
+
+	Someone throws an emergency lever. A massive bulkhead begins RUMBLING
+	across the width of the port, isolating it from inner station.
+
+	S.S. guards fall back, pulling Styles and Packard with them.
+
+	Right Nut runs for a blast-pack. He finds a receptacle and finds it
+	empty.
+
+					RIGHT NUT
+			We used it. We fuckin' used it for
+			the...
+				(whirling)
+			We used it!
+
+	Now Boss couldn't run even if he wanted to: The suction grips his
+	hands, pulling them palm-first through the hole, hyperextending all
+	ten fingers. The horror registers before the pain.
+
+	A pressure-crease appears in the door.
+
+	One by one, Boss's fingers snap as his hands disappear through the
+	hole.
+
+209	INT. UPPER-LEVEL CORRIDOR
+
+	Guards retreat with Styles and Packard. Other S.S. guards slash past
+	like scalded cats.
+
+					RIGHT NUT
+			It's gonna go!
+
+	Suddenly Styles and Packard are alone.
+
+210	INT. DOCKING PORT
+
+	The airlock door collapses...
+
+211	INT. DOCKING PORT AIRLOCK
+
+	...and tumbles through the airlock. It slams into the outer door.
+	Both doors tear free of the station...
+
+212	EXT. SPACE STATION - NIGHT
+
+	...fly out the landing corridor...
+
+213	INT. COCKPIT - TRANSPORT SHIP
+
+	...and cartwheel toward the canopy -- toward our faces. The pilot
+	doesn't even have time to get his hands up.
+
+214	EXT. TRANSPORT SHIP - NIGHT
+
+	Impact: The doors plow into the cockpit, crushing everything inside.
+
+215	INT. DOCKING PORT
+
+	The emergency bulkhead is about to close. Suddenly a cargo container,
+	sucked by ESCAPING AIR, slides through the opening and wedges, bracing
+	the bulkhead open.
+
+216	INT. UPPER-LEVEL CORRIDOR
+
+	WIND rips at everything. Equipment and people skitter toward the
+	docking port. Styles and Packard are swept off their feet. They, too,
+	will be carried away unless...
+
+	Styles grabs a moving equavator car. Packard grabs him. Skidding on
+	their stomachs, they're dragged away from the docking port.
+
+217	EXT. SPACE STATION - NIGHT
+
+	Back-up jets still firing, the transport careens out of control. The
+	ship picks up speed as it arcs out of VIEW, vanishing. Just when we
+	think we've seen the last of it, the ship reappears, boomeranging
+	back into FRAME, rolling wing over wing. It corkscrews down into the
+	station.
+
+218	INT. CELL BLOCK
+
+	The CONCUSSION rips open a wall.
+
+	In ONE ASTOUNDING SHOT, we see debris flying inward...then stopping in
+	mid-air...then reversing direction as the incoming explosion meets the
+	outgoing pressure.
+
+219	EXT. SPACE STATION - NIGHT
+
+	As the wreckage of the transport ship is spit back outside amid a
+	HURRICANE OF ESCAPING AIR.
+
+220	INT. GUARD HOUSE - CELL BLOCK
+
+	WINDOWS EXPLODE from their frames. Block guards fly through jagged
+	openings.
+
+221	INT. CELL - CELL BLOCK
+
+	A prisoner is pinned against cell bars. He screams but can't be heard
+	over the RUSHING WIND. Finally his body has nowhere to go but through
+	the bars. He comes out the other side like bloody pasta.
+
+222	EXT. SPACE STATION - NIGHT
+
+	LONG SHOT: In a vast cosmic abortion, we see a thousand bodies
+	hurtling past VIEW and into space.
+
+223	INT. CONTROL ROOM - P-4 LAB
+
+	Emergency lights. They strobe across walls, equipment, the cradle
+	chamber, and...
+
+	The womb. The Alien inside kicks like an animal with hornets in its
+	brain, stretching the artificial membrane to the limits. Ominously,
+	the first tear appears.
+
+	(NOTE: This final act unfolds in real time. Every move, every word,
+	every look is made as if it were someone's last -- which it may well
+	be. Emergency lights whirl like capering demons, and WIND SINGS
+	through corridors like a choir of maniacs. Starting now, we push hard
+	and never let up.)
+
+224	INT. CORRIDOR CUL-DE-SAC
+
+	Broken wall panels, equipment, a derailed equavator -- a mass of
+	wreckage is being dumped here, in a cul-de-sac where the wind has no
+	outlet. Soon the pile begins moving from within, wreckage flinging
+	aside. Styles and Packard are digging themselves out.
+
+225	INT. CORRIDOR OUTSIDE OPERATIONS
+
+	Reed appears, ducking airborne debris as he makes his way to the
+	Operations Room. A hand clamps his shoulder. It's Lone.
+
+					REED
+			They're gone. Everybody. Came
+			through crew quarters, and they're
+			just fucking gone, they're --
+
+					MR. LONE
+			Your data. You must --
+
+					REED
+			It's goin' down. Whole place. We
+			gotta put out a call, see if there's
+			a freighter or a tug or something
+			close that can --
+
+					MR. LONE
+			Your data, Mr. Reed. You must secure
+			your data.
+
+					REED
+			Fuck that. I wanna get outta here.
+
+					MR. LONE
+			I'll contact Gateway for help.
+
+					REED
+			Gateway? You want ICC Marshalls
+			crawlin' through this place? Down in
+			the lab? You prepared for that?
+
+					MR. LONE
+			My main concern is that the data is
+			retrieved and that everyone gets off
+			safely. Now go, Mr. Reed. I'll
+			contact Gateway.
+
+	Still Reed hesitates.
+
+					MR. LONE
+			And I'll take responsibility.
+
+	Reed ducks away. Lone pushes into Operations...
+
+226	INT. OPERATIONS
+
+	...and moves to the master communication console. He draws a stitch-
+	gun from a dead officer's holster -- and FIRES it into the heart of
+	the radio equipment. There will be no calls for help.
+
+227	EXT. SPACE STATION - NIGHT
+
+	As small EXPLOSIONS rock the station.
+
+228	INT. CONTROL ROOM - P-4 LAB
+
+	Reed rushes in. Begins down-dumping data. Notices a flashing message.
+
+			CRADLE CHAMBER MICROGRAVITY 97%
+
+	Not understanding, Reed stabs on the photo-acoustic monitor. The
+	screen is empty. Equipment failure? He turns to the cradle chamber.
+
+	It's empty.
+
+	Reed edges to the window. The voided womb lies at the bottom of the
+	chamber. Beside it, a hole has appeared in the chamber wall -- a hole
+	where something burned its way out.
+
+229	INT. P-4 LAB
+
+	Exiting the control room, Reed crosses the main lab as if it were a
+	graveyard at midnight. Then ahead, a section of wall begins warping.
+	Bubbling. Melting.
+
+					REED
+			No, no, no, no...
+
+	An arm appears first, pushing through the wall, pores secreting acid.
+
+	Bolting, Reed makes it to the door and slaps the unlock mechanism.
+
+	And now its legs appear, stepping into the lab.
+
+	As the vault-like door opens slowly -- too slowly -- the shadow of the
+	Newbreed Alien falls on him from behind.
+
+230	INT. OPERATIONS
+
+	RAPID CLOSEUPS of monitors. They show vacant corridors, twisted
+	conduit, wind-whipped debris. No signs of life other than...
+
+	Styles and Packard. Scanning monitors.
+
+					PACKARD
+			It can't be just us. I mean, we
+			can't be the only ones who --
+
+	Door opens. Daggs and an S.S. guard enter with guns. A tense beat as
+	the two sides glare at each other: Are they still enemies? Even now?
+
+					DAGGS
+				(pushing down other
+				guard's gun)
+			He ain't the problem no more.
+
+					PACKARD
+			How many others have you seen?
+
+					DAGGS
+			Just the little bridge party we got
+			goin' here.
+
+	He shoulders past them to get to the comm-panel -- and sees the fused
+	circuitry.
+
+					PACKARD
+			Found it like that.
+
+					S.S. GUARD
+			Well, Gateway's gotta see us. They
+			gotta see the wreckage.
+
+					DAGGS
+			Might pick it up on their docking
+			radar. But even it they're launching
+			right now...
+
+					STYLES
+			How long?
+
+					DAGGS
+			30 minutes if they bust their dicks.
+			If they don't...
+
+	Swapped looks. Do they have that kind of time? Packard hits switches
+	on the master terminal.
+
+					PACKARD
+			Calculate available air.
+
+					STATION VOICE
+			At present rate of depletion,
+			station atmosphere will be
+			unsuitable for human habitation in
+			17 minutes. Repeat. 17 minutes.
+
+					S.S. GUARD
+			Bonemeal. We're fucking bonemeal.
+
+					PACKARD
+				(to terminal)
+			Keep it on overhead.
+
+	(NOTE: STATION VOICE will count down the time whether noted herein or
+	not.)
+
+					STYLES
+			What about the Warden? There's gotta
+			be an --
+
+					DAGGS
+			Shit-canned three days ago.
+
+					STYLES
+			Then Lone. Can't believe he wouldn't
+			have some way to bail. There's gotta
+			be something, a lifeboat, escape
+			pod, something in case --
+
+					DAGGS
+			It's a fucking prison, huh? You
+			ain't supposed to get off.
+
+	Styles looks at Packard, hoping like hell she knows something the rest
+	of them don't.
+
+					PACKARD
+			You're the big escape artist.
+
+	A windy beat as Styles shoulders the burden. Packard watches, putting
+	her faith in him whether deserved or not, seeing his mind downshift
+	and picking up speed.
+
+					STYLES
+			Oxygen tanks. I saw some in the
+			infirmary. If we can just buy 20
+			extra minutes until --
+
+					DAGGS
+			Infirmary's gone. Dead-air all
+			around it.
+
+	He's looking at the Environmental Status Map (E.S.M.). Viable areas
+	show in blue, unviable in red -- and there's a shitload of red.
+
+					STYLES
+			Airlocks. They feed off the main
+			system? Or is it a separate supply?
+
+					DAGGS
+			Dunno.
+
+					STYLES
+			So why're you lookin' at me instead
+			of finding out?
+
+	Locked eyes. Will the guards take orders from a prisoner? Suddenly
+	Daggs is moving for the door, pulling the other guard along.
+
+					DAGGS
+			We're comin' back.
+
+					STYLES
+				(to Packard)
+			Suits, environmental suits. Weren't
+			there some at the docking station?
+
+					PACKARD
+			Probably. But on the wrong side of
+			the bulkhead. And I don't know if...
+
+	She has a new thought.
+
+					STYLES
+			What?
+
+					PACKARD
+			Thermal suits. Down in the P-4 lab.
+			They have air.
+
+					STYLES
+				(scanning E.S.M.)
+			Can we get there?
+
+					PACKARD
+			Maybe. Drop under on Level Six, then
+			cut up a starboard elevator.
+
+					STYLES
+			Or go over the top, Level Eight,
+			then shoot...
+
+					STATION VOICE
+			16 minutes of practical atmosphere
+			remaining. Repeat. 16 minutes.
+
+					STYLES
+				(pulling her away)
+			We'll find a way.
+
+231	INT. CORRIDOR
+
+	CLOSE on a hand pressing to a doorside scanner. The door opens to
+	reveal...
+
+232	INT. SPECIMEN LIBRARY
+
+	A room that recalls a small bank vault.
+
+	CLOSE as hands decode one of the lock-drawers. Unlocked, the drawer
+	glides out from the wall. Inside is a specimen case, a foot square.
+
+	Mohl lifts the case out. Clutching it as if it held Condor eggs, he
+	turns to run.
+
+233	INT. GRATED CORRIDOR
+
+	Styles and Packard speed over a grated walkway. Abruptly he pulls her
+	to a stop, cocks an ear. FOOTFALLS under the WIND. They look down to
+	spot...
+
+	Someone running two floors below.
+
+					PACKARD
+			Mohl. P-4 technician.
+
+					STYLES
+				(a beat)
+			You can make the lab okay?
+
+					PACKARD
+			He might be as lost as we are.
+
+					STYLES
+			Maybe. But looks like he's heading
+			for the foundry -- and that's the
+			only other docking port, isn't it?
+
+					PACKARD
+			We'll both go.
+
+					STYLES
+			Still might need those suits.
+
+	Packard searches his eyes. She doesn't like the idea of splitting up.
+	Not at all.
+
+					PACKARD
+			Look. If there is a way off...
+
+					STYLES
+			Yeah?
+
+					PACKARD
+			Don't you fucking dare leave
+			without me, all right?
+
+					STYLES
+			Would I do that?
+
+	He gives her a reassuring smile before bounding away. HOLD on Packard
+	watching him leave. Her face is scared, stressed, troubled -- anything
+	but reassured.
+
+					STATION VOICE
+			15 minutes of practical atmosphere
+			remaining. Repeat. 15 minutes.
+
+234	INT. IN-BOARD AIRLOCK
+
+	The two guards are ripping apart airlock walls with small tools and
+	bare hands. It's taking too long.
+
+					DAGGS
+			Get the flamer. We'll torch it out.
+
+235	INT. P-4 LAB
+
+	Packard enters -- and pulls up short, seeing...
+
+	The lab. Pieces of Reed dangle from equipment like ornaments on a
+	Christmas tree.
+
+	She forces herself inside. Listens for danger but hears only the WIND.
+	Sees the hole in the wall where the Newbreed Alien entered: It offers
+	a ghostly impression of what the beast may look like.
+
+236	INT. CORRIDOR
+
+	Clutching the specimen case, Mohl runs. TILT UP to find Styles,
+	shadowing him from above.
+
+237	INT. ELEVATOR STOP - GRATED CORRIDOR
+
+	Styles reaches a blown-open elevator shaft. Needing to drop floors, he
+	leaps to the cables and spirals down.
+
+238	INT. COLD-CORE AIRLOCK
+
+	Packard enters. Grabs four suits. Checks air reserves. Grabs helmets
+	and ties them together with cord, hands shaking all the while. Slings
+	helmets over one shoulder, suits over the other. Turns to get the hell
+	out of this place -- and freezes.
+
+	A shadow crosses the stairs, the shadow of something prowling the
+	lab above.
+
+	Packard shoots a glance at the door behind her -- the only other door.
+	It leads to the cold-core chamber. It leads to the other Aliens.
+
+	Drawing nearer, the shadow ripples down the stairs. Packard jerks on a
+	thermal suit. Dogs down the helmet. Pulls an unlock-lever...
+
+239	INT. COLD-CORE CHAMBER
+
+	...and enters, instantly sealing the door and backing away.
+
+	The door-window darkens. Then the door begins warping.
+
+	A dead-man's moan from Packard. There is one place to hide -- but the
+	idea is so loathsome that even now, as the Newbreed breaches the final
+	door, Packard hesitates. Finally she unlocks a glassite case...
+
+	And snuggles up to the slumbering Alien inside.
+
+	PACKARD'S POV: Of the Newbreed slouching into the dark chamber...
+	coming nearer...nearer...nearer...and stopping right in front of us.
+
+	The Newbreed inhales. It can smell Packard, can smell her fear. It
+	just can't see her.
+
+	PACKARD'S POV: Of the Newbreed moving on.
+
+	Packard's heart restarts. And just when she thinks that the worst is
+	over -- that now she can survive anything -- a tail unfurls next to
+	her. Was it only a reflexive stretch by the Alien? Packard shoots a
+	look at her thermo-gauge. The temperature climbs sharply. Now
+	Packard spots the crack in the glassite -- the crack that lets in
+	heat. The Alien unfolds more, this time with a primal GROAN.
+
+	Hearing, the Newbreed looks back.
+
+	Packard bursts out of the case. Hits the floor. Rolls to her feet
+	just in time to see...
+
+	The Newbreed spinning around. Its whipping tail shatters a case.
+
+	Packard arrows for the door.
+
+	SHRIEKING like a derailing train, the Newbreed lunges after.
+
+	The Brute Alien -- stocky and thorned -- falls from the broken case
+	and dents the floor. It writhes awake.
+
+240	INT. COLD-CORE AIRLOCK
+
+	Blasting through, Packard scoops up the other thermal suits and takes
+	the stairs three at a time.
+
+241	INT. FOUNDRY
+
+	Ore bridges have fallen. A cracked furnace pours molten steel across
+	the floor.
+
+	Panting hard, Mohl enters. He looks around but can't find anybody. A
+	moment of panic -- and then Lone appears, stepping from shadow. He's
+	been waiting.
+
+					MOHL
+			Here. I've got it. Here.
+
+	Lone accepts the case. Sets it down. Opens it.
+
+	CLOSER. Inside is the amberized face-hugger -- the original Alien
+	specimen. Except for small biopsy channels that crisscross the amber,
+	the specimen is identical to when first found.
+
+					MOHL
+			We better hurry. You do have a way
+			off, right? You said you did.
+
+	Lone closes the case. Pulls out his stitch gun. Looks at Mohl with
+	eyes dark as death.
+
+					MOHL
+				(stunned)
+			You said you'd take care of me. If I
+			worked for you. You said --
+
+					MR. LONE
+			I know what I said.
+
+242	INT. IN-BOARD AIRLOCK
+
+	A FLAME-THROWER ROARS. Melting wall-panels drop away. Both guards
+	stare dully at the exposed pneumatic system.
+
+					DAGGS
+			Main line. Shit, it hooks up to the
+			main line...
+
+243	INT. CORRIDOR
+
+	Packard runs, tripping over the thermal suits, grabbing hits of oxygen
+	from the tanks. She rounds a corner...
+
+244	INT. DARK CORRIDOR
+
+	And stops, facing a long, lonely corridor lit only by auxiliary
+	lights. Barely lit.
+
+	Packard gropes forward. Finds an equavator. Slaps the relay. The
+	indicator shows a coming car.
+
+					STATION VOICE
+			11 minutes of practical atmosphere
+			remaining. Repeat. 11 minutes.
+
+	Packard kneels to restring the helmets. But behind her, the ceiling
+	begins sagging, softened by acid. Two long, brambled legs extend
+	silently to the floor. Finished tying, Packard stands and turns.
+
+	The Newbreed HISSES in her face.
+
+	Packard recoils, falls, begins retreating on her ass. The Newbreed
+	walks her back...back...back...and then stops unnaturally, its
+	attention fixed behind Packard. She does a slow turn.
+
+	It's the Brute Alien. Body-thorns rising like hackles, it GROWLS A
+	CHALLENGE.
+
+	The Newbreed rears its head and SHRIEKS back.
+
+	Packard shoots looks between them. The two beasts are about to fight
+	-- and she's right in the goddamn middle.
+
+	The Brute Alien charges like a mad rhino.
+
+	Packard rolls.
+
+	The Aliens collide, shards of exoskeleton shattering away llke
+	shrapnel.
+
+	Packard grabs the thermal suits and sprints right over VIEW, leaving
+	tire tracks on our faces.
+
+	The fight is short but savage: The Newbreed brings its head down over
+	smaller Brute's shoulder -- and rips out the Brute's spine.
+
+245	INT. FOUNDRY
+
+	Entering fast, Styles nearly falls over Mohl. He's on the floor,
+	dying, his face a pulpy pin-cushion.
+
+					MOHL
+			He said we'd be partners...
+
+					STATION VOICE
+			10 minutes of practical atmosphere
+			remaining. Repeat. 10 minutes.
+
+	Styles peers at the docking port near the top of the foundry but sees
+	no movement. He leaps a molten river to reach the elevator. Debris
+	blocks access. Styles looks for another way up. And now he spots...
+
+	Lone. Climbing a service ladder.
+
+246	INT. FOUNDRY DOCKING PORT
+
+	Lone reaches the docking platform. He sets down the specimen case and
+	moves to the viewport. He unpockets a small box, a Remote Retrieval
+	Unit (R.R.U.).
+
+	CLOSE on the R.R.U. opening. The inner lid lights up, becoming a
+	ranging screen. A blip shows a target three clicks out.
+
+	Lone thumbs a servo-switch. At first only dark Earth is visible out
+	the viewport. Then something moves, something highlighted by flaring
+	thruster-jets.
+
+247	EXT. SPACE STATION - NIGHT
+
+	As Lone's drone ship maneuvers toward the station.
+
+248	INT. FOUNDRY DOCKING PORT
+
+	The ship looms larger and larger until finally it fills the viewport.
+	CLANGING SOUNDS of docking. Lone abandons the R.R.U. and turns for...
+
+	The specimen case. It's open. And empty.
+
+					VOICE
+			Not quite sure what it is...
+
+	Styles has the amberized face-hugger.
+
+					STYLES (CONT'D)
+			But figure it's pretty valuable. I
+			mean, you're takin' it instead of
+			your partner down there, right?
+
+	Lone eyes the stitch gun resting nearby. Styles holds the face-hugger
+	over the side of the platform, threatening to drop it. Lone stays put.
+
+					STYLES
+			Just a guess, of course. But maybe
+			it's some kind of prototype. Huh?
+			Little pocket-edition that you had
+			the boys in the lab whip up?
+
+					MR. LONE
+			Tell me what you want.
+
+					STYLES
+			Or is this what the others came
+			from? Like the one somebody set
+			loose under the cell block. Huh?
+			Where'd that come from, Lone? Any
+			idea?
+
+					MR. LONE
+			I can give you air. Enough for you
+			to survive until the Gateway ships
+			arrive.
+
+					STYLES
+				(indicating face-hugger)
+			Is this it, Lone? Is this where a
+			whole lotta bad craziness began?
+
+					STATION VOICE
+			Eight minutes of practical
+			atmosphere remaining. Repeat. Eight
+			minutes.
+
+					MR. LONE
+			If you want to negotiate, Mr.
+			Styles, let's get down to business.
+
+					STYLES
+			Business. Man, that's what it's all
+			about, isn't it? 'Cause if you can
+			cut free with this chunk of rock,
+			you're back in business.
+
+					MR. LONE
+				(indicating drone)
+			Come with me. Right now. I'll make
+			sure you get away.
+
+					STYLES
+			Sorry, Lone. But I don't think I
+			want the company.
+
+	He pitches the face-hugger overboard.
+
+	Lone darts to the edge of the platform. Stretches out as far as
+	humanly possible -- then adds another inch. He actually catches the
+	specimen -- but he's left tottering on the edge, and we think he may
+	pay for the catch with his life. Then at the last second, Lone grabs a
+	support bracket. Relief floods his face.
+
+	Until the bracket snaps.
+
+	Lone plummets.
+
+249	INT. FOUNDRY
+
+	The face-hugger hits the main floor and shatters like an exploding
+	star. HOLD on point of impact. Presently white fluid rains down from
+	above. VIEW CRANES UP through the supports of the foundry until we
+	find Lone impaled on a girder. He bleeds the blood of androids.
+
+					STATION VOICE
+			Seven minutes of practical
+			atmosphere remaining. Repeat. Seven
+			minutes.
+
+250	INT. FOUNDRY AIRLOCK
+
+	Styles enters. Moves to the docked drone ship. Yanks an unlock-lever
+	to open the hatch...
+
+251	INT. DRONE SHIP
+
+	...and step inside. Styles sees a viewscreen. Touches the automated
+	controls. Then turns to the chair. The one chair.
+
+252	INT. CORRIDOR OUTSIDE OPERATIONS
+
+	Packard reaches Operations. Daggs is waiting.
+
+					PACKARD
+				(fighting for breath,
+				for sanlty)
+			Did you, did you, did you see
+			what --
+
+					DAGGS
+			On the monitors. Seen somethin'
+			else, too.
+
+253	INT. OPERATIONS
+
+	CLOSE on a monitor with an external view of the station. Visible is
+	the...
+
+					DAGGS
+			Drone ship. Doesn't need a pilot.
+			It's docked at the foundry.
+
+					PACKARD
+			Styles. He was heading there.
+
+					DAGGS
+			You let him go? Alone?
+
+					PACKARD
+				(moving to E.S.M.)
+			How do we get there?
+
+					S.S. GUARD
+			Maybe we don't have to. Got air now.
+			We can just ride it out until --
+
+					PACKARD
+			But if Gateway didn't launch? What
+			happens then? You want to take that
+			chance? With those things loose out
+			there?
+
+					DAGGS
+			Rather rely on Gateway than some
+			prisoner's sense of fair play. If
+			Styles does have a ticket outta
+			here, you think he's gonna hang
+			around for us?
+
+					PACKARD
+			He said he'd wait.
+
+					DAGGS
+			Lady, I'll give it to you ugly but
+			honest: He's a con, you're a chump,
+			and you both deserve blue ribbons.
+
+					PACKARD
+			He'll wait. And it you don't believe
+			it, don't come. Just show me how to
+			get there.
+
+	Beat. Daggs checks monitors. The corridors look clear.
+
+					STATION VOICE
+			Five minutes of practical atmosphere
+			remaining. Repeat. Five --
+
+					DAGGS
+				(at voice)
+			Awright, awright, al-fuckin'-ready!
+				(to S.S. guard)
+			Bring the flamer.
+
+254	INT. CORRIDOR
+
+	Daggs leading, they run. Nothing fancy here -- just moving flat-out,
+	old-fashioned, balls-to-the-walls fast. They tear around another
+	corner...
+
+255	INT. CUL-DE-SAC CORRIDOR
+
+	...and pile up, reaching the dead-end.
+
+					PACKARD
+			I thought you knew the way!
+
+	Daggs backtracks to orient himself. Collapsed walls, strange lighting.
+	Everything's different.
+
+					STATION VOICE
+			Four minutes of practical atmosphere
+			remaining. Repeat. Four minutes.
+
+	Packard takes oxygen. She hates this. Hates not moving. Hates being a
+	standing target for...
+
+	The Newbreed lunges from an elevator shaft.
+
+	Daggs' stitch rifle, knocked away, drops through a hole in the floor.
+
+	Firing reflexively, the S.S. guard ROARS his flame-thrower.
+
+	The Newbreed retreats.
+
+	Daggs pulls Packard to her feet and runs.
+
+256	INT. CORRIDOR
+
+	Packard and Daggs hurdle a rampart of debris. The S.S. guard clears,
+	then whirls back to torch the rampart. He holds his position, making
+	sure the fire catches in the thinning atmosphere.
+
+	The Newbreed appears -- crawling upside-down on the ceiling to pass
+	over the curtain of flame.
+
+257	INT. FOUNDRY
+
+	Packard and Daggs skid inside, turning back to see...
+
+	The S.S. guard coming at full-throttle: Still on the ceiling, the
+	Newbreed chases him like some nightmarish shadow.
+
+	Daggs hammers a button. The overhead door begins dropping.
+
+258	INT. CORRIDOR OUTSIDE FOUNDRY
+
+	The S.S. guard dives head-first...
+
+259	INT. FOUNDRY
+
+	And slides to a stop just inside the closing door. He's safe...
+
+	Until something grabs his foot and tears him back under.
+
+	The DOOR BOOMS closed. Only an arm and the flame-thrower made it.
+	Daggs grabs the weapon and pushes Packard toward the ladder.
+
+					STATION VOICE
+			Two minutes of practical atmosphere
+			remaining. Repeat. Two minutes.
+
+	Behind them, the door -- two inches of plate steel -- begins
+	blistering.
+
+260	INT. FOUNDRY DOCKING PORT
+
+	Breathing like a dying asthmatic, Packard tops the ladder. Makes it to
+	her feet. Throws her face to the viewport to see...
+
+	Pieces of hull tumbling through otherwise empty space. The drone ship
+	is gone.
+
+					PACKARD
+				(from the marrow of her
+				soul)
+			Goddamnit, Styles, I trusted you...
+
+261	INT. FOUNDRY
+
+	As the Newbreed breaches the door.
+
+262	INT. FOUNDRY DOCKING PORT
+
+					DAGGS
+			Your helmet. Get it on. We can still
+			go outside the hull.
+
+					PACKARD
+			And where then? Huh? Where then?
+
+	Daggs doesn't know where -- that's as far as his mind can take them.
+
+					STATION VOICE
+			Sixty seconds of practical
+			atmosphere remaining. Repeat. Sixty
+			seconds.
+
+	Now a new noise turns their heads. It sounds almost like...
+
+263	INT. FOUNDRY ELEVATOR SHAFT
+
+	An ELEVATOR RISING.
+
+264	INT. FOUNDRY DOCKING GATE
+
+					DAGGS
+			Aw, no, no, no...
+
+	Flame-thrower is dead. He tries to reprime it. Not enough air.
+
+	The elevator climbs.
+
+	Daggs bashes off a section of railing. It's a sad excuse for a weapon
+	-- but he's not going down without a fight.
+
+	The ELEVATOR CLANGS to a stop at platform-level. Doors draw open.
+
+					STYLES
+			What took you?
+
+	It's him. Stepping off. Breathing from an oxygen tank.
+
+					PACKARD
+				(malleted)
+			Wha... Where were you?
+
+					STYLES
+			Clearing the elevator. Thought you
+			might need it.
+
+					DAGGS
+			What we need is a fucking ship.
+			Where'd it go?
+
+					STYLES
+				(producing R.R.U. box)
+			Waitin' two clicks out. Had to push
+			it away so it wouldn't catch this
+			hull crap.
+
+	Styles moves to the viewport, activates the R.R.U. to begin recalling
+	the drone ship. Packard joins. For one time-stopped moment, she allows
+	herself to forget all else.
+
+					PACKARD
+			Styles?
+
+					STYLES
+			Packard?
+
+					PACKARD
+			I really thought you left.
+
+					STYLES
+				(with a look)
+			Never crossed my mind.
+
+	He's a lying sonofawhore and Packard starts to say so. But then the
+	whole platform rocks. Daggs leans over the side to see...
+
+	The Newbreed climbing the support structure. This time it's coming for
+	real.
+
+265	EXT. SPACE STATION - NIGHT
+
+	Still a kilometer off, the drone ship maneuvers toward the station.
+
+266	INT. FOUNDRY DOCKING PORT
+
+					STATION VOICE
+			Station atmosphere now unviable for
+			human habitation. Repeat. Station
+			atmosphere now unviable for human
+			habitation...
+
+	Packard tightens down her helmet, then begins dressing Styles in the
+	spare suit.
+
+	(NOTE: No sound now, unless it's HELMET CROSS-TALK or the deep RUMBLE-
+	VIBRATIONS we feel in our bones. Other than that, play out the finale
+	in numbing silence.)
+
+	Daggs chances another look over the side -- and keeps looking. Where'd
+	it go? Suddenly jaws rush upward and snap shut in his face.
+
+	Daggs recoils all the way to the viewport, colliding with Styles and
+	Packard. He screams something they can't hear. He slams his helmet
+	against Styles'.
+
+					DAGGS
+			Airlock! Do it in the airlock!
+
+267	INT. FOUNDRY AIRLOCK
+
+	They bungle in. Minimal gravity here -- they float as much as stand.
+	As Daggs secures the door, Styles lofts himself to the other end --
+	the end open to space -- and keeps thumbing the R.R.U. The drone ship
+	is coming -- but slowly, so goddamn slowly.
+
+268	INT. FOUNDRY DOCKING PORT
+
+	As the Newbreed crawls over the lip of the platform.
+
+269	INT. FOUNDRY AIRLOCK
+
+	Daggs peers back into the foundry. Can't see anything. Stoops to
+	double-check the lock just as something shatters the window, nearly
+	decapitating him.
+
+270	INT. FOUNDRY DOCKING PORT
+
+	The Newbreed sees them. All three. Trapped together in one tight
+	little space. Frenzied, it begins shredding the airlock door.
+
+271	INT. FOUNDRY AIRLOCK
+
+	The door is collapsing. Only seconds before the Newbreed is inside...
+
+272	EXT. SPACE STATION - NIGHT
+
+	And the ship is still 200 yards away.
+
+273	INT. FOUNDRY AIRLOCK
+
+	Styles shuts down the R.R.U., freezing the ship. Now he grabs Packard
+	and Daggs, pulling them to the mouth of the airlock, slamming their
+	three helmets together.
+
+					STYLES
+			Straight shot! Straight!
+
+					PACKARD
+				(realizing)
+			If we miss, we burn! If we miss --
+
+					STYLES
+			Don't miss.
+
+	As one, they grab the rim of the airlock. Rear back. Aim. Then fling
+	themselves forward...
+
+274	EXT. SPACE
+
+	...into naked space.
+
+	In an EXTREME LONG SHOT, we watch the three white figures glide across
+	the blackness, strung together like wriggling paper dolls.
+
+	THEIR POV: They approach the ship broadside. Their aim looks good. But
+	is good good enough?
+
+	Styles tries course-corrections. Nothing works.
+
+	THEIR POV: Fifty feet...thirty...ten...
+
+	They're passing too high. Leading, Styles stretches down and gets a
+	glove on the hull. But the glove just slides over the curvature,
+	finding no purchase.
+
+	Packard reaches for the ship's antenna. She snags it -- but it breaks
+	off in her hand.
+
+	THEIR POV: Of Earth. Waiting to incinerate them.
+
+	Abruptly they jerk to a stop: Daggs got a hand on the needle-nose.
+	They made the ship.
+
+275	INT. DRONE SHIP
+
+	Hatch opens. The three survivors drift-tumble in. Atmosphere and
+	gravity machines kick in as soon as the hatch is closed. They sink to
+	the deck.
+
+	For moments, we hear only PANTING RESPIRATORS. Then Daggs, hearing a
+	new sound, turns to look.
+
+	Styles is laughing. Laughing in his helmet, laughing like a man who
+	just scammed Death. Packard finds it infectious -- especially when she
+	spots the broken antenna still in her grasp.
+
+	Daggs stands, leaving them to roll around on deck. And just when their
+	life-affirming laughter peaks...
+
+					DAGGS
+			Hey. Hey.
+
+	He's looking out the hatch porthole.
+
+	DAGGS' POV: The space station is dying, listing badly, rocked by
+	silent explosions. But against that backdrop, something moves toward
+	us. Just debris?
+
+	Styles and Packard crowd in to see.
+
+276	EXT. SPACE
+
+	It's the Newbreed, clawing and slashing through space. It's coming
+	fast. And its aim looks dead-fucking-on.
+
+277	INT. DRONE SHIP
+
+					DAGGS
+			Doesn't it breathe? For Chrissake,
+			doesn't it need any fuckin' air?
+
+					PACKARD
+			It'll come through the hull. It'll
+			burn its way right through unless...
+
+	Styles is already at the console. Rescanning instruments. Hitting
+	"MANUAL OVERRIDE": An instrument housing flips up. Among the switches
+	is a control-stick.
+
+278	EXT. DRONE SHIP
+
+	The Newbreed braces for contact.
+
+	NEWBREED'S POV: Of the bow of the ship turning...turning...turning...
+	until the needle-nose points right at VIEW.
+
+	Futilely, the Newbreed tries to backpedal in space.
+
+279	INT. DRONE SHIP
+
+	Eyes on the viewscreen, Styles brings a fist down on the main-engine
+	switch.
+
+280	EXT. DRONE SHIP
+
+	Thrusters fire.
+
+	NEWBREED'S POV: Of the ship lurching at VIEW.
+
+	It's a heart-shot: The needle of the ship bores through the Newbreed
+	Alien, first impaling it, then splitting it open. Pieces of the beast
+	tumble for different corners of the universe.
+
+									SLOW DISSOLVE TO:
+
+281	EXT. SPACE - EARTH DAWN
+
+	The drone ship drifts. FOREGROUND, the bow of a huge cutter appears.
+
+					RESCUE VOICE
+			Drone ship, this is ICC Cutter 27,
+			Marshalls' Division. Do you read?
+			Over.
+
+					DAGGS (V.O.)
+			Uh, yeah. Block Officer Daggs here.
+			Over.
+
+					RESCUE VOICE
+			Pulling alongside momentarily,
+			Officer Daggs. How many survivors
+			aboard?
+
+					DAGGS (V.O.)
+			Three. Just three of us.
+
+					RESCUE VOICE
+			Identify others, please.
+
+					DAGGS (V.O.)
+			Well, there's Christine Packard, the
+			station D.P. And then there's
+			Styles. He's, uh...
+
+	A beat. MURMURED VOICES.
+
+					RESCUE VOICE
+			Sorry, didn't copy that.
+
+	More MURMURING as a decision is reached -- one not popular with Daggs,
+	but one he'll try to live with.
+
+					DAGGS (V.O.)
+			Styles. I guess he's just one of the
+			med-techs.
+
+					RESCUE VOICE
+			Good enough, Officer Daggs. Prepare
+			for docking.
+
+	The cutter powers ahead, moving to intercept. We take it as our cue
+	to...
+
+									FADE OUT
+
+					THE END

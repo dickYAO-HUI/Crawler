@@ -1,0 +1,620 @@
+ALIEN 5 OPENING SEQUENCE?
+
+
+
+	SPACE
+
+	A backdrop of stars, traces of colorful galaxies.
+
+	INTO FRAME AS WE MOVE BACK: A BEACON.  Old, scarred.  One 
+	side crumpled from an explosion.  Weyland-Yutani emblon 
+	visible.  The beacon's navigation light blinks erratically.
+
+	BACK FURTHER revealing an astronaut with a HANDHELD JETPACK 
+	nearing the beacon.  A TETHER snakes out behind the figure.
+
+	CONTINUING BACK shows the tether attached to a SPACESHIP 
+	built like a giant Swiss army knife -- a repair ship.  On 
+	one side of the ship: B42-GOV/WY-FRONTIER 'BERTHA'.  Inside 
+	the open cargo bay sits a NEW BEACON, this one a sleeker 
+	model than the one outside.  Its nav light strobes eagerly.
+
+	INT. BERTHA
+
+	CONRAD, mid-20s, wearing Weyland-Yutani overalls, floats 
+	weightless and inverted at the cabin ceiling.  He retrieves 
+	a thick manual from a compartment then kicks off toward the 
+	main viewscreen, where TIBBS, fat and in his 50s, is buckled 
+	into a pilot chair.  Tibbs sucks purple mush through the 
+	straw of a food container.  His straining t-shirt reads: W-
+	Y LITTLE LEAGUE - GO COLTS GO!  Conrad slips a headset on.  
+	They watch the astronaut on the screen.
+
+	THE BEACON
+
+	DEBBIE, 20-ish and sassy, fires the jetpack to align herself 
+	with the beacon.  She grabs a hand hold, climbs over to a 
+	control box, and attaches a tether from her suit harness to 
+	part of the beacon.
+
+			DEBBIE
+		That's it, we're hitched.
+
+			CONRAD (V.O.)
+		Can I kiss the bride?
+
+			DEBBIE
+		No, but you can kiss my ass.
+
+	INT. BERTHA
+
+			CONRAD
+		It's a deal.  Listen, that damaged 
+		panel looks unstable.  Skip the 
+		external and go straight for 
+		diagnostics, okay?
+
+			DEBBIE (V.O.)
+		You're the boss, Conrad.
+
+			TIBBS
+		     (to Debbie; mouth full)
+		Ah, technically I'm the boss.  
+		I've got twenty years with the 
+		company; Conrad's got six months 
+		and an uncle in personnel.
+
+	THE BEACON
+
+	Debbie uses a small tool to pop open the panel.  Buttons, a 
+	screen, and two large switch-breakers inside.  She thumbs 
+	the two switches.  Buttons light up.  The screen flutters 
+	to life with: AUXILLARY POWER ON / MAX 50 MINUTES FULL LOAD 
+	/ COMMAND?  The screen glitches intermittently.
+
+			DEBBIE
+		The pile is down.  Backup power 
+		seems okay, though.
+
+			CONRAD (V.O.)
+		Patch in a filter just in case.
+
+	She takes a small electronic unit from her utility belt.  
+	In her other hand she uses a gun-shaped tool to squirt some 
+	sticky goop on the back on the unit, which she jams onto 
+	the rim of the control panel.  She hooks it up between the 
+	main tether and the control panel.
+
+			DEBBIE
+		All set.  You should have a clean 
+		feed now.
+
+	The screen flashes through some menus, then fills with a 
+	stream of data.
+
+	INT. BERTHA
+
+	Still eating, Tibbs watches a nearby monitor blur with data.
+
+			TIBBS
+		That's affirmative.
+
+	Tibbs and Conrad work the ship computers.
+
+			DEBBIE (V.O.)
+		What's the verdict?  Do we salvage?
+
+			CONRAD
+		     (scanning readouts)
+		This one's pretty much brain dead.
+
+			DEBBIE (V.O.)
+		Don't go all technical on me.
+
+			TIBBS
+		The analysis shows multiple 
+		fractures in the substructure.  
+		Too risky to bring it onboard for 
+		a stripdown so we'll just go with 
+		standard procedure and deep-six 
+		it.
+
+	THE BEACON - INTERCUT
+
+			DEBBIE
+		So was that a yes or a no?
+
+			CONRAD
+		Ah, Debbie, I believe that was a 
+		negative.
+
+			DEBBIE
+		Okey-dokey.  So how do we blow it?
+
+			CONRAD
+		See that big red button labeled 
+		"self-destruct"?
+
+			DEBBIE
+		     (looking hard)
+		I don't see it.
+
+			TIBBS
+		That's because there isn't one.  
+		Young lady, you really should have 
+		paid attention during basic 
+		training.  We prime the reactor 
+		for detonation from here.  Standby.  
+		Conrad, give me the core activation 
+		string.
+
+	Conrad consults the manual.  On the cover: WEYLAND YUTANI / 
+	FRONTIER DIV. / ADVANCED WARNING SYSTEMS / CLASSIFIED B2.
+
+			CONRAD
+		     (from manual)
+		Delta Charlie dash one seven zero.
+
+			TIBBS
+		     (typing)
+		D-C-one-seven-zero.  Confirmed.
+
+	The beacon's control screen now reads: EVENT DELAY (MINUTES)?
+
+			DEBBIE
+		It's showing some kind of timer.
+
+			CONRAD
+		     (bouncing it off Tibbs)
+		Ten minutes to get her back and 
+		unsuited, ten minutes to move to a 
+		safe distance.  Say fifteen minutes 
+		contingency.  Thirty-five?
+
+			TIBBS
+		Thirty-five minutes is ample.
+		     (he types)
+
+			CONRAD
+		Return to deploy the new beacon, 
+		then dinner and a quick game of 
+		scrabble -- we'll be in hyper-sleep 
+		and headed for home within a couple 
+		hours.  Outstanding.
+
+	Debbie watches the screen shuffle through menus.  A countdown 
+	appears: 35 MINUTES TO POWER CORE IGNITION.
+
+			DEBBIE
+		Warm up my slippers.  I'm on my 
+		way.
+
+	INT. BERTHA
+
+	An alarm sounds.  The two men jump to the controls.
+
+			CONRAD
+		Proximity alert.  Picking up a 
+		huge neutrino echo.  Somebody's 
+		dropping out of L-space right on 
+		top of us.
+
+			TIBBS
+		Nobody should be out this far ...
+
+			CONRAD
+		There's a shitload of matter influx.  
+		Too much for just one ship.  Looks 
+		more like a fucking planet!
+
+			TIBBS
+		Debbie!  You copy that?  We've got 
+		L-space activity!  Hold on!
+
+	SPACE
+
+	A portal opens, squeezing into normal space.  A wall of 
+	light.  Blinding.  Debbie cringes in the beacon's shadow.  
+	Conrad and Tibbs shield their eyes.  Then ...  all light 
+	gets sucked back to its pinhole origin.  Where there was 
+	nothing is now a vast fleet of alien spacecraft.  Twenty in 
+	all.  Several makes and sizes, but all follow the same basic 
+	design.  We've seen their type before... on LV-421 -- the 
+	derelict spacecraft with its crop of deadly facehuggers.
+
+	A red-blue energy wave ripples outward from the fleet.  The 
+	shockwave is brutal but losing energy fast as it dissipates.
+
+	INT. BERTHA
+
+	The main viewscreen splits into windows showing the beacon, 
+	the energy wave, and a rapid visual scan of the alien fleet.  
+	In that window the computer reports: SCAN COMPLETE / 
+	IDENTIFICATION FAILED ON MULTIPLE UNKNOWN OBJECTS, STRUCTURE 
+	AND COMPOSITION UNKNOWN / LIFEFORMS DETECTED, SPECIES 
+	UNKNOWN.
+
+			CONRAD
+		Fuckers didn't even knock first.
+
+			TIBBS
+		Oh Christ.  Here comes the Phase 
+		shift aftershock.
+
+			CONRAD
+		Debbie!  Use the beacon as your 
+		shield.  Get behind the beacon!
+
+	THE BEACON
+
+	Debbie sees the approaching shockwave and clambers sideways 
+	to get behind the beacon.
+
+	INT. BERTHA
+
+	The blastwave hits them.  It buffets the ship for a few 
+	seconds.  Sends objects cascading through the weightless 
+	cabin.  Scrambles all electronics.  Systems fail.  No power.
+
+	THE BEACON
+
+	Debbie hugs the beacon as it goes tumbling.  It reaches the 
+	end of the tether and jerks tight, nearly throwing Debbie 
+	off.  The momentum sends Bertha and the beacon spinning 
+	around each other in dizzying circles.
+
+	Debbie regains her hold.  Stars whirl past.  She looks at 
+	the control screen.  Dead.  All lights off.
+
+			DEBBIE
+		Bertha, Bertha, you copy?  The 
+		beacon just lost backup!
+
+	INT. BERTHA
+
+	Tibbs and Conrad recover from the impact, scan the computers.
+
+			CONRAD
+		The blastwave fritzed our power 
+		too.
+
+			TIBBS
+		Whoever that is out there, it's 
+		not us.  And they're headed this 
+		way.
+
+			CONRAD
+		Debbie, get back in here now!
+
+	Tibbs rips off panels and franticly examines wiring and 
+	componentry.  Conrad watches Debbie's image on screen.
+
+	THE BEACON
+
+	Debbie can't detach the tether.  The blastwave has twisted 
+	the catch, snagging it in the hook.  She yanks at it but it 
+	won't budge.
+
+			DEBBIE
+		Damn this mainline, Conrad, it's 
+		stuck!
+
+			CONRAD (V.O.)
+		C'mon, Deb, detach and get your 
+		ass in here on the double.
+
+	She pauses as the beacon suddenly stutters back to life.  
+	The nav light flickers on, the control panel lights up, and 
+	the screen returns with the countdown timer.  But there's a 
+	difference that freezes Debbie's blood in her veins: the 
+	timer reads: 4 MIN 50 SEC TO REACTOR IGNITION (NO RECOURSE).
+
+	INT. BERTHA
+
+			DEBBIE (O.S.)
+		Oh shit.  The power's back but now 
+		the timer is down to four minutes!
+
+			TIBBS
+		What?  Four minutes to detonation?
+
+			CONRAD
+		No power, we're tied to a bomb, 
+		and we're surrounded by aliens.  
+		This was not in my fucking contract!
+
+			TIBBS
+		     (working frantically)
+		Check the fineprint.
+
+	THE BEACON
+
+	Debbie stabs at keys on the beacon's control panel.  She 
+	gives up and pounds it with her fist in frustration.
+
+			DEBBIE
+		Cancel the self-destruct order!  
+		Tibbs, transmit the code now!
+
+	INT. BERTHA
+
+			TIBBS
+		Negative.  It's too late for that.  
+		There's no failsafe under five 
+		minutes.  No recourse.  We can't 
+		stop it.
+
+			CONRAD
+		     (thinking fast)
+		Listen to me, Debbie.  Cut the 
+		mainline.  Use your suit laser.
+
+	THE BEACON
+
+	Debbie presses a switch on her glove.  A pencil-sized laser 
+	extends over her index finger.  She points it at the tether 
+	linking her and the beacon, activates it with her thumb.  A 
+	narrow beam starts biting into the thick cable.  The beam 
+	cuts out, flickers, cuts out again, returns.
+
+			DEBBIE
+		Goddammit!
+
+	INT. BERTHA
+
+	The Bertha's power returns.  All systems back online.  Tibbs 
+	whoops and leaps into the pilot's chair.  He begins 
+	programming the nav computer.
+
+			CONRAD
+		Deb, the ship's back online.  We 
+		need to put some space between us 
+		and that fucking beacon!
+
+			TIBBS
+		How much time?
+
+			DEBBIE (O.S.)
+		Three minutes.  Repeat, three 
+		minutes.
+
+	Tibbs powers up the engines.
+
+	EXT. BERTHA
+
+	The ship stabilises, no longer spinning, and begins 
+	accelerating smoothly away.
+
+	THE BEACON
+
+	Debbie clings on as the beacon whips around and gets towed 
+	behind Bertha.
+
+			DEBBIE
+		Hey, what the...?
+
+	INT. BERTHA
+
+			CONRAD
+		Tibbs!  What are you doing?
+
+			TIBBS
+		I'm getting us the hell away from 
+		that alien fleet.  It's no 
+		coincidence they appear where a 
+		recon beacon is out of action.  
+		They probably disabled it in 
+		advance.
+
+			CONRAD
+		We don't know that.  They could be 
+		friendly!
+
+			TIBBS
+		Sure, maybe they're just out here 
+		for a picnic.
+
+	Tibbs stares Conrad down, then secretly hits a console 
+	button.
+
+	EXT. BERTHA
+
+	The cargo bay doors begin to close.
+
+	CLOSE ON DOORS as they scissor shut, severing the tether 
+	line.  Internal wiring sparks.
+
+	The beacon is left stranded as the ship accelerates away.
+
+	THE BEACON
+
+	Debbie watches the ship leaving.  She takes a deep breath 
+	before turning back to the job at hand.  One minute thirty 
+	left on the timer.
+
+			DEBBIE
+		     (shaky)
+		Well, guys, the bad news is I won't 
+		be joining you for dinner...
+
+	INT. BERTHA - INTERCUT
+
+			CONRAD
+		Shit!  SHIT!  Tibbs, we lost Debbie!  
+		Turn the ship back!
+
+			TIBBS
+		Damn you, there's no time!  We'll 
+		all die.  I'm sorry, Debbie.
+
+			CONRAD
+		Fuck sorry -- turn back now!
+
+			DEBBIE
+		No!  Conrad, it's okay.  You guys 
+		can make it.  Thanks to me, I might 
+		add.  As usual a woman saves the 
+		day.
+
+			CONRAD
+		     (helpless)
+		You're one in a million, Debbie.
+
+			DEBBIE
+		     (works the faulty laser)
+		Damn straight.  I'm smart as well 
+		as good-looking.  And let's not 
+		forget my wonderful fucking 
+		personality.
+
+			CONRAD
+		I won't forget.
+
+			TIBBS
+		I'm taking the ship to L-space.  
+		We'll have entry speed in one 
+		minute.
+
+			DEBBIE
+		I agree with Tibbs -- this is some 
+		kind of invasion... 
+
+	The laser has cut most of the way through the tether joining 
+	Debbie to the beacon.  She switches off the laser, grabs 
+	her jetpack and the glue gun, and squirts a couple of big 
+	dollops of the sticky resin on the front of the jetpack.  
+	Then she sticks the jetpack to the beacon.  Resumes cutting 
+	the tether.  The timer dips below one minute.
+
+			DEBBIE
+		You're kind of sweet on me, aren't 
+		you, Conrad.
+
+			CONRAD
+		     (choking up)
+		I ... yeah, I guess so.
+
+			DEBBIE
+		Too bad, sweetheart, because I 
+		also happen to be fantastic in 
+		bed.
+
+			CONRAD
+		     (smiling sadly)
+		I was counting on it.
+
+	The tether between Debbie and the beacon severs.  She slaps 
+	a switch on the jetpack -- the rockets fire full on, blasting 
+	her in a backward somersault as the beacon launches away 
+	from her, toward the alien fleet.
+
+			DEBBIE
+		Yeee-hah!  Go baby go!  Go tell em 
+		not to fuck with me!
+
+	INT. BERTHA
+
+	Tibbs is preoccupied with getting the ship into L-space.  
+	Conrad is numb.  He watches Debbie's plight on the 
+	viewscreen.
+
+			CONRAD
+		Hey!  She cut herself free!  And 
+		she did something to the beacon.  
+		It's headed for the fleet.
+
+			TIBBS
+		Shit.  We just fired the first 
+		shot.  If they were friendly they 
+		won't be now.
+
+			CONRAD
+		Wait.  The beacon...
+
+	DEBBIE
+
+	Tumbles slowly through space.  At least she's alive.  She 
+	tries to keep watching the beacon as it diminishes...  then 
+	grows larger -- the beacon is COMING BACK in her direction!  
+	The jetpack has put it in a loop!
+
+			DEBBIE
+		     (wearily)
+		Yeah, whatever ...
+
+	THE BEACON
+
+	Five seconds left on the counter.  It's going to pass within 
+	100 metres of Debbie ...
+
+	THE ALIEN FLEET
+
+	Like a searchlight, a continuous beam shoots from one of 
+	the big ships.
+
+	THE BEACON
+
+	The beam surrounds the beacon in a cocoon of energy.  The 
+	timer reaches zero.  Debbie watches in awe.  The powerful 
+	explosion is contained within.  The beam ceases.
+
+	THE ALIEN FLEET
+
+	A second beam shoots out from the same alien craft.
+
+	DEBBIE
+
+	Is caught by the beam, all motion arrested.  The beam begins 
+	to pull her toward the big alien craft.
+
+			CONRAD (V.O.)
+		Debbie?  Debbie?
+
+			DEBBIE
+		I'm alive.  I'm being pulled back 
+		to their ship.  Guess they want to 
+		meet me. 
+		     (fear in her voice now)
+		Can't blame em, I'm such a fine 
+		specimen of womanhood ...
+
+	INT. BERTHA
+
+	Conrad and Tibbs are strapped into the pilot chairs.  They 
+	exchange a horrified look: what will the aliens do with 
+	her?
+
+	THE ALIEN FLEET
+
+	A smaller vessel fires its weapons.
+
+	DEBBIE
+
+	Watches the missiles streak past her.
+
+			DEBBIE
+		Conrad!
+
+	INT. BERTHA
+
+			TIBBS
+		Almost ready...
+
+	An alarm SHRIEKS.  CLOSE ON A MONITOR which reads: THREAT 
+	ALERT!  EMERGENCY MEMORY DUMP -- UPLOADING TO NETWORK ...
+
+			CONRAD
+		Incoming fire!  Punch it now!
+
+			TIBBS
+		L-drive online--
+
+	EXT. BERTHA
+
+	Too late.  The missiles obliterate the Bertha.
+
+	DEBBIE
+
+	Is almost at the alien vessel.  She witnesses the distant 
+	explosion, then disappears through an access port underneath 
+	the ship.

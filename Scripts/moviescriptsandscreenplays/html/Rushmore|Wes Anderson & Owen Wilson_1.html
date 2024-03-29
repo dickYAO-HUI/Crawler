@@ -1,0 +1,3020 @@
+<html>
+<body><!--'"</title></head>-->
+
+<script type="text/javascript">
+//OwnerIQ
+var __oiq_pct = 50;
+if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
+var _oiqq = _oiqq || [];
+_oiqq.push(['oiq_addPageBrand','Lycos']);
+_oiqq.push(['oiq_addPageCat','Internet > Websites']);
+_oiqq.push(['oiq_addPageLifecycle','Intend']);
+_oiqq.push(['oiq_doTag']);
+(function() {
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+})();
+}
+
+/////// Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-21402695-21']);
+_gaq.push(['_setDomainName', 'angelfire.com']);
+_gaq.push(['_setCustomVar', 1, 'member_name', 'movies/moviefreak', 3]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+////// Lycos Initialization /////////////////////
+var lycos_ad = Array();
+var lycos_search_query = "";
+var lycos_onload_timer;
+
+var cm_role = "live";
+var cm_host = "angelfire.lycos.com";
+var cm_taxid = "/memberembedded";
+var angelfire_member_name = "movies/moviefreak";
+var angelfire_member_page = "movies/moviefreak/rushmore.html";
+var angelfire_ratings_hash = "1711593003:0d888d88bfbe7f0a0ab929821f4c42e3";
+
+var lycos_ad_category = null;
+
+var lycos_ad_remote_addr = "209.202.244.9";
+var lycos_ad_www_server = "www.angelfire.lycos.com";
+var edit_site_url = "www.angelfire.lycos.com/landing/landing.tmpl?utm_source=house&utm_medium=landingpage&utm_campaign=toolbarlink";
+
+</script>
+<script type="text/javascript" src="https://scripts.lycos.com/catman/init.js"></script>
+
+<script type='text/javascript'>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+   var gads = document.createElement('script');
+   gads.async = true;
+   gads.type = 'text/javascript';
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') +
+     '//www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+ })();
+</script>
+
+
+<script type='text/javascript'>
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/95963596/ANG_300x250_dfp', [300, 250], 'div-gpt-ad-1450207484070-0').addService(googletag.pubads());
+   googletag.enableServices();
+ });
+</script>
+
+<script type='text/javascript'>
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/95963596/ANG_above_728x90_dfp', [728, 90], 'div-gpt-ad-1450207484070-1').addService(googletag.pubads());
+   googletag.enableServices();
+ });
+</script>
+
+<script type='text/javascript'>
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/95963596/ANG_below_728X90_dfp', [728, 90], 'div-gpt-ad-1450207484070-2').addService(googletag.pubads());
+   googletag.enableServices();
+ });
+</script>
+
+
+<script type="text/javascript">
+(function(isV) {
+    if (!isV) {
+        return;
+    }
+
+    //this.lycos_search_query = lycos_get_search_referrer();
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2","slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+
+    if (this.lycos_search_query) {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if (adCat && adCat.find_what) {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+
+    for (var s in slots) {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot)) {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+    var w = 0, h = 0, minimumThreshold = 300;
+    if (top == self) {
+        return true;
+    }
+
+    if (typeof(window.innerWidth) == 'number' ) {
+        w = window.innerWidth;
+        h = window.innerHeight;
+    }
+    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+        w = document.documentElement.clientWidth;
+        h = document.documentElement.clientHeight;
+    }
+    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+        w = document.body.clientWidth;
+        h = document.body.clientHeight;
+    }
+
+    return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+window.onload = function() {
+    var f = document.getElementById("lycosFooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
+
+    // Slider Injection
+    (function() {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+    })();
+
+
+    // Bottom Ad Injection
+    ( function() {
+        var b = document.getElementsByTagName("body")[0];
+
+        var iif = document.createElement('iframe');
+        iif.style.border = '0';
+        iif.style.margin = 0;
+        iif.style.display = 'block';
+        iif.style.cssFloat = 'right';
+        iif.style.height = '254px';
+        iif.style.overflow = 'hidden';
+        iif.style.padding = 0;
+        iif.style.width = '300px';
+        iif.src = '/adm/ad/injectAd.iframe.html';
+        
+        var cdiv = document.createElement('div');
+        cdiv.style = "width:300px;margin:10px auto;";
+        cdiv.appendChild( iif );
+        if( b )
+        {
+            b.insertBefore(cdiv, b.lastChild);
+        }
+    })();
+
+}
+
+
+</script>
+
+<style>
+#body .adCenterClass {
+  margin:0 auto;
+  display:block !important;
+  overflow:hidden;
+  width:100%;
+}
+#body .adCenterClass #ad_container {
+  display:block !important;
+  float:left;
+  width:728px;
+}
+@media (min-width: 768px) {
+  <!-- For 300px or less ads ONLY -->
+  #body .adCenterClass #ad_container {
+    width: calc(100% - 372px);
+  }
+}
+@media (min-width: 1110px) {
+  <!-- For 728px or less ads -->
+  #body .adCenterClass #ad_container {
+    width: calc(100% - 372px);
+  }
+}
+
+</style>
+
+<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
+
+    <div class="adCenterClass">
+        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
+          <img src="/adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <div id="ad_container">
+            <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+        </div>
+    </div>
+</div>
+
+<!-- ///////////////////////////////////// -->
+<script type="text/javascript">document.write(lycos_ad['slider']);</script>
+
+
+<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
+	<div id="aflinksholder" style="float:left; width:186px;">
+        <a href="https://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
+            <img src="/adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+    </div>
+    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+
+
+<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE START--->
+<script data-cfasync="false" language="javascript" async src="//udmserve.net/udm/img.fetch?sid=17754;tid=1;dt=6;"></script>
+<!--- UNDERDOGMEDIA EDGE_lycos.com JavaScript ADCODE END--->
+
+
+<title>Rushmore - By Wes Anderson & Owen Wilson</title>
+<pre>
+
+
+
+
+
+
+
+
+
+                           RUSHMORE
+ 
+                              by 
+
+                   Wes Anderson & Owen Wilson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INT. CLASSROOM - EVENING
+
+A modern day classroom. Twenty-tenth grade boys are sitting in
+desks in geometry class. They are dressed in school uniform, light
+blue shirts and khakis. The boy looks dazed and sleepy.
+
+The teacher, Mr Adams, is at the front of the room, finishing a
+complicating equation on the chalkboard.
+
+        	     MR ADAMS
+	Except when the value of the x co-ordinate 
+        is less then or equal to the value of the -
+	Yes, Isaac?
+
+A boy named Isaac has raised his hand.
+
+                     ISAAC
+        That's one fine frame.  A fine
+        frame it is.
+
+Isaac points to a startling and intricate arrangement of huge
+numbers and strange symbols filling up the forgotten corner of
+the chalkboard. The heading above it says 'Extra Credit'.
+
+                    MR ADAMS
+        Oh, I really just put that up there
+	as a joke. That's probably the hardest
+	geometry equation in the world.
+
+                    ISAAC
+	How much extra credit is it worth?
+
+                    MR ADAMS
+        Well. I've never seen anyone get it
+        before, including my mentor Dr Leaky
+        at MIT. So I guess if anyone here
+        can do it.
+	       (pause)
+        I'll make sure none of you ever have
+        to open another math book again for
+        the rest of your lives.
+
+There is some quiet murmuring. The name Fisher is repeated over
+and over. The boys begin to look to a student in the back row.
+
+Unlike his classmates, he wears the Rushmore school blazer with
+insignia in the breast and a Rushmore rep tie knotted tightly.
+His hair is smartly parted and swept back. He is extremely skinny
+and pale. He is Max Fisher.
+
+Max has a cup of coffee on his desk and he is reading the Wall 
+Street Journal.
+
+                    MR ADAMS
+        Max? You want to try it?
+
+Max looks up.
+
+                    MAX
+        I'm sorry. Did someone say my name?
+
+Everyone laughs. Max smiles slightly. He buttons his blazer and
+straightens his tie. His picks up his cup of coffee and takes a 
+sip. He goes to the chalkboard and sets to work.
+
+The boys watch with nervous anticipation. Mr Adams compares Max's
+progress with the notes in his book. Max's equation quickly fills
+up most of the board. He finishes it with a flourish, throws his
+piece of chalk in the trash, and turns to face the class.
+
+The classroom erupts into wild, ecstatic applause. Everyone
+surrounded Max, cheering as he walks calmly back to his desk. They
+hoist him into the air.
+
+                                                        CUT TO:
+
+Max with his eyes closed, smiling serenely, listening to the
+applause. He mutters.
+
+                    MAX
+        Gentlemen, gentlemen, please.
+
+A little hand grabs Max's arm and shakes him. Max opens his eyes.
+The person shaking him is his chapel partner, Dirk Calloway, a
+fourth grader with nearly white hair. Max looks around.
+
+They are in a chapel, surrounded by rows of boys in school uniform.
+Dirk puts his finger to his lips.
+
+                    DIRK
+        Ssh.
+
+Max rubs his eyes and sits up in the pew. The applause dies down and
+Max looks up to the pulpit as the guest chapel speaker, Herman Blume,
+steps up to the microphone.
+
+Mr Blume is a tough-looking guy about fifty years old in a black suit.
+He begins his chapel speech.
+
+                   MR BLUME
+        You guys have it real easy. I never
+ 	had it like this where I grew up.
+	But I send my kids here. Because the
+	fact is, whether you deserve it or
+	not; you go to one of the best 
+        schools in this country.
+
+Max's eyes light up.
+
+                   MR BLUME
+        Rushmore. You lucked out.
+
+Max leans forward to the railing and begins to listen intently.
+
+                   MR BLUME
+        Now for some of you it doesn't matter
+	You were born rich and you're going to
+	stay rich. But here's my advice to the
+	rest of you: take dead aim on the rich
+	boys. Get them in the cross-hairs. And
+	take them down.
+
+Some of the students and faculty begin to look at each other with
+puzzled expressions. Max is nodding and taking notes on the flypage
+of a hymnal.
+
+	INSERT HYMNAL:
+
+		Rushmore - best school in country.
+		rich kids - bad?
+
+Mr Blume leaves the podium. Max leaps to his feet and leads the
+big applause. The organ starts and everyone stands up.
+
+EXT. QUADRANGLE - DAY
+
+Mr Blume and the headmaster, Dr Guggenheim, come out of the chapel
+among the throng of students.
+                            
+Dr Guggenheim wears a wool coat and smokes a pipe. He is very
+dashing with silver hear and a warmly patronizing manner. He walks
+with his hands clasped behind his back.
+
+                   DR GUGGENHEIM
+        Are you free for graduation, Herman?
+	Maybe you could give us an encore.
+	      (whistles to the dog)
+	Nicholas! Copernicus!
+
+                   MR BLUME
+              (lighting a cigarette)
+	I don't give a shit. I paid for the
+	whole damn natatorium. The least these
+	little pricks can do is hear me out.
+
+                   MAX
+        Mr Blume. 
+                
+Max has appeared beside him. Dirk tags along behind him.
+
+                   MAX
+        My name is Max Fisher. I just wanted
+	to tell you, I strongly agree with
+	your views concerning Rushmore.
+
+                   MR BLUME
+        You don't say. Tell me something. How
+	long have you gone here?
+
+		   MAX
+	Ten years.
+
+		   MR BLUME
+	Then you've been in a dreamworld for
+	ten years.
+		   MAX
+	I know it, sir.
+
+Max smiles broadly. They each notice that their haircuts are 
+identical, neatly parted on the side.
+
+		   MAX
+	Your speech was excellent. Except, 
+        I disagree with your ideas about 
+        rich kids. Because, after all, we 
+        don't choose who our fathers are. 
+        But that's really my only criticism.
+		
+		   MR BLUME
+              (hesitates)
+        Thank you.
+
+Mr Blume looks at Dirk staring up at him. Dirk says softly.
+
+                   DIRK
+        Hello.
+
+                   MAX
+        This is my chapel partner, Dirk
+	Calloway.
+
+                   MR BLUME
+              (shakes Dirk's hand)
+        Nice to meet you, Dirk.
+
+		   MAX
+	Thank you for coming today, sir.
+
+Max shakes Mr Blume's hand. Mr Blume smiles. But Max doesn't go.
+He just stands there. Searching for the words.
+
+		   MAX
+	I really. I think it's. You're 
+        right about Rushmore. Look around. 
+	It truly is a great school.
+
+Mr Blume nods. A little uneasy.
+
+		   MAX
+	Anyway, nice to have met you.
+
+Max goes. Mr Blume and Dr Guggenheim watch him walk away with Dirk.
+
+		   MR BLUME
+	What's his name again?
+
+		   DR GUGGENHEIM
+	Max Fischer.
+
+                   MR BLUME
+	He's a sharp little guy.
+
+Dr Guggenheim looks across the lawn at Max and his chapel partner.
+He says wistfully.
+
+		   DR GUGGENHEIM
+	He's one of the worst students 
+        we've got.
+
+	INSERT COVER OF THE RUSHMORE YEARBOOK:
+
+It is called the Rushmore Yankee. The masthead says Max is editor-
+in-chief. There is a photograph of him laughing, surrounded by his
+staff.
+
+We cut to a series of pictures of:
+
+The French Club, Debate Team, cross-country, lacrosse, golf, drama,
+Astronomy Society, Glee Club, student council, Model United Nations,
+Stamp and Coin Club, Gun Club, Bombardment Society, calligraphy,
+fencing, kung fu, bee-keeping, and J.V. water polo.
+
+Max is president or captain of virtually every one of these.
+
+Other photographs show Max pole-vaulting, dancing at the Christmas
+Ball, and giving thumbs-up from the cockpit of a Piper Club.
+
+	    TITLE:
+
+		    September.
+
+INT. DR GUGGENHEIM'S OFFICE - DAY
+
+A paneled room with wooden floors, an old electric fan on the
+windowsill, and the paintings of ducks and geese on the walls.
+Dr Guggenheim is seated at his little oak desk. Max sits across
+from him.
+
+		   DR GUGGENHEIM
+	We're putting you on what we call
+	sudden death academic probation.
+
+		   MAX
+              (nodding)
+	And what does that mean?
+
+		   DR GUGGENHEIM
+	It entails that if you fail another 
+	class you're going to be asked to
+	leave Rushmore.
+
+		   MAX
+	I see.
+              (raises an eyebrow)
+	In order words I'll be expelled.
+
+		   DR GUGGENHEIM
+	Right.
+
+Silence.
+
+		   MAX
+	Dr Guggenheim. I don't want to tell
+	you how to do your job. But the fact
+	is no matter how hard I try I still
+	might flunk another class. And if
+	that means I have to stay on for a
+	postgraduate year, then so be it.
+	But if -
+
+		   DR GUGGENHEIM
+	We don't offer a postgraduate year.
+
+		   MAX
+	Well. We don't offer it yet.
+              (pause)
+	And what about the fact that I'm
+	probably dyslexic?
+
+		   DR GUGGENHEIM
+	You're not dyslexic.
+
+		   MAX
+	Well, I'm a terrible speller.
+		
+		   DR GUGGENHEIM
+	Just bring up the grades.
+
+Max sighs. He looks out the window and says quietly.
+
+		   MAX
+	You remember you I got into this
+	school?
+
+		   DR GUGGENHEIM
+	Yes, I do. You wrote a play.
+		   MAX
+	That's right. A little one act. About
+	Watergate. And my mother read it and 
+	felt I should go to Rushmore. And you
+	read it and you gave me a scholarship,
+	didn't you?
+ 
+Dr Guggenheim nods.
+ 
+		   MAX
+	Do you regret it?
+ 
+		   DR GUGGENHEIM
+	No, I don't regret it. But I still
+	might have to you expel you.
+ 
+Max nods. He smiles sadly and whispers:
+ 
+		   MAX
+	Couldn't we just let me float by?
+	For old times' sake?
+ 
+		   DR GUGGENHEIM
+	      (grimly)
+	Can't do it, Max.
+ 
+EXT. QUADRANGLE - DAY
+ 
+Max and Dirk comes out the door into the cold. They head across
+the grass.
+ 
+		   MAX
+	They want to kick me out, Dirk.
+ 
+		   DIRK
+	      (concerned)
+	Oh, no. Not again. What are you
+	going to do?
+ 
+		   MAX
+	The only thing I can do. Try to
+	pull some strings with the
+	administration, I guess.
+ 
+		   DIRK
+	Maybe you ought to get a tutor.
+ 
+		   MAX
+	I don't have time for a goddamn
+	tutor. You know my schedule.
+ 
+	INSERT SIGN WRITTEN IN CALLIGRAPHY:
+ 
+		BACKGAMMON CLUB
+	      Founder: Max Fischer
+ 
+INT. LIBRARY - DAY
+ 
+A long table in the Rushmore library. Max is reading a library
+copy of a book about Jacques Cousteau. He is also playing
+backgammon with a freshman named Alex.
+ 
+		   ALEX
+	Did you hear they're teaching
+	Japanese next year?
+ 
+		   MAX
+	That's the rumor.
+ 
+		   ALEX
+	And they're canceling Latin.
+ 
+		   MAX
+	What? I tried to get Latin canceled
+	for five years. It's a dead
+	language, I'd always say.
+ 
+		   ALEX
+	Well, I guess they finally heard
+	you.
+ 
+Max shakes his head as this sinks in.
+ 
+		   MAX
+	At least I saved Dirk from the
+	horror.
+ 
+Max turns the page of his book. There is a photograph of
+Jacques Cousteau laughing uproariously. A little note is
+written in pencil in the margin next to it with an arrow
+pointing to the picture. Max frowns. He turns the book
+sideways to read it.
+ 
+	INSERT FRAGMENT OF NOTE IN BOOK:
+	   When one person, for whatever reason,
+	   has a chance to lead an exceptional
+	   life, he has no right to keep it to
+	   himself.
+			-Jacques Cousteau
+ 
+Max's frown disappears. A change comes over his face. His
+eyes glaze over dreamily. He whispers to Alex:
+ 
+		   MAX
+	Read this.
+ 
+Alex reads the quote. He looks puzzled.
+ 
+		   ALEX
+	What's that supposed to mean?
+ 
+		   MAX
+	      (mysteriously)
+	I don't know. Maybe nothing.
+	Excuse me, please.
+ 
+Max gets up and goes to the checkout counter. He shows the
+book to the Librarian.
+ 
+		   MAX
+	I'd like to see a list of all
+	the people who've checked-out
+	this book in the past year.
+ 
+		   LIBRARIAN
+	Why?
+ 
+Max points to the quote. The librarian reads it. She nods.
+She goes through the cards in a little wooden box.
+ 
+	INSERT SCRAP OF PAPER
+ 
+	    Miss Cross, 1st grade, room 121
+ 
+INT. HALLWAY - DAY
+ 
+Max walks down a hallway in the lower school. He is carrying
+the little scrap of paper, checking room numbers as he walks.
+ 
+He looks in some of the rooms. He sees kids sitting at tables
+with scissors and paste. Kids watching a movie on science.
+Kids curled-up on mats during naptime.
+ 
+And then he sees room 121. He goes to the door and looks
+through the window.
+ 
+A class of first graders are sitting Indian-style in a little
+circle on the floor. The teacher is in a tiny kid's chair,
+reading aloud from Kidnapped. She is twenty-eight. She wears a
+cardigan sweater and her hair is pulled back like a ballet
+dancer. She is Miss Cross.
+ 
+Max's eyes are glued to the glass. He cracks open the door an
+inch to listen to hear voice.
+ 
+		   MISS CROSS
+	I have seen wicked men and fools,
+	a great many of both; and I believe
+	they both get paid in the end.
+	      (darkly)
+	But the fools first.
+ 
+She looks up mysteriously. The turns the page and continues:
+ 
+		   MISS CROSS
+	Chapter Fifteen. 'The Lad with the
+	Silver Button'.
+ 
+INT. BLUME INTERNATIONAL CONCRETE - DAY
+ 
+Mr Blume has a gigantic office with paintings of battle scenes
+and Viking ships, a coat of armor, and a statue of a discus
+thrower. The concrete plant is outside the window.
+ 
+A portrait of the Blume family hangs on the wall behind Mr
+Blume's desk. His wife and twin sons are all fair-skinned
+redheads. Mr Blume is a dark and sullen. He is smoking a
+cigarette on the painting.
+ 
+Mr Blume sits at his desk with a silver military issue .45
+automatic disassembled in front of him. He is cleaning it
+and drinking a Bloody Mary. His Secretary buzzes him on the
+speakerphone. Mr Blume pushes a button on it.
+ 
+		   MR BLUME
+	Yeah?
+ 
+		   SECRETARY
+	Mrs Blume wants you to pick up
+	the twins from school at -
+ 
+		   MR BLUME
+	Tell them to take the fucking bus.
+ 
+INT. CAR - DAY
+ 
+Max is sitting in a parked Jaguar with Dirk's mother, Mrs
+Calloway. She is beautiful. She is dressed in tennis clothes
+and wears a terrycloth visor.
+ 
+Max is wearing a fluorescent orange crossing guard's belt
+with a badge at the shoulder that says Patrol Chief. He hands
+Mrs Calloway his phone number.
+ 
+		   MRS CALLOWAY
+	Thank you, Max. I was just telling
+	Mr Calloway the other day how
+	fortunate we are to have someone
+	like you looking out for Dirk.
+ 
+		   MAX
+	My pleasure. I'm just trying to
+	impart some of the experiences I've
+	accrued to help Dirk. There he is
+	now. Nice talking with you, Mrs
+	Calloway.
+ 
+They shake hands. Max gets out of the car and puts his hand
+on Dirk's shoulder.
+ 
+		   MAX
+	How'd the math test go?
+ 
+		   DIRK
+	What math test?
+ 
+		   MAX
+	I thought you had a math test.
+ 
+		   DIRK
+	No. Did you turn in your paper
+	on the Berlin Airlift?
+ 
+		   MAX
+	Yeah. I got an extension.
+ 
+Dirk gets in the car and drives off. A seventh grader named
+Bobby goes over to Max.
+ 
+		   BOBBY
+	How'd it go?
+ 
+		   MAX
+	I shook hands with her.
+ 
+		   BOBBY
+	Big deal.
+ 
+		   MAX
+	And I gave her my phone number.
+ 
+		   BOBBY
+	Buchan said he's already have 
+	banged her by now.
+ 
+		   MAX
+	He said that?
+ 
+Max looks across the yard at Magnus Buchan, the burly foreign-
+exchange student from Scotland. He is seventeen. He has a straw
+in his mouth, and he shoots a small blowdart at a little kid's
+neck.
+ 
+Half of Buchan's ear was blown off in a hunting accident.
+ 
+		   MAX
+	That's a really crude thing to
+	say. That's Dirk's mother.
+ 
+		   BOBBY
+	But I thought that's why you
+	picked Dirk as your chapel
+	partner.
+ 
+		   MAX
+	      (looks at Bobby, pause)
+	What are you, a lawyer? All I'm
+	saying is that gorilla is a guest
+	at our school for the year, so
+	respect our women the same way we
+	would in his jerkwater country.
+ 
+Mr Blume pulls up in a brand new black Bentley.
+ 
+		   MAX
+	Mr Blume.
+ 
+Max goes over to Mr Blume's car.
+ 
+		   MAX
+	It's Max Fischer.
+ 
+		   MR BLUME
+	      (weary)
+	Hi, Max.
+ 
+They shake hands through the open car window.
+ 
+		   MAX
+	How's the concrete business?
+ 
+		   MR BLUME
+	Oh, I don't know. By the time you
+	hit forty-five you've been fucked
+	over so many times you don't really
+	care anymore.
+ 
+		   MAX
+	      (frowns)
+	I'm sorry to hear that.
+ 
+Mr Blume sighs deeply. He stares out the windshield.
+ 
+		   MR BLUME
+	What's the secret, Max?
+ 
+		   MAX
+	The secret?
+ 
+		   MR BLUME
+	Yeah. You look like you've got
+	it all figured out.
+ 
+		   MAX
+	I don't know. I think you just got
+	to find something you love to do,
+	then do it for the rest of your
+	life.
+	      (shrugs)
+	For me, it's going to Rushmore.
+ 
+Max looks very serious. Mr Blume smiles and nods.
+ 
+		   MAX
+	Hey, Ronny. Hey, Donny.
+ 
+Mr Blume's red-headed twins Ronny and Donny come over to the
+car. They're Max's age but much more thick and solid.
+ 
+		   RONNY
+	Shotgun.
+ 
+Donny gets in the front seat anyway. Ronny hollers:
+ 
+		   RONNY
+	I said shotgun, Donny!
+ 
+		   MR BLUME
+	Get in the back, Ronny.
+ 
+Donny punches three different buttons on the dash that crank up
+the AC full blast. Mr Blume's hair dances in the cold burst of
+air. He shuts it off the AC.
+ 
+		   MAX
+	See you tomorrow, Mr Blume.
+	      (looks off)
+	Mrs Reynolds!
+ 
+Max goes to shake hands with somebody else's parents. Mr Blume
+looks after Max fondly.
+ 
+		   MR BLUME
+	Did you invite that kid to the
+	party?
+ 
+		   DONNY
+	      (shocked)
+	Max Fischer?
+ 
+		   RONNY
+	Come on, dad. There's going to 
+	be girls there.
+ 
+		   DONNY
+	Pull your head out of your ass.
+ 
+Mr Blume turns on Donny quickly like he is going to attack
+him. Donny cowers grinning in the backseat with his fist up.
+Ronny pipes in:
+ 
+		   RONNY
+	Remember what mom said. Hugs not
+	hits.
+ 
+INT. AUDITORIUM - DAY
+ 
+The school auditorium. The stage is bare except for two folding
+chairs. A tall senior plays Frank. He is wearing a stocking cap
+and sunglasses. A fat kid plays Willie.
+ 
+		   FRANK
+	Wait a second. What time did the
+	old lady place the 911 call?
+ 
+		   WILLIE
+	Ten-fifteen.
+ 
+		   FRANK
+	      (snaps his fingers)
+	That's it.
+ 
+Frank jumps out of his seat.
+ 
+		   FRANK
+	Meet me on the corner in ten
+	minutes.
+ 
+		   WILLIE
+	Where're you going?
+ 
+		   FRANK
+	I'll tell you in the squad car.
+ 
+He heads toward the wings, then stops.
+ 
+		   FRANK
+	Oh, and, Willie. You were wrong
+	about Enrique Sanchez. He died
+	in his sleep.
+ 
+He exits.
+ 
+		   MAX
+	Excellent!
+ 
+Willie looks into the darkness beyond the stage. Max emerges
+and quickly climbs the steps onto the stage. He is followed
+by Dirk who is holding a script.
+ 
+		   MAX
+	Excellent. Irving?
+ 
+The stage manager is a wavy-haired sophomore named Irving. He
+comes out from backstage. Max pulls some money out his pocket
+and hands it to him.
+ 
+		   MAX
+	Get some root beers for anybody
+	who wants one. I don't want one.
+	OK. Next scene.
+	      (looks at Dirk's script)
+	Frank. You enter stage right with
+	the bag of cocaine.
+ 
+INT. BARBER'S SHOP - DAY 
+ 
+A small, clean barber's shop. Mr Fischer is a white-haired man of sixty-five
+in a white barber's shirt. He has just finished giving a buzzcut to a twelve
+year-old boy named Gordon.
+
+                   GORDON
+        May I see the back, please?
+        
+Mr Fischer holds up a hand mirror so Gordon can see the back. Gordon nods.
+Max comes in rolling a Japanese ten-speed at his side.
+
+		   MR FISCHER
+	Hey, Max. How was your day?
+		
+		   MAX
+	Mh. I'd say
+	      (thinks for a second)
+	Ninety-eight percent good, two percent 
+	not so good. I need a signature on this 
+	geometry test, by the way.
+
+Max leaves his test on the counter and rolls his bike into the back room. 
+Gordon gives Mr Fischer ten dollars.
+
+		   GORDON
+	Thank you very much.
+
+Gordon goes out of the door. Mr Fischer looks at the geometry test. Max
+comes out of the back room drinking a glass of chocolate milk with a straw.
+ 
+		   MR FISCHER
+	Hm.
+ 
+		   MAX
+	I know.
+ 
+		   MR FISCHER
+	A 37.
+ 
+		   MAX
+	Pathetic. Just pathetic.
+ 
+		   MR FISCHER
+	Well. It could've been worse. You were 
+	right more than a third of the time.
+ 
+		   MAX
+	      (exploding)
+	Come on, Dad! That stinks! I can do
+	better than that!
+ 
+		   MR FISCHER
+	Of course, you can.
+ 
+		   MAX
+	For once, will you please try no to
+	look on the bright side?
+ 
+		   MR FISCHER
+	Sit down and let me give you a trim.
+ 
+Max sights deeply. He sits down. Mr Fischer signs the geometry test. He
+puts a pale-blue smock over Max and gives him a haircut.
+ 
+		   MAX
+	Do you think I'm stupid?
+ 
+		   MR FISCHER
+	No! You're just not very good at
+	math.
+ 
+		   MAX
+	But I'm failing English and History,
+	too.
+ 
+		   MR FISCHER
+	      (pause)
+	Well. Maybe you'd be better of at a
+	school where there's not so much
+	emphasis on academics.
+ 
+		   MAX
+	What, like barber college?
+ 
+Mr Fischer is stricken. Max says quietly.
+ 
+		   MAX
+	No. I love Rushmore. I don't want
+	to go someplace second rate. Besides,
+	it would ruin my chances of getting
+	into Oxford.
+ 
+EXT. SOCCER FIELD - DAY
+
+Miss Cross is sitting on the bleachers watching her class
+play Capture-the-Flag. She opens the book. It is 20,000
+Leagues under the Sea. She puts a cigarette in her mouth
+and searches for a lighter.
+
+A lit match appears in front of her. Max is holding it.
+He is wearing a maroon beret. Miss Cross looks at him
+curiously.
+
+		   MAX
+	Hello.
+
+		   MISS CROSS
+	Hi.
+
+Miss Cross lights her cigarette from Max's match.
+
+		   MISS CROSS
+	I like your hat.
+
+		   MAX
+	Thank you. You're a teacher here,
+	aren't you?
+
+		   MISS CROSS
+	Uh-huh.
+
+		   MAX
+	What subject do you teach?
+
+		   MISS CROSS
+	Well, I teach first grade, so I
+	do all the subjects. Except music.
+
+		   MAX
+	And this is your first year at
+	Rushmore, I take it.
+
+Miss Cross nods.
+
+		   MAX
+	I see. How long have you been a
+	smoker, if you don't mind me
+	asking?
+
+		   MISS CROSS
+	Hm. Let's see. How old are you?
+
+		   MAX
+	Fifteen.
+
+		   MISS CROSS
+	Since I was your age.
+
+		   MAX
+	You're kidding.
+
+Miss Cross shakes her head. Max can't believe this.
+
+		   MAX
+	You should quit.
+
+		   MISS CROSS
+	You're right.
+
+		   MAX
+	      (going back to his 
+	       book)
+	And I should mind my own business.
+
+Miss Cross laughs. Max looks back up.
+
+		   MAX
+	Where'd you go to school, by the
+	way?
+
+		   MISS CROSS
+	Harvard.
+
+		   MAX
+	Really? That's a coincidence. My top
+	schools where I want to apply are
+	Oxford and the Sorbonne. But my
+	safety is Harvard.
+
+		   MISS CROSS
+	      (smiles)
+	That's very ambitious.
+
+		   MAX
+	Thank you.
+
+		   MISS CROSS
+	What are you going to major in?
+
+		   MAX
+	Well. I haven't decided for sure.
+	But probably a double-major in
+	Mathematics and Pre-Med. What was
+	your major?
+
+		   MISS CROSS
+	Latin-American studies.
+
+		   MAX
+	Ah. That's interesting. Did you hear
+	they're not going to teach Latin
+	here anymore?
+
+		   MISS CROSS
+	This is more like Central America.
+
+		   MAS
+	      (pause)
+	Sure. Central America and what-not.
+	But moving on: they're going to
+	cancel Latin. They have to make
+	room for Japanese.
+
+		   MISS CROSS
+	Really? That's too bad. All the
+	Romance Languages come from Latin.
+
+		   MAX
+	They do, don't they?
+	      (pause)
+	Like French, probably.
+
+She nods. She smiles.
+
+		   MISS CROSS
+	Nihilo sanctum estne?
+
+		   MAX
+	That's Latin, isn't it?
+
+		   MISS CROSS
+	Yeah.
+
+		   MAX
+	What does it mean?
+
+		   MISS CROSS
+	Is nothing sacred?
+
+Long pause. Looking right at her.
+
+		   MAX
+	Sic transit gloria. Glory fades,
+	I'm Max Fischer.
+
+Max slides down the bench and puts out his hand.
+
+		   MISS CROSS
+	Hi.
+
+They shake hands.
+
+INT. LUNCHROOM - DAY
+
+A crowd of Middle Schoolers has gathered around Max. He
+is holding a clipboard. One of the kids finishes signing
+a piece of paper on it.
+
+		   MAX
+	Good. Now you.
+	      (points to the next
+	       kid)
+	Sign here.
+
+The kid signs.
+
+	INSERT PIECE OF PAPER:
+
+A long list of signatures. Many of them are written in
+little kids' handwriting. Some are neater. Across the
+top it says PETITION. This is written in calligraphy.
+
+						CUT TO:
+
+The administration conference room. Ten teachers sit in
+chairs around a long table. Max stands before them
+finishing a speech. The petition is tacked up on the 
+wall behind him.
+
+		   MAX
+	In summation I have only one question: 
+	Is Latin dead? Nisilum sacnus?
+	      (pause, looks at his
+	       notecards)
+	estne? Only you can say. Thank you
+	for your time.
+
+Applause.
+
+	INSERT ANNOUNCEMENT:
+
+	    Thanks in part to the efforts of
+	    tenth-class member Max Fischer,
+	    Latin will now be a required
+	    course for grades 7 through
+
+INT. HALLWAY - DAY
+
+Max and a bunch of other kids are reading this 
+announcement on the bulletin board. Max is smiling
+serenely. The others are cursing and looking at Max
+with angry faces. Magnus Buchan is one of them. He
+has a strong Scottish accent.
+ 
+		   MAGNUS
+	Bugger off, Fischer. Ya bleedin'
+	little bollocks.
+ 
+		   MAX
+	Is that Latin? Not bad, Buchan.
+	Maybe you'll place out of your
+	first year.
+ 
+INT. GYM - DAY
+
+Mr Blume's son Ronny is in a wrestling mach. He has
+his opponent in a choke hold and is slowly strangling
+him. Mr Blume looks on distastefully from the stands.
+Max is at his side.
+
+		   MR BLUME
+	What does your dad do, Max?
+
+		   MAX
+	      (frankly)
+	He's a neurosurgeon. Over at St.
+	Joseph's. Personally, I could
+	never see myself cutting open
+	somebody's brain. But he seems
+	to enjoy it.
+
+Max shrugs. Mr Blume nods.
+
+ 
+		   MAX
+	You were in Vietnam, if I'm not
+	mistaken, weren't you?
+
+Mr Blume nods. Max thinks for a minute.
+
+		   MAX
+	Were you in the shit?
+
+		   MR BLUME
+	Yeah. I was in the shit.
+
+They look back out at the wrestling match. Ronny is
+crushing his opponent's face into the mat with his fist.
+Mr Blume shakes his head.
+
+		   MR BLUME
+	Tell me something, Max. What do you
+	think of Ronny and Donny?
+
+		   MAX
+	     (automatically)
+	I like them.
+
+		   MR BLUME
+	     (surprised)
+	Really?
+
+		   MAX
+	Sure.
+
+Ronny flips his opponent on the mat and flattens him with
+his body. Donny screams encouragement.
+
+		   MR BLUME
+	No. You're right. They're good kids.
+
+Max nods solemnly.
+
+		   WRESTLER
+	See you Sunday, Mr Blume.
+
+A stocky Wrestler with an ice pack on his arm walks by on
+his way to the showers. Mr Blume nods to him without
+looking up.
+
+		   MAX
+	What's Sunday?
+	
+Mr Blume looks to Max. Silence.
+
+		   MR BLUME
+	The twins are having a birthday 
+	party. And I'd love it if - 
+
+		   MAX
+	Oh, that's right. Yeah. I'm not 
+	going to be able to make it to that
+	one.
+
+Max smiles very sincerely. Silence.
+
+		   MR BLUME
+	Come work for me.
+
+		   MAX
+	     (stiffens)
+	What do you mean?
+
+		   MR BLUME
+	I mean, I could use somebody like
+	you. I could -
+
+	         MAX
+	I may not be rich, Mr Blume. And
+	my father may only be a doctor. But
+	we manage.
+
+		   MR BLUME
+	     (hesitates)
+	I didn't mean it like that. I just -
+
+		   MAX
+	No, trhank you. I mean, I appreciate
+	the offer. But I've got everything I
+	need right here at Rushmore. Besides,
+	it wouldn't be fair.
+
+		   REFEREE
+	110s!
+
+		   MAX
+	Excuse me, Mr Blume. Nice talking
+	with you.
+
+Max pulls off his blazer. He is wearing wrestling tights
+underneath. Mr Blume looks suprised.
+
+		   MR BLUME
+	You're on the team?
+
+		   MAX
+	     (shrugs)
+	I'm an alternate.
+
+Max heads out to the mat, pulling on his headgear. Mr 
+Blume calls after him:
+
+		   MR BLUME
+	What wouldn't be fair, Max?
+
+		   MAX
+	     (smiles crookedly)
+	We'd make way too much money working
+	on the same team.
+
+Mr Blume smiles faintly. He watches as Max begins his 
+math. Max is outclassed and quickly gets pinned.
+
+INT. HALLWAY - DAY
+
+Miss Cross is shepherding her class into her classroom.
+They are singing a song as they walk down the corridor.
+Across the hall a fourth-grade teacher, Mrs Guggenheim,
+comes out of her classroom. She is a handsome woman in
+her late sixties with black and silver hair.
+
+		   MISS CROSS
+	Mello, Mrs Guggenheim.
+
+	         MRS GUGGENHEIM
+	Hi, Rosemary. Did you find a place?
+
+		   MISS CROSS
+	Well, I'm just staying over at
+	Edward's parents' house for now.
+	They're out of town.
+
+		   MRS GUGGENEHIM
+	Oh. That's good.
+	     (pause)
+	Edward was one of my students, you
+	know.
+
+Miss Cross smiles and nods. Silence. Miss Cross points
+to a photograph in a collage on a wall.
+
+		   MISS CROSS
+	I think I met that boy yesterday.
+
+Mrs Guggenheim looks at the picture.
+
+	INSERT PHOTOGRAPH:
+
+It is black and white of Max in fifth grade singing a
+show tune. His arms are opened wide and he has a top
+hat in one hand and cane in the other.
+
+		   MRS GUGGENHEIM
+	     (frowns)
+	That's Max Fischer. How'd you get
+	mixed up with him?
+
+		   MISS CROSS
+	He introduced himself to me. I
+	liked him, actually.
+
+		   MRS GUGGENHEIM
+	     (resigned)
+	Yeah, I know. So do I.
+
+EXT. COUNTRY CLUB - DAY
+
+Ronny and Donny set upon a pile of birthday presents
+at a table by the pool. They are surrounded by kids
+in swimsuits.
+
+Mr Blume sits alone at the next table drinking a
+whiskey in front if the demolished birthdat cake. He 
+has a tatoo on his shoulder that says Semper Fi. 
+There is a bucket of golf balls in front of him and
+he absently tosses them into the pool one at a time.
+
+He looks over at Mrs Blume. She has red hair just
+like the twins. She is flirting with a pretty boy
+Tennis Pro. She looks back to Mr Blume coldly.
+
+Mr Blume gets up and walks around the pool. He
+pauses to shake hands with a Big Man drinking a glass
+of Scotch. The big man gives Mr Blume a sudden shove
+toward the pool, but hangs on to him so he doesn't
+fall in. The big man laughs.
+
+Mr Blume climbs up the ladder to the high dive. He
+sets down his cocktail. He slips and falls and bangs
+his knee hard on the edge of the bpard. He gets up 
+quickly. Ther is a bad cut on his knee and he is
+bleeding. He looks out at the birthday party down
+below.
+
+People begin to notice him up there.
+
+He sprints down the board, bounces once as high as he
+can, and sails out long through the air. He tucks into
+a cannon-ball. He nails the water with a huge splash.
+
+Mrs Blume gets up with a bitter look on her face and
+heads for the ladies' room.
+
+Kids gather at the edge of the pool to look down at
+Mr Blume playing dead at the bottom with golf balls all
+around him. A little boy in a Speedo underwear swims to 
+examine Mr Blume. Their eyes meet. The boy turns and 
+swims away.
+
+INT. CLASSROOM - DAY
+
+Miss Cross' classroom. The walls are lined with
+fishtanks that glow blue and make bubbling sounds.
+There are maps and pictures everywhere. A model of a
+747 hangs from the ceiling. A record player plays the
+Vienna Boys' Choir at a low volume.
+
+There is only one Kid in the room. He is taking a test. 
+Miss Cross sits at her desk grading papers.
+
+Max cracks open the door.
+
+		   MAX
+	Miss Cross?
+
+Miss Cross and the kid look back at Max. Miss Cross
+holds her finger to her lips and gets up. As she walks
+past the kid she puts her hand on the top of his head.
+She goes to Max at the door. She whispers:
+
+		   MISS CROSS
+	He's taking a make-up test.
+
+		   MAX
+	These guys have tests?
+
+		   MISS CROSS
+	Of course.
+
+		   MAX
+	I thought they just did coloring and
+	stuff.
+
+		   MISS CROSS
+	Oh, no. They're good readers.
+
+		   MAX
+	I'm Max Fischer. We met the other
+	day.
+
+		   MISS CROSS
+	I know who you are. How are you?
+
+		   MAX
+	Fine, thank you.
+
+Max just stands there.
+
+		   MISS CROSS
+	You want to help me feed the fish?
+
+		   MAX
+	Yes, please.
+
+Max follows her from tank to tank as she shakes out
+fish food. They continue to whisper to each other:
+
+		   MAX
+	I thought I would just let you
+	know, as per our conversation
+	the other day -
+
+		   MISS CROSS
+	Latin?
+
+		   MAX
+	Right. The Romance Languages. I gave
+	a little speech -
+
+		   MISS CROSS
+	I heard about this.
+
+		   MAX
+	You did?
+
+		   MISS CROSS
+	Uh-huh. I understand you made a very
+	convincing argument.
+
+		   MAX
+	I thought you'd be pleased to hear
+	they're going to continue the
+	Latin program.
+
+She looks at Max. She sets down the fish food and
+shakes his hand.
+
+		   MISS CROSS
+	I'm very impressed.
+
+		   MAX
+	Thank you very much.
+
+Max picks up the can of fish food and shakes some
+into one of the acquariums.
+
+		   MAX
+	You need an assistant?
+
+		   MISS CROSS
+	     (smiles)
+	Do we get to have assistants around
+	here?
+
+		   MAX
+	I doubt it. I'm on scholarship,
+	though. Academic scholarship. So
+	sometimes I get to do odd jobs.
+	     (pause)
+	How did you decide to teach at
+	Rushmore?
+
+		   MISS CROSS
+	My husband went here.
+
+Max drops the can of fish food into the tank. He
+quickly fishes it out.
+
+He picks some little bits of fish food out of the
+water and throws them away. Pause.
+
+		   MAX
+	I didn't know you were married.
+
+		   MISS CROSS
+	Well, he's dead now. So I'm not
+	actually married.
+
+	         MAX
+	When did he die?
+
+		   MISS CROSS
+	Last year.
+
+Max nods. Silence.
+
+		   MAX
+	My mother's dead.
+
+		   MISS CROSS
+	Oh. I'm sorry to hear that.
+
+		   MAX
+	She died when I was seven.
+	     (raising an eyebrow)
+	So we both have dead people in
+	our families.
+
+They look at each other for a minute.
+
+		   MAX
+	Now what's going on in here?
+
+Max kneels down and looks into one of the fishtanks.
+There are a hundred little seahorses swimming around
+in it.
+
+		   MISS CROSS
+	Those were just born.
+
+A look of wonder comes across Max's face. He stares
+into the blue water.
+
+		   MAX
+	You really love fish, don't you?
+
+Miss Cross nods. Max puts his fingers to the glass.
+
+		   MAX
+	How much do these cost?
+
+INT. BLUME INTERNATIONAL CONCRETE - DAY
+
+Mr Blume's office. HE is talking on the telephone. Max
+sits in a chair across from him.
+
+		   MR BLUME
+	I don't want any alloys. I want
+	steel.
+	     (pause)
+	I don't give a rat's ass if he did.
+	     (pause)
+	Steel, Harry.
+
+He hangs up.
+
+		   MR BLUME
+	You change your mind? You want the
+	job?
+
+		   MAX
+	No. But I've got an idea. And need
+	some money.
+
+Mr Blume's secretary buzzes him on the speakerphone.
+
+		   SECRETARY
+	Mr Blume, they're ready for you in
+	Hyrdraulics.
+
+		   MR BLUME
+	Come with me. Let's hear your idea.
+
+INT. FACTORY - DAY
+
+Max, Mr Blume, and a big foreman named Ernie race
+across the factory in a souped-up golf cart. They're
+squeezed together with Max in the middle.
+
+		   MAX
+	Rushmore deserves an acquarium. A first
+	class acquarium where scientists can
+	lecture, and students can study marine
+	life in their natural -
+
+		   MR BLUME
+	I don't know. What do you think, Ernie?
+
+		   ERNIE
+	     (skeptical)
+	An acquarium?
+
+		   MAX
+	A hyge acquarium. An entire building.
+
+		   MR BLUME
+	What kind of fish?
+
+INT. FACTORY - DAY
+
+Mr Blume and Max, wearing hard hats, stand on a
+scaffolding overlooking a huge cat of bubbling
+conrete.
+
+		   MAX
+	     (shouting)
+	Electric eels. Barracudas. Stingrays.
+	Hammerheads. Piranhas.
+
+		   MR BLUME
+	Piranhas?
+
+		   MAX
+	That's right. Piranhas. I talked
+	to a man in South America.
+
+		   MR BLUME
+	Really. So you might have piranhas.
+
+		   MAX
+	We will have piranhas.
+
+INT. MR BLUME'S OFFICE - DAY
+
+Back in Mr Blume's office. They're seated as before.
+Max is still wearing his hard hat.
+
+		   MR BLUME
+	What does Guggenheim say?
+
+		   MAX
+	Nothing. I felt I should go to
+	you first.
+
+		   MR BLUME
+	Why?
+
+		   MAX
+	Because at this moment I feel our
+	best strategy is to keep a low
+	profile. The more preparation I can
+	do, the stronger our case will be
+	when we go to the administration.
+
+Long pause.
+
+		   MR BLUME
+	How much do you want?
+
+		   MAX
+	$35.000 for the initial plans.
+
+Max holds Mr Blume's gaze. Mr Blume picks up a pen.
+
+		   MR BLUME
+	I'll give you $2500.
+
+Max nods. Mr Blume writes out a check, tears it off,
+and hands it to Max. Max sticks it in his pocket
+like it is a five dollar bill.
+
+              RESEARCH MONTAGE:
+ 
+              All of the following events occur during school hours.
+ 
+              Max strides across the quadrangle with a determined
+              expression. He's got an armload of books on marine life.
+ 
+              Max watches a Jacques Cousteau film on 16mm in an empty
+              classroom. Dirk runs the projector.
+ 
+              Max visits a marine research facility and talks with a
+              Scientist. Max holds up a fish at the edge of a pool. A
+              killer whale jumps out of the water and takes it in its teeth.
+ 
+              Max flies over Rushmore in a chopper with Mr Blume. He shouts
+              out detials of the landscape and Mr Blume nods
+              enthusiastically. They are both eating sandwiches.
+ 
+              They set down on the soccer field. Kids come running out to
+              meet them. Max waves to them as he jumps out of the chopper.
+              He looks back to Mr Blume and gives him a thumbs-up. Mr Blume
+              smiles and waves as the chopper takes off.
+ 
+              Max walks with a young Architect among the trees between the
+              gym and the baseball diamond. They look at some blueprints.
+              Max pulls up third base and slides it over a few feet.
+ 
+              Max points to some beautiful fish in an acquarium in a pet
+              shop. The pet shop Owner reaches in with a little net.
+ 
+              Max pokes his head into Miss Cross's classroom. He holds up
+              two plastic baggies full of water with tropical fish swimming
+              around inside them.
+ 
+              Kids gather all around them as they put the new fish into the
+              acquariums. Max smiles mysteriously.
+ 
+                                  MAX
+                        You need any help grading papers
+                        or anything?
+ 
+              INSERT BOOK REPORT:
+ 
+              The title is 'Young Ben Franklin'. Miss Cross writes
+              Magnificent! Keep up the good work! And draws two stars
+              across the top of the page with a red pen.
+ 
+              INT. MISS CROSS'S CLASSROOM - DAY
+ 
+              Max is staring at Miss Cross in a trange from a desk opposite
+              hers in the empty classroom. She looks up at him. He
+              continues to stare at her as if she were a statue.
+ 
+              Miss Cross rubs her eyes and sighs. She sets down her red
+              pen. She looks back at Max. He is still staring at her.
+
+                                  MISS CROSS
+                        Max?
+ 
+              Max looks quickly down to his papers.
+ 
+                                  MAX
+                        Uh-huh?
+ 
+                                  MISS CROSS
+                        Can I ask you something?
+ 
+                                  MAX
+                        Sure.
+ 
+                                  MISS CROSS
+                        Has it ever crossed your mind that
+                        you're way too young for me?
+ 
+              Max looks up. Miss Cross smiles faintly. Silence.
+ 
+                                  MAX
+                        It's crossed by mind that you
+                        might consider that a possibility,
+                        yes.
+ 
+                                  MISS CROSS
+                        Not to mention that you're a
+                        student -
+ 
+                                  MAX
+                        And you're a teacher. And never
+                        the twain shall meet. I know, I'm
+                        not trying to pressure you into
+                        anything, Miss Cross. I'm
+                        surprised you brought it up so
+                        bluntly.
+ 
+                                  MISS CROSS
+                        I just want to make sure -
+ 
+                                  MAX
+                        We've become friends, haven't we?
+ 
+                                  MISS CROSS
+                        Yes.
+ 
+                                  MAX
+                        Good. That's all that matters to
+                        me.
+ 
+              Max thinks for a second, then presses on:
+
+                                  MAX
+                        And the truth is neither one of us
+                        has the slightest idea where this
+                        relationships is going. We can't
+                        predict the future.
+ 
+                                  MISS CROSS
+                        We don't have a relationship, Max.
+ 
+                                  MAX
+                        But we're friends.
+ 
+                                  MISS CROSS
+                        Yes. And that's all we're going to
+                        be.
+ 
+                                  MAX
+                        That's what I meant by
+                        relationship. You want me to grab
+                        a dictionary?
+ 
+                                  MISS CROSS
+                        I just want to make sure we
+                        understand each other.
+ 
+                                  MAX
+                        I understand. You're not attracted
+                        to me. C'est la vie. I'm a big boy.
+ 
+                                  MISS CROSS
+                        Max. You're fifteen. Attraction
+                        doesn't enter into it.
+ 
+                                  MAX
+                        If you say so. All I'm getting at
+                        is I've never met anyone like you.
+                        Take that for whatever it's worth.
+ 
+              She thinks about this for a minute.
+ 
+                                  MISS CROSS
+                        I think I can safely say I've
+                        never met anyone like you, either.
+ 
+                                  MAX
+                        You haven't, have you?
+ 
+              Miss Cross shakes her head. Max says quietly:
+ 
+                                  MAX
+                        You want to shake hands?
+
+              She puts out her hand and they shake hands across the desk.
+              But they don't let go. They just look at each other.
+ 
+                                  MAX
+                        I'm glad we had this conversation.
+ 
+                                  MISS CROSS
+                        Me too.
+ 
+              They finally let go of each other's hands. Miss Cross looks
+              away. She's not exactly sure what they just decided.
+ 
+                                  MAX
+                        By the way. Are you free? Thursday
+                        night?
+ 
+                                  MISS CROSS
+                        Free for what?
+ 
+                                  MAX
+                        Dinner.
+ 
+              She looks at Max strangely.
+ 
+                                  MAX
+                        We're getting a group together
+                        after the play.
+ 
+              INSERT PLAYBILL:
+ 
+                                  SERPICO
+                         A new play by Max Fischer.
+ 
+              INT. AUDITORIUM - NIGHT
+ 
+              A very realistic set for a New York tenement apartment.
+ 
+              Four men sit at a table. Three wear dark suits: O'Reilly,
+              Burnum and Fields. One has long hair, a beard, leather pants
+              and a big silver crucifix around his neck. This is Frank
+              Serpico. They are all played by high schoolers.
+ 
+                                  FRANK
+                        I can't wear a wire! They're
+                        feeling me up every day!
+ 
+                                  O'REILLY
+                        Come on, Frank. You'll have
+                        complete protection.
+
+                                  FRANK
+                               (walking off)
+                        I've heard that one before. I got
+                        to go put a dime in the meter.
+ 
+                                  BURNUM
+                        Look, Officer Serpico. If you
+                        agree to testify in open court -
+ 
+              Frank wheels around and knocks the clipboard out of
+              O'Reilly's hands. He grabs O'Reilly by both arms. Fields
+              instinctively draws his firearm.
+ 
+                                  FRANK
+                        Promise me one thing, O'Reilly.
+                        You're going to follow this all
+                        teh way. To the end
+                               (snaps)
+                        Of the line,
+                               (snaps)
+                        Where I got to be.
+ 
+                                  O'REILLY
+                               (looking Frank right
+                                in the eye)
+                        So help me, God.
+ 
+              The audience is deeply engrossed. A row of small kids are
+              sitting on the floor very front.
+ 
+              Max watches from the wings. He looks out at the audience.
+ 
+              He sees Mr Blume smiling proudly in the third row.
+ 
+              He sees Miss Cross sitting next to a big, curly-haired
+              Medical Student in surgical scrubs. She leans close to him
+              and whispers something in his ear. He smiles and nods and
+              whispers something back.
+ 
+              Max stares at them blankly as a shootout erupts onstage.
+ 
+              INT. BACKSTAGE - NIGHT
+ 
+              Frank comes offstage with a bandage of his cheek and a cane
+              in his hand. Max is waiting for him backstage. Max has on a
+              headset and carries a clipboard. He is extremely keyed-up.
+ 
+                                  MAX
+                        What happened to the cannoli line?
+ 
+              Max follows Frank as Frank walks quietly toward the dressing
+              room.
+
+                                  MAX
+                        You're supposed to say, Forget
+                        about it, Sanchez -
+ 
+                                  FRANK
+                               (very angry)
+                        I made a mistake, all right? It
+                        didn't make any difference, anyway.
+ 
+                                  MAX
+                        Hey, I'm letting it go. But don't
+                        tell me it doesn't matter. Every
+                        line matters.
+ 
+                                  FRANK
+                               (yelling)
+                        Get off my back!
+ 
+                                  MAX
+                        Don't fuck with my play!
+ 
+              Frank turns around and punches Max in the nose. Max takes a
+              swing and misses and they wrestle as people try to break it
+              up.
+ 
+              INT. AUDITORIUM - NIGHT
+ 
+              The whole cast is onstage bowing as the audience applauds.
+              Some of the actors motion to the wings.
+ 
+              Max walks out on the stage. He has a bloody Kleenex in each
+              nostril. He waves to the audience. The applause roars.
+ 
+              INT. BACKSTAGE - NIGHT
+ 
+              The crowded dressing rooms. Actors are taking off their make-
+              up. Max is drinking a champagne cocktail and talking with his
+              father and an elderly Woman.
+ 
+                                  WOMAN
+                        I thought the acting tonight was
+                        excellent.
+ 
+                                  MAX
+                        It was better in rehearsals
+                               (to his father)
+                        I'll catch up with you later, Dad.
+                        I've got a dinner to go to.
+ 
+                                  MR FISCHER
+                               (interested)
+                        Oh, yeah?
+
+                                  MAX
+                               (pause)
+                        Yeah. Cast and crew only.
+ 
+              Mr Fischer feels left out but tries not to show it.
+ 
+                                  MR FISCHER
+                        OK. Well, have a good time.
+ 
+              Miss Cross walks over to Max through the crowd. Her friend
+              the medical student follows behind her. Max's expression is
+              polite but inscrutable.
+ 
+                                  MISS CROSS
+                        That was great, Max.
+ 
+                                  MAX
+                        I'm so glad you could come.
+ 
+                                  MISS CROSS
+                        I want you to meet a friend of
+                        mine. John Coats. Max Fischer.
+ 
+                                  MAX
+                               (not looking at him)
+                        Who's this guy?
+ 
+                                  MISS CROSS
+                               (pause)
+                        John.
+ 
+              Max looks at John. John smiles. Pause.
+ 
+                                  JOHN
+                        I really liked your play, man. It
+                        was really cool.
+ 
+              Max nods. He drinks a long sip of his champagne cocktail.
+ 
+                                  MISS CROSS
+                        What happened to your nose?
+ 
+                                  MAX
+                        I got punched in the face
+                               (to John)
+                        What's your excuse?
+ 
+              Mr Blume comes over to them.
+ 
+                                  MR BLUME
+                        Am I going to get to meet your dad
+                        tonight, Max?
+
+                                  MAX
+                        Nah. The old man's on call
+                        tonight. Mr Blume, I'd like you to
+                        meet Miss Cross, and I didn't
+                        catch this young gentleman's name.
+ 
+              INT. RESTAURANT - NIGHT
+ 
+              A fancy restaurant. Max is having dinner with Mr Blume, Miss
+              Cross and John. Max is drunk.
+ 
+                                  MAX
+                        I like your nurse's uniform, guy.
+ 
+                                  JOHN
+                        These are OR scrubs.
+ 
+                                  MAX
+                               (pause)
+                        OR they?
+ 
+              Mr Blume laughs suddenly and whine goes up his nose. Max
+              glances to him slyly, then looks back at John.
+ 
+                                  MAX
+                        Well, they're totally
+                        inappropriate for the occasion.
+ 
+                                  JOHN
+                        Well, I didn't know we were going
+                        to dinner.
+ 
+                                  MAX
+                        That's because you weren't invited.
+ 
+                                  MR BLUME
+                        Take it easy, Max.
+ 
+                                  MISS CROSS
+                               (angry)
+                        You're the one who ordered him a
+                        Scotch and soda.
+ 
+                                  MAX
+                        What's wrong with that? I can
+                        write a hit play. Why can't I have
+                        a drink when I want to unwind a
+                        little? So tell me, Curly. How do
+                        you know Miss Cross?
+ 
+                                  JOHN
+                        We went to Harvard together.
+
+                                  MAX
+                               (shrugs)
+                        And I wrote a hit play. And
+                        directed it. So I'm not sweating
+                        it, either.
+ 
+                                  MR BLUME
+                               (signaling the waiter)
+                        I'm going to get the check.
+ 
+                                  MAX
+                        What do you think you're doing?
+ 
+                                  MR BLUME
+                        I'm getting the -
+ 
+                                  MAX
+                        No, you're not.
+ 
+              The Waiter comes over. Max intercepts him:
+ 
+                                  MAX
+                        I just wanted to thank you again
+                        for accommodating us. We only
+                        expected to be a part of three,
+                        but somebody invited himself
+                        along. I apologize.
+ 
+                                  WAITER
+                        That's perfectly all right.
+ 
+              The waiter walks away. Miss Cross frowns.
+ 
+                                  MISS CROSS
+                        You're being rude, Max.
+ 
+                                  MAX
+                        No I'm not. I'm just trying to
+                        figure out why you brought this
+                        gentleman to my play. And my
+                        dinner, which was invitation only.
+ 
+              John reaches in front of Max for the butter. Max grabs his
+              spoon and swats John on the back of the hand.
+ 
+                                  MAX
+                        Would you like me to pass you the
+                        butter?
+ 
+              Max hands John the butter.
+
+                                  MISS CROSS
+                        What's wrong with you?
+ 
+                                  MAX
+                               (raising his voice)
+                        What's wrong with you?
+ 
+              Max is making a scene. People all over the restaurant are
+              watching. Max stares at Miss Cross.
+ 
+                                  MAX
+                        You hurt my feelings. This night
+                        was important to me.
+ 
+                                  MISS CROSS
+                        How did I hurt your feelings?
+ 
+                                  MAX
+                        I wrote a hit play!
+                               (pause)
+                        And I'm in love with you.
+ 
+              John looks to Miss Cross. She doesn't know what to say. Max
+              looks drunk and dejected.
+ 
+                                  MAX
+                        How do you like that, Curly?
+ 
+              EXT. PLAYGROUND - DAY
+ 
+              Miss Cross and her pupils are out on the playground painting
+              pictures. Each kid has an easel.
+ 
+              Miss Cross sees Mr Blume standing under a tree at the edge of
+              the playground. He is wearing sunglasses and smoking a
+              cigarette. He moves slightly behind the tree. She stares at
+              him.
+ 
+              He waves. She waves back. He comes over.
+ 
+                                  MR BLUME
+                        Hi.
+ 
+                                  MISS CROSS
+                        Were you hiding over there?
+ 
+              Mr Blume shrugs. He points at one of the paintings.
+ 
+                                  MR BLUME
+                        What's that?
+
+              That Artist looks up at Mr Blume. He is a small boy with jet-
+              black curly hair and piercing eyes.
+ 
+                                  ARTIST
+                               (makes a swimming
+                                gesture)
+                        It's a little swimming snake.
+ 
+              Mr Blume nods.
+ 
+                                  MISS CROSS
+                        What can I do for you, Mr Blume?
+ 
+              Mr Blume turns to Miss Cross and takes off his sunglasses.
+              Silence.
+ 
+                                  MR BLUME
+                        Max wants to see you.
+ 
+                                  MISS CROSS
+                        What for?
+ 
+                                  MR BLUME
+                        To apologize, I guess.
+ 
+                                  MISS CROSS
+                        He send you here?
+ 
+                                  MR BLUME
+                        Yeah.
+ 
+              She frowns and studies Mr Blume for a minute.
+ 
+                                  MISS CROSS
+                        Are you his messenger?
+ 
+                                  MR BLUME
+                        No. He's my friend.
+                               (pause)
+                        You were right. I shouldn't have
+                        let him drink.
+ 
+              Miss Cross nods. Silence.
+ 
+                                  MISS CROSS
+                        I don't think I should see Max any
+                        more.
+ 
+                                  MR BLUME
+                        He's not going to like the sound
+                        of that.
+
+                                  MISS CROSS
+                        I know. But I think I let him get
+                        too attached.
+ 
+              Mr Blume nods. Miss Cross looks uncertain.
+ 
+                                  MISS CROSS
+                        Don't you think?
+ 
+                                  MR BLUME
+                               (shrugs)
+                        I don't know. You did your best.
+ 
+              Miss Cross smiles sadly to Mr Blume. He puts his hands in his
+              pockets.
+ 
+                                  MISS CROSS
+                        Tell him I'm sorry.
+ 
+                                  MR BLUME
+                        OK.
+ 
+              They look at each other for a long minute. Miss Cross tucks
+              a strand of hair behind her ear. Mr Blume says quietly:
+ 
+                                  MR BLUME
+                        What's your first name?
+ 
+                                  MISS CROSS
+                        Rosemary. What's yours?
+ 
+                                  MR BLUME
+                        Herman.
+ 
+              Silence.
+ 
+                                  MR BLUME
+                        Oh, yeah. He wrote you a letter.
+ 
+              He hands her a letter in a sealed envelope. She takes it.
+ 
+                                  MISS CROSS
+                        Thanks.
+ 
+              They stand there in silence for another minute.
+ 
+                                  MR BLUME
+                        OK. So long, Rosemary.
+
+                                  MISS CROSS
+                               (smiles)
+                        Bye, Herman.
+ 
+              Mr Blume starts to go. He stops He looks back to Miss Cross.
+ 
+                                  MR BLUME
+                        Should we meet somewhere?
+ 
+              She hesitates.
+ 
+                                  MR BLUME
+                        To talk about Max.
+ 
+                                  MISS CROSS
+                        Yeah. I don't know.
+                               (pause)
+                        Maybe.
+ 
+              Mr Blume nods. He turns away and walks off. She watches him
+              go. She looks at the envelope.
+ 
+              INSERT LETTER WRITTEN IN CALLIGRAPHY ON CRISP STATIONERY:
+ 
+              Max reads in voice-over.
+ 
+              Dear Miss Cross,
+ 
+                  I would like to take this opportunity to formally
+              apologize for the events of the night of the twenty-third. I
+              am not accustomed to drinking alcohol. Please do me the
+              service of coming to the unveiling of a new venture I have
+              undertaken. I hope you will attend, if possible. I remain,
+              your friend,
+ 
+              Max Fischer.
+ 
+              EXT. VACANT LOT - DAY
+ 
+              A crowd of fifty Kids in uniforn has gathered around the
+              vacant lot beside the baseball field. Max stands with his
+              architect, smiling for the yearbook photographer. They are
+              holding a banner that says 'Cousteau-Blume Marine Observatory
+              Fundraiser'. Max has on a hard hat. There are two pick-up
+              trucks and a porta-can at the back of the vacant lot.
+ 
+              Max digs into the ground with a gold shovel. The shovel has
+              a ribbon around it. Flashbulbs go off. Everyone claps. Max
+              waves Dirk over.
+ 
+                                  MAX
+                        Did you see her?
+
+                                  DIRK
+                        She's not here.
+ 
+                                  MAX
+                        Well, see if she's in her
+                        classroom.
+ 
+              The Contractor walks over to Max.
+ 
+                                  CONTRACTOR
+                        Should we go ahead and take care
+                        of this tree?
+ 
+                                  MAX
+                        Let's wait a few minutes.
+ 
+              Coach Beck goes over to Max. He is six four and wears a John
+              Newcombe moustache and an Adidas warm-up. He is frowning.
+ 
+                                  COACH BECK
+                        What's going on here, Maxie?
+ 
+                                  MAX
+                        Coach Beck. Good to see you. This
+                        is where they're building the new
+                        acquarium. I'm in charge of the
+                        committee, if you can believe it.
+ 
+                                  COACH BECK
+                        This is the baseball diamond.
+ 
+                                  MAX
+                        I believe it's being relocated a
+                        few feet over.
+ 
+                                  COACH BECK
+                               (frowns)
+                        I should've been informed about
+                        that.
+ 
+              Coach Beck walks off. Max answers some questions for the
+              School Reporters.
+ 
+                                  REPORTER
+                        Is it true the acquarium will have
+                        piranhas?
+ 
+                                  MAX
+                               (smiles)
+                        Where'd you hear that?
+ 
+                                  REPORTER
+                        My source indicated that it was a
+                        possibility.
+
+                                  MAX
+                        Yes, it's true. Excuse me, George.
+ 
+              Dirk has returned.
+ 
+                                  MAX
+                        What's the story?
+ 
+                                  DIRK
+                               (a little wary)
+                        She has a substitute teacher today.
+ 
+                                  MAX
+                        Why?
+ 
+                                  DIRK
+                        She probably got sick.
+ 
+                                  MAX
+                               (looks away)
+                        You know she's not sick. Give me
+                        the phone.
+ 
+              Max dials on a cellular phone.
+ 
+                                  MAX
+                        Hi, Janet. It's Max Fischer. Is Mr
+                        Blume there?
+                               (pause)
+                        Well, where is he?
+                               (pause)
+                        Goddammit, he's supposed to be
+                        here. Let me know if you find him,
+                        please.
+ 
+              Max hangs up. He looks off and says in a steely voice:
+ 
+                                  MAX
+                        I'm going anyway.
+ 
+              Max goes over to the contractor.
+ 
+                                  MAX
+                        Chop it down, Mr Chandler! We've
+                        got an acquarium to build.
+ 
+              Max talks to another reporter.
+
+                                  MAX
+                        I don't give a shit about
+                        barracudas. But fuck it. I'm
+                        building it anyway.
+ 
+              The sound of power saws fills the air as Dr Guggenheim
+              appears at the edge of the lot with Coach Beck and a Security
+              Guard with a walkie-talkie. Dr Guggenheim screams:
+ 
+                                  DR GUGGENHEIM
+                        Max!
+ 
+              Dr Guggenheim sees the chopped-down trees and mangles
+              baseball field as he strides on to the lot.
+ 
+                                  MAX
+                        Nice to see you, Dr Gugg-
+ 
+                                  DR GUGGENHEIM
+                        Max!
+                               (seizing Max by the
+                                arm)
+                        What do you think you're doing?
+ 
+                                  MAX
+                               (pause)
+                        We're having a fundraiser for-
+ 
+                                  DR GUGGENHEIM
+                        Shut those damn things off!
+ 
+              They turn off the power saws.
+ 
+                                  DR GUGGENHEIM
+                        Tell me this isn't happening.
+ 
+                                  MAX
+                        Dr Guggenheim, I'd rather not have
+                        this conversation in front of the
+                        crew.
+ 
+              EXT. QUADRANGLE - DAY
+ 
+              Dirk waits nervously on the steps in front of Dr Guggenheim's
+              office. He holds a hamster in his hands.
+ 
+              He gets up and goes to the windows. He looks inside.
+ 
+              Max is sitting in a little chair in the middle of the room
+              with his hard hat on. Dr Guggenheim and several other faculty
+              members sit around him. Dr Guggenheim is screaming at him
+              across his desk. Max is crying.
+
+              Dirk looks scared.
+ 
+              INT. HALLWAY - DAY
+ 
+              Max kneels on the floor in the hallway, emptying out his
+              locker. Papers and trash are scattered all around him. There
+              is a trashcan beside him. He is throwing away his books, one
+              at a time.
+ 
+              Mr Blume opens the door at the end of the hallway. Max looks
+              up at him. Silence. Max looks up back to his locker and
+              starts throwing his books in the trash again.
+ 
+              Mr Blume walks over to Max. He looks very sad. He kneels down
+              beside Max. He starts helping him pick up the trash off the
+              floor and put it in the trashcan.
+ 
+              TITLE:
+ 
+                                  OCTOBER
+ 
+ 
+              INT. GROVER CLEVELAND HIGH SCHOOL - DAY
+ 
+              Grover Cleveland is a public high school with two thousand
+              five hundred students.
+ 
+              Max sits in a front row of a math classroom. He is dressed in
+              his Rushmore uniform, with coat and tie, but his clothes are
+              wrinkled and his head has been shaved like a marine's. His
+              eyes have dark circles around them. He has a little stack of
+              index cards in his hand.
+ 
+              The teacher, Mrs Whitney, stands at the front of the room.
+              She is about fifty with a horn-rimmed glasses and a slight
+              English accent. She has a bemused expression on her face.
+ 
+                                  MRS WHITNEY
+                        We have a new student with us
+                        today. His name's Max Fischer and
+                        he's actually asked to say a few
+                        words to the class. Max? You want
+                        to take it away?
+ 
+                                  MAX
+                               (standing up)
+                        Sure. Thanks very much. I just
+                        wanted to introduce myself.
+ 
+              Max looks quickly at his notecards.
+
+                                  MAX
+                        I'm Max Fischer. I'm a former
+                        student of Rushmore Academy, which
+                        I recently got expelled from.
+ 
+              Max flips to the next notecard.
+ 
+                                  MAX
+                        This is my first time in a public
+                        school. And I know you probably
+                        think I was born with a silver
+                        spoon in my mouth. But I'm no
+                        elitist. I think you've got some
+                        great facilities, and I'm really
+                        looking forward to making the best
+                        of it over here at Grover
+                        Cleveland.
+ 
+              Max sighs deeply. He rubs his eyes. His Classmates have no
+              idea what to make of him. However, one Asian girl in the back
+              rown is smiling faintly. She has short-cropped hair. The
+              spine of one of her bookcovers says Margaret Yang.
+ 
+                                  MAX
+                        One footnote: I noticed you don't
+                        have a fencing team. I'm going to
+                        start one up. Let me know if you'd
+                        like to join. Thanks.
+ 
+              INT. GROVER CLEVELAND HIGH SCHOOL - DAY
+ 
+              The wide halls of Grover Cleveland High School are lined with
+              orange lockers. A banner stretched down the wall says 'Murder
+              the Mustangs'. A bustling throng of high schoolers rush to
+              class.
+ 
+              Max walks slowly, alone, down the middle of the hall. A
+              blonde cheerleader-type Girl asks him:
+ 
+                                  GIRL
+                        Why are you so dressed up?
+ 
+              Max looks down at his clothes. Max looks back to the girl.
+ 
+                                  MAX
+                        Are you insane?
+ 
+              The girl walks off. Margaret Yang catches up to Max.
+ 
+                                  MARGARET
+                        Max?
+
+                                  MAX
+                        Yes?
+ 
+                                  MARGARET
+                        Hi. I'm Margaret Yang. I'm in Mrs
+                        Whitney's class. I just wanted to
+                        tell you I liked your speech. I
+                        don't think I've ever heard of
+                        anyone asking to give a speech in
+                        class before.
+ 
+                                  MAX
+                        How unfortunate.
+ 
+                                  MARGARET
+                        The silver spoon remark might rub
+                        some people the wrong way. But I
+                        think I know how you meant it.
+ 
+                                  MAX
+                        Glad to hear it. Goodbye, Miss
+                        Chang.
+ 
+              Max ducks into the men's room. Margaret walks quietly away.
+ 
+              INT. GYMNASIUM - DAY
+ 
+              A tiny figure dressed all in white stands alone at the far
+              end of the huge gymnasium with a fencing oil. He lunges,
+              parries, thrusts.
+ 
+              The basketball team suddenly floods dribbling into the
+              gymnasium, throwing passes and taking free throws. Max stops
+              fencing as they take over the room. He watches them in
+              silence. He shakes his head. He walks off the court.
+ 
+              INT. HALLWAY - DAY
+ 
+              Max puts a quarter in a pay phone. He is still wearing his
+              fencing costume.
+ 
+                                  MAX
+                        Janet. Max Fischer. Is he in?
+ 
+              EXT. RUSHMORE - DAY
+ 
+              Mr Blume answers on his cellular phone as he gets out of his
+              car and walks across the lawn at Rushmore.
+ 
+              We intercut the two of them.
+ 
+                                  MR BLUME
+                        Hey, Max. How's it going over
+                        there?
+
+                                  MAX
+                        Terrible. Tell me something. When
+                        you talke to Miss Cross the other
+                        day, did you get the feeling-
+ 
+              The hall monitor Mr Holstead comes down the hall toward Max.
+              He is a big, sturdy man about fifty years old. He wears a
+              striped tie and his sleeves rolled up.
+ 
+                                  MR HOLSTEAD
+                               (loudly)
+                        Do you have a telephone pass?
+ 
+              Max holds up his hand for Mr Holstead to wait a minute. He
+              covers his ear so he can hear Mr Blume.
+ 
+              Mr Blume is looking in the windows of different classrooms.
+              Kids look out at him curiously.
+ 
+                                  MR BLUME
+                        I got to tell you, Max. I don't
+                        know what you see in her. I don't
+                        think she's right for you.
+ 
+                                  MAX
+                        What's that supposed to mean?
+ 
+              Mr Blume sees Miss Cross inside teaching her class. He stares
+              at her in a glance. He whispers:
+ 
+                                  MR BLUME
+                        Well, she's not that beautiful.
+                        She's not that interesting. I
+                        mean, sure, there's something
+                        about her. But I see you with
+                        someone-
+ 
+                                  MAX
+                        Look, Mr Blume. Your comments are
+                        valuable, but let's get to the
+                        point. Will she see me again? Yes
+                        or no?
+ 
+                                  MR BLUME
+                               (pause)
+                        No.
+ 
+                                  MAX
+                        I'm going to go see her. Hang on.
+ 
+              Max looks to Mr Holstead.
+
+                                  MAX
+                        I'm talking on the telephone.
+ 
+              Mr Holstead reaches over and hangs up the phone.
+ 
+                                  MAX
+                        Come on, man. That's rude.
+ 
+              INT. GROVER CLEVELAND HIGH SCHOOL - DAY
+ 
+              Mrs Whitney watches from her classroom window at:
+ 
+              Max opens a red metal door on to the empty concrete
+              courtyard. He looks left and right. He sneaks across the
+              courtyard to the bike racks, quickly unlocks his bike, and
+              rides away.
+ 
+              EXT. RUSHMORE - DAY
+ 
+              Max rides full speed through the gates on to the Rushmore
+              campus. He flips one leg off his bike and glides in toward
+              the bike racks standing on one pedal.
+ 
+              Max locks up his bike and walks across the lawn.
+ 
+                                  MAGNUS
+                        You better beat it, laddie.
+ 
+              Max looks up at Magnus Buchan sitting in a tree smoking a
+              cigarette, hacking at a branch with a pocketknife.
+ 
+                                  MAX
+                        I hope you fall out of that tree
+                        and get stick in the ass, Buchan.
+ 
+                                  MAGNUS
+                        You know, I've watched you,
+                        Fischer. Snowboat, always talking,
+                        picking a kid like Dirk cause his
+                        mother's a great piece and then
+                        getting nowhere. Like everything
+                        you do. Big show. No results.
+ 
+                                  MAX
+                        And what do you call getting a
+                        hand job from Mrs Calloway in her
+                        Jaguar?
+ 
+                                  MAGNUS
+                        A bloody lie.
+
+                                  MAX
+                        You think I got kicked out for
+                        just the acquarium? Nah. That
+                        ain't it. It was the hand job. And
+                        I'll tell you another thing. It
+                        was worth it. So eat your heard
+                        out, mick. I got business to
+                        attend to.
+ 
+              EXT. PARKING LOT - DAY
+ 
+              Miss Cross comes out the door of the lower school with a
+              basket of books and papers. She stops in front of her wagon
+              and digs in her bag for the keys.
+ 
+                                  MAX
+                        I'm sorry I embarrassed you at
+                        dinner.
+ 
+              Miss Cross turns around. Max is standing across the driveway
+              with a sad smile on his face. Silence.
+
+
+<h3>TO BE CONTINUED...</h3>
+
+</pre>
+</body>
+</html>

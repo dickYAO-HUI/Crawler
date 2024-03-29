@@ -1,0 +1,6576 @@
+Neuromancer
+
+screenplay by
+William Gibson
+
+screenplay dates range between 18/5/90 and 21/5/90
+
+taken from paper to data by Greg Beams.
+
+The screen is black. Ultra-violet print scrolls out the following information:
+
+By the year 2015 cash transactions had become virtually obsolete. Worldwide 
+commerce and communication was run through the MATRIX, a vast international 
+network of unified computer systems.
+
+A consortium of powerful multi-national corporations maintained control of the 
+Matrix through their private police organisation, SENSE/NET SECURITY INC.
+
+Corporate interests were protected at all costs.
+
+INT.  TOWNHOUSE - NIGHT
+
+A MAN and WOMAN sleep peacefully in the sunken bedroom of an upscale Boston 
+townhouse in the near future. The plush decor is tasteful, but indulgent. 
+Sharper Image meets 2015. A small digital hologram floats in mid air beside the 
+bed; 2:05 a.m.
+
+CAMERA BOOMS DOWN
+
+Revealing the man, CASE, in C.U....Early thirties. Fine features. There is a 
+tension about him even at rest. LINDA LEE, the young woman curled up beside him 
+has a soft natural beauty that's enhanced by the innocence of sleep.
+
+Case's eyes flash open...He senses something wrong.
+
+There is a subtle CLICK from across the open living room.
+
+Suddenly there's a deafening EXPLOSION as the front door is blown off its 
+hinges. A black hexagon the size of a baseball is lobbed into the room.
+
+CASE
+
+Reacts instantly, pulling Linda Lee to the floor.
+
+THE HEXAGON
+
+Ignites with a flash of white-hot magnesium fire. It emits a continuous blinding 
+flare that permeates the room.
+
+CASE
+
+Blinded by the flare, frantically pulls open a bedside drawer and fumbles for 
+his gun.
+
+THE DOOR
+
+Two heavily armed SENSE/NET POLICEMEN kick their way through the smoking remains 
+of the door. Pitch black welders' goggles protect their eyes from the glare as 
+they charge into the room.
+
+CASE
+
+Is mercilessly beaten to his knees by the policemen's electrified shock staves.
+
+LINDA LEE
+
+Makes a break for it, but she's backhanded by Policeman #1 and recoils against 
+the wall.
+
+ANGLE ON THE DOOR
+
+A gaunt, foreboding looking MAN in a long great coat now enters. His pale clean 
+shaven head and angular features give him a skull like appearance as he gazes 
+through the blue-white glare with obsidian goggles. He regards the semi-
+conscious Case for a moment then nods to his men.
+
+Two Policemen sweep glassware of an oversized coffee table, slam Case down on 
+top of it and slap plastic restraints on his wrists and ankles.
+
+The other Policemen begin a destructive search of the townhouse.
+
+The PALE MAN looms over Case like the Angel of Death, a dark form framed against 
+flickering shafts of incendiary light. His voice is an icy whisper.
+
+PALE MAN
+Nice place, Mr. Case. Industrial espionage must be paying well these days.
+
+Case speaks through bloody lips.
+
+CASE
+Let's see your warrant.
+
+PALE MAN
+(chuckles)
+Oh, we're not arresting you. The law books haven't quite caught up with your 
+technology. Breaking 
+into the computer matrix by cerebral projection... that's a little tough to 
+prosecute, don't you think?
+
+On the other side of the room, a Policeman smashes open a false front bookshelf 
+revealing an impressive array of customised gear. A tiara-like headset rests on 
+a bust of Socrates.
+
+SENSE/NET POLICEMAN
+Lieutenant...
+
+PALE MAN
+That's it, gentlemen.
+
+The police begin to destroy the gear with the enthusiasm of prohibitionists at a 
+moonshine still.
+
+CASE
+I've got money...
+
+PALE MAN
+Not anymore. You've burned at least three multinational corporations, Mr. Case. 
+You're getting a little too good at your craft, my friend. That's bad for 
+business. Bad for everybody.
+
+The Pale Man withdraws a glittering hypodermic from a silver case.
+
+CASE
+What's that?
+
+PALE MAN
+Your retirement plan.
+
+He jams the needle into the artery on cases forearm and drives the plunger home.
+
+Case's body convulses as the mycotoxin surges through his veins.
+
+The Pale Man turns to Linda Lee.
+
+PALE MAN (CONT.)
+He'll be hallucinating for... oh, about fifteen hours.
+
+He pats her on the cheek
+
+PALE MAN (CONT.)
+What's left after that is all yours.
+
+HIGH ANGLE
+
+CAMERA BOOMS DOWN onto the spread eagled Case, surrounded by his enemies. He 
+screams as the mycotoxin hits his nervous system like a runaway freight train. 
+His dilated eyes flash open, staring into a hallucinatory hell. BOOM DOWN 
+continues straight through the glistening black hole of his pupil and on into a 
+chilling inner void.
+
+SMASH CUT TO:
+
+MAIN TITLE SEQUENCE
+
+DISSOLVE TO:
+
+EXT. CHIBA CITY, JAPAN - NIGHT
+
+A crowded commercial ghetto in the Ginzu district of Japan; a garish strip of 
+bars, liquor stores, and cometic surgery parlours. The ragtag crowd of hustlers 
+and tourists wear rough trade street fashions with the added kink of punk 
+influenced elective surgery...notched ears and *idless eyeballs...added strictly 
+for shock value. The holographic adverts hanging like neon ghosts in the night 
+sky remind us this is the future. A grim future indeed.
+
+SUPERIMPOSE:
+
+CHIBA CITY, JAPAN
+ONE YEAR LATER
+
+INT. CHATSUBO BAR
+
+We are hit by a solid wall of ROCK MUSIC and BAR NOISE. The Chatsubo is one of 
+the roughest dives on the Ginzu and the only place in town where you're likely 
+to meet an American or European as an Oriental. RATZ, a broad-shouldered, 
+leather faced Bartender with an articulated prosthetic arm serves the crush of 
+patrons as he casually passes through holograms for Tsing Toa and Kirin Beer.
+
+Case sits at a table in the far corner talking to two Japanese businessmen. He 
+looks the worse for wear, rumpled, unshaven and ten pounds lighter. It's been a 
+rough year.
+
+He chain smokes through Yeheyuan cigarettes as he speaks to the ancient DR. 
+KIYOTO through his rotund interpreter MR. TENSHU. A grubby folder containing CAT 
+Scan transparencies lies open on the tabletop before them.
+
+TENSHU
+Dr. Kiyoto say scan reveal many secrets. You suffer serious damage to nervous 
+system. Someone play bad trick on you.
+
+CASE
+Yeah, I know all that. I used to be a wire man, understand? Plugged straight 
+into the matrix.
+
+Tenshu translates and Kiyoto replies.
+
+TENSHU
+No longer possible for your mind to enter matrix. Nervous system incompatible 
+for computer. You try again, you fry like egg.
+
+CASE
+Everyone says Dr. Kiyoto is the best nerve splicer in all the black clinics.
+
+TENSHU
+Nerve splice very risky. Dr Kiyoto now 
+******
+
+Dr. Kiyoto makes further comment in Japanese.
+
+TENSHU (CONT.)
+He say he admires your bone structure. You make beautiful woman. We correct 
+nature's mistake.
+
+Kiyoto smiles at Case, flashing huge synthetic ultra white teeth framed by 
+horrible grey gums.
+
+CASE
+(downs his drink)
+Tell him no thanks. I got lousy legs.
+
+Case rises and heads for the bar. Ratz pours him a shot of Japanese vodka as he 
+pulls up a stool.
+
+RATZ
+Ah, Herr Case. And how is the artiste tonight?
+
+CASE
+Fine, Ratz. Thanks.
+
+A boozy tattooed hooker looks up from her drink, impressed.
+
+HOOKER
+Oh, you're an artist? I love artists.
+
+RATZ
+He was once the artiste of light-fingered microchippery, my dear. Need your 
+credit rating changed? Interested in a few corporate secrets? Case was the man. 
+Now he is the artiste of the slightly funny deal. Isn't that right, Herr Case?
+
+CASE
+Sure. Someone's gotta be funny around here.
+
+Case pops two tiny blue pills and washes them down with the vodka. Ratz refills 
+his glass.
+
+RATZ
+I saw your girl yesterday.
+
+CASE
+I don't have a girl.
+
+RATZ
+No girl? Only biz, my dear artiste?
+
+Case lights a cigarette.
+
+RATZ (CONT.)
+Too bad. I likes you better with her. Now, sometime you get maybe to artistic; 
+you wind up in the clinic tanks, spare parts.
+
+CASE
+You're pleasant tonight.
+
+RATZ
+(bows)
+Always...By the way, you know that girlfriend you don't have?
+
+CASE
+Yeah.
+
+Ratz nods. Case turns, following his gaze.
+
+Linda Lee stands in the doorway, dressed in French fatigues and sneakers. 
+There's still a warmth and beauty about her that shines through the hard edge of 
+a year of disappointments in Chiba City.
+
+Case makes his way through the crowd. He's gentle with her... there's still a 
+love between them.
+
+LINDA LEE
+Hello, Case.
+
+CASE
+I thought you already left.
+
+LINDA LEE
+Flight's in the morning. You should be on it, too. There's nothing for us here, 
+Case. There never was.
+
+To Case, it's an old battle not worth fighting.
+
+CASE
+Why did you come here tonight, Linda?
+
+LINDA LEE
+People are talking. They say the Yakuza has a contract out on you.
+
+CASE
+I hear that shit once a week. Don't worry. Jo Jo Bao loves me.
+
+LINDA LEE
+This time it's different. Someone ripped of a shipment of hallucinogens. Five 
+grams of liquid ketamine. It was supposed to be Jo Jo's score.
+
+CASE
+(pauses)
+Where did you here that?
+
+LINDA LEE
+Too many places. You're playing tag wish some kind of death wish, Case.
+(beat)
+I'm sorry but I'm not sticking around for the funeral.
+
+She hesitates...then kisses him on the cheek, turns and disappears into the 
+night.
+
+Case takes a last pull on his cigarette, then observes his hand. His fingers are 
+shaking. He flicks the butt away.
+
+EXT. JULIUS DEANE IMPORT-EXPORT
+
+A dingy commercial building wedged between a strip joint and a digital tape 
+store. Case takes the rickety stairway up three steps at a time. He bursts 
+through a door under the worn sign: "Julius Deane Import-Export"
+
+A dark rosewood office crowded with expensive European furniture, and stacks of 
+white fibreglass shipping modules. Several CATS lounge about in the shadows.
+
+DEANE, an obese but extremely well groomed man, sits quietly at his desk just 
+outside the small circle of light thrown by a brass lamp. One of his cats is 
+perched casually on his shoulder. A thick Cuban cigar smoulders between his 
+stubby fingers.
+
+Case storms into the room, sending hissing cats scrambling out of the way.
+
+CASE
+You stupid, stupid, son of a bitch. That was supposed to be a clean score! 
+You've got me fencing Yakuza goods on Yakuza turf...
+
+C.U. - DEANE'S HAND
+
+A large white ash tumbles from Deane's cigars. His hand remains motionless.
+
+ON CASE
+
+As he reacts. We hear the soft sound of a cat licking.
+
+DOLLY
+
+With Case as he rushes to the desk and flips the lamp shade up onto...
+
+DEANE'S FACE
+
+Illuminated for the first time. The cat perched on his shoulder is lapping at a 
+crimson knife wound bisecting his windpipe.
+
+CASE
+
+Steps back, horrified.
+
+THE DESK
+
+Deane's right hand is frozen on the blood splattered keyboard of his compact 
+computer terminal. The small screen is scrolling off a single cryptic word 
+repeated ad infinitum:
+
+Wintermute
+Wintermute
+Wintermute
+
+CASE
+
+Hastily flips the light off and crosses to the window.
+
+CASE'S P.O.V.
+
+Two stocky JAPANESE MEN stand just beyond the orange glow of a quartz halogen 
+street light, gazing back up at Case. Yakuza. They start across the street, 
+heading for the building.
+
+CASE
+
+Releases the curtain and runs a hand through his tousled hair.
+
+CASE
+Shit...
+
+He looks back at Julius Deane.
+
+CASE (CONT.)
+We've been set up, old buddy.
+
+Case rummages through Deane's coat rack until he finds an old fashioned .38 in 
+an ancient cracked leather shoulder holster. He flips the barrel open. There's 
+only one round in the chamber. It'll have to do.
+
+Case jams the gun in his belt and pushes a button on Deane's desk. A section of 
+panelled wall pops open, revealing a hidden exit. He takes a last look at his 
+former partner.
+
+CASE
+So long, Julie. Don't forget to feed the cats.
+
+NINSEI STREETS
+
+Case rushes through the Saturday night street crowd, past Yakitori stands and 
+massage parlours.
+
+A Japanese ELVIS IMPERSONATOR sends his eerie rendition of "Heartbreak Hotel" 
+echoing down the Ninsei. Case checks his back.
+
+The two Yakuza heavies are searching the crowd half a block away. A third 
+gangster the size of a boxcar joins them.
+
+Case backs into the doorway of a surgery parlour as he checks the other 
+direction.
+
+A dangerous looking WOMAN IN BLACK wearing mirror shades is heading towards 
+Case. She reaches inside her black leather jacket and loosens her shoulder 
+holster as she scans the crowd.
+
+Case ducks just past a group of RUSSIAN SAILORS, and cuts across the street, 
+just past a MESSENGER on a motorised tricycle.
+
+The Yakuza spot him and push their way through the crowd.
+
+Case ducks into the garishly decorated doorway of an arcade.
+
+INT. ARCADE.
+
+A deafening cacophony of ARCADE SOUNDS echoes throughout the darkened room as 
+lifelike holograms do battle under the guidance of customers at gaming consoles.  
+As Case enters, a holographic fireball from Tank War Europa briefly illuminates 
+the room.
+
+The three Yakuzas burst through the doors and begin to search the room.
+
+Case grabs an Armed Guard by the shoulder.
+
+CASE
+There's going to be trouble. Get your security over here...
+
+The guard is suddenly jerked out of Case's grasp from the impact of an azide 
+slug imploding his chest.
+
+Case ducks back as three more SHOTS shatter the side of a console. The GUNFIRE 
+is lost in the noise of the arcade.
+
+Yakuza #1, his gun smoking, cautiously circles the aisle.
+
+Case crouches in the darkness. From just behind the game console, he can see a 
+pair of feet...slowly approaching. He cocks his gun, timing the approach 
+carefully...then springs.
+
+THE AISLE
+
+A KID in oversized biker boots drops his popcorn as Case leaps out.
+
+CASE 
+
+Pulls his shot at the last second, firing into the air.
+
+YAKUZA #1
+
+Pops up out of the darkness behind him, gun blazing.
+
+THE KID
+
+Beside Case is blown off his feet, shattering a holo projector.
+
+CASE
+
+Cuts through the maze of games, ducking lead. He loses the hit man at the back 
+of the arcade, then checks the .38...empty.
+
+A red dot appears on Case's chest. He looks up.
+
+THE BIG YAKUZA
+Looking like a Sumo wrestler stuffed into an ill-fitting suit. The laser-site on 
+his modified Uzi casts the quavering dot on Case's chest.
+
+The Big Yak smiles. His gold earring bearing the symbol of the Yakuza twinkles 
+eerily in the darkness.
+
+The kisses his thumb and makes the ritual gesture of death to Case.
+
+LOW ANGLE - SLO MO
+
+As another holographic blast erupts from Tank War Europa, the WOMAN IN BLACK 
+leaps through the ghostly atomic fire, launching herself straight at the Big 
+Yakuza.
+
+She executes an amazing flying kick, snapping her body around to connect with 
+the Yakuza's jaw. He goes down like a felled Sequoia.
+
+Yakuza #3 appears fining at the Woman in Black. Case tackles him. They struggle 
+for control of his gun. The crowd finally reacts to the real violence in the 
+midst of their illusionary battles.
+
+The Big Yakuza begins to rise, spitting out teeth and pissed off.
+
+Case spots him, swings #3's gun hand around and squeezes the trigger.
+
+The Big Yakuza takes a hit in the heart and crumbles.
+
+Still gripping #3's hand, Case savagely elbows him in the face. Once. Twice. 
+Three times. He goes down.
+
+Suddenly machine pistol fire strafes the console behind Case. The monitor 
+explodes with a hail of glass shards.
+
+****** (Something to do with 'firing his machine pistol')
+
+Case runs for all he's worth, heading for a window across the room. He barrel 
+rolls straight through glass and neon as a fusillade of bullets explode around 
+him.
+
+EXT. STREET
+
+Case hits the cement and rolls, knocking over a couple of leather clad HOOKERS 
+in the process. He disappears into the crowd as the Hookers scream expletives at 
+him.
+
+INT. CHATSUBO BAR
+
+The doors blow open as JO JO BAO, the twenty-five year old Yakuza Lieutenant of 
+Chiba City, enters escorted by four heavily armed BODYGUARDS. The cold 
+expressionless mask of Bao's face suggests the brutality required to climb so 
+far in the Yakuza ranks at such an early age. His startling aqua blue eyes are 
+an obvious affectation from the black clinic tanks.
+
+As the entourage cuts its way across the crowded floor, a ripple of tension 
+spreads throughout the room.
+
+Ratz casts a wary glance to his sideman, FRITZ.
+
+Fritz gently lifts a wire bore scattergun from its resting place out of sight 
+under the bar.
+
+Ratz shakes his head "no" and motions for Fritz to stand by.
+
+Jo Jo sits down before Ratz, flanked by his men.
+
+RATZ
+Arigatou, Bao-san. Rare to see you out this time of night.
+
+Bao's English is excellent.
+
+JO JO BAO
+I'm afraid I could not sleep. Worry makes me restless.
+
+RATZ
+Is that so?
+
+JO JO BAO
+Yes. I'm worried for your friend. The man they call Case.
+
+Ratz looks from one bodyguard's icy stare to the other.
+
+RATZ
+Not my friend. My customer.
+
+JO JO BAO
+Of course. Forgive me.
+
+Bao extends his pinky finger, which is encased in a decorative gold sleeve. With 
+a twist, he disengages the sleeve, revealing that his finger has been amputated 
+at the knuckle. Bao casually taps a line of yellow powder out of his finger/vial 
+onto the bar.
+
+JO JO BAO (CONT.)
+"Your customer"...Case is a difficult man to find when he wants to be.
+
+Bao applies a match to the powder, which ignites like a fuse. He then expertly 
+inhales the resulting curl of dirty yellow smoke, then offers Ratz a pull.
+
+RATZ
+Ah...No thanks. I can try to get in touch with him for you. Can't promise 
+anything, you understand.
+
+JO JO BAO
+I would greatly appreciate this. You see there is a small matter that must be 
+settled between Case and I.
+
+One of Bao's bodyguards suddenly lashes out with a wickedly curved dagger, 
+burying it in the counter top.
+
+C.U. THE DAGGER
+
+The gleaming blade had pinned a human ear to the worn wood. By the elaborate 
+gold earring we recognise that this once belonged to the Big Yakuza in the 
+arcade.
+
+EXT. CHEAP HOTEL - NIGHT
+
+Camera suddenly BOOMS UP to the rooftop of a shabby ten story office building. 
+Up here, in some of the last available space in the crowded city, a cheap hotel 
+has been erected out of prefab fibreglass "coffins" racked in a framework of 
+industrial scaffolding and catwalks. A weakly flickering neon sign offers the 
+words CHEAP HOTEL under a cluster of Japanese ideograms.
+
+INT. CHEAP HOTEL
+
+Linda Lee has just finished packing a small suitcase in the cramped quarters of 
+the white fibreglass module. The rooms moulded to maximise the efficiency of the 
+living space; concave area for microwave and cooler, convex area for a 
+temperfoam bed slab for computer terminal and telephone.
+
+Linda peels off a photograph taped to the wall of her and Case in better days... 
+mugging for the camera during a break in a game of Jai Alai. She decides to 
+leave it for him.
+
+The telephone rings. As Linda picks it up the computer screen is illuminated 
+with a C.U. of Ratz.
+
+LINDA LEE
+Hello?
+
+INTERCUT CHATSUBO BAR
+
+Ratz speaks into a grimy mobile phone before a wall mounted lens. In the B.G. we 
+see his small audience of Yakuza heavies.
+
+RATZ
+Is Case there?
+
+LINDA
+No. Who's this?
+
+RATZ
+A friend. I have a very important message. Are you listening?
+
+LINDA
+Yes, but I...
+
+RATZ
+Jo Jo Bao says Case should bring the goods the Yakitori Stand at the arena in 
+one hour.  Jo Jo gets the goods or Case gets orchids. He'll understand.
+
+There is a click as the phone disconnects. The screen goes blank.
+
+Linda Lee looks back at the photograph of the man she used to love. She snaps 
+her suitcase shut and starts for the door... But she stops short and finally 
+makes a decision.
+
+Linda crosses to the cooler and rummages about inside. She discovers a 9mm 
+automatic hidden by a row of beer bottles. Searching further, she finds a 
+plastic container behind the ice cube trays. Inside, packed in dry ice, is a 
+glass tube filled with an amber fluid. Ketamine.
+
+Linda stops and considers the gravity of what she is about to do. She closes the 
+container and stuffs it into her canvas shoulder bag.
+
+EXT. BULLET TRAIN PLATFORM - NIGHT
+
+The sleek train is a blur of motion as it clears frame... revealing Case, 
+exhausted and dishevelled from his run in with the Yakuza. He checks his 
+surroundings warily, then exits the platform. As he approaches the dingy 
+stairway, his attention is drawn to a holographic travel advert floating 
+overhead.
+
+CLOSER -  HOLOGRAM
+
+It displays a beautiful cylindrical satellite hanging in space like a twinkling 
+child's toy. The word FREESIDE pulses beneath the image in capital letters that 
+mimic printed Japanese, followed by the copy line, "Why wait?".
+
+
+A crack of lightning briefly illuminates a night sky choked with storm clouds. A 
+light rain begins to fall. Case moves on.
+
+EXT. CHEAP HOTEL
+
+Case turns his collar up against the rain as he checks his lock for signs of a 
+break-in. He slots a key card and the portal pops open.
+
+INT. CHEAP HOTEL
+
+Slipping through the small entry, case shrugs off his wet jacket and reaches for 
+the lights.
+
+OFFSCREEN VOICE
+Hold it.
+
+Case turns to find himself looking down the four barrelled muzzle of a Fletcher; 
+a lethal looking hand gun that shoots dart cartridges ranging from 
+tranquillisers to micro-explosives.
+
+The Woman In Black sits at the far end of the coffin training the Fletcher on 
+Case with a rock steady hand. The gun's pepper box muzzle rotates once, clicking 
+a barrel in place.
+
+WOMAN
+No lights. I can see just fine the way I am, thanks.
+
+C.U. THE WOMAN
+
+Her mirror shades are actually surgically inset silver lenses that cover her eye 
+sockets. Her fine features and smooth pale skin are framed by a rough shag of 
+jet black hair. There's a cold beauty about her... marred by a street tough 
+edge.
+
+WOMAN
+Now close the door.
+
+WOMAN'S P.O.V.
+
+Her lenses provide light boosters... enhancing the scene in a pale green hue as 
+Case closes the portal.
+
+CASE
+That was you at the arcade.
+
+WOMAN
+I just wanted to put the Big Yak down, not kill him. I've got enough problems 
+without Yak heat.
+
+ANOTHER ANGLE
+
+The room's only light source is the dim glow of the computer monitor.
+
+******************************
+
+Unfortunately, the next page is missing from the bootleg. I can establish, 
+though, that Case learns that Armitage has a job for him, and that the Woman In 
+Black is, in fact, Molly. The best pointer for the scenes may in fact be the 
+novel.
+
+******************************
+
+MOLLY
+His name's Armitage. He's very anxious to meet you.
+
+CASE
+Why should I want to meet him.
+
+MOLLY
+Because you've exceeded your shelf life, Case. Word on the street is you're a 
+dead man walking. Nice time for an employment opportunity. Travel to exotic 
+locales.
+
+CASE
+What's my end?
+
+MOLLY
+You want to hear the pitch, you gotta meet the man.
+
+Case considers this for a beat, then reaches for his jacket.
+
+CASE
+This better be good.
+
+Molly holsters her gun and rises.
+
+Case now notices Linda's suitcase lying by the temperfoam slab, with a note on 
+top of it. He scans the note... adrenalin surges through his body.
+
+MOLLY
+What is it?
+
+CASE
+... a friend of mine's gonna get herself killed. I need my clip.
+
+MOLLY
+Sorry. That's not gonna happen.
+
+CASE
+Then, fuck you. I'm gone.
+
+Case reaches for the door.
+
+The fletcher is instantly in Molly's hand and firing.
+
+Three blue steel darts puncture the fibreglass portal and stand 
+quivering inches from Case's hand.
+
+Case turns and glares at Molly. She considers the situation.
+
+MOLLY (CONT.)
+(holsters gun)
+Alright. We check your friend out first. But I want you to 
+remember something.
+
+Molly snaps her hand open, palms up. With a barely audible click ten double 
+edged scalpel blades slide from their housings beneath her black lacquered 
+nails. Surgical implants.
+
+MOLLY
+You mess with me, you'll be playing Jai Alai with Jesus.
+
+EXT. ARENA
+
+An inflated dome behind a portside warehouse, taut grey fabric reinforced with a 
+net of thin steel cables. The roar of the crowd briefly rises above the night 
+sounds of Chiba City.
+
+INT. ARENA
+
+Linda Lee makes her way across a crowded transom as the predominantly Japanese 
+CROWD exchange fistfuls of new yen, placing their bets. She pauses to ask an old 
+woman directions.
+
+Behind her, the towering puppets of holographic light duplicate the movements of 
+the contestants in the ring; two MEN in the midst of a savage knife fight. Their 
+combat style combines street fighting, fencing and kickboxing.
+
+INT. ARENA HALL
+
+The dimly lit outer hall is lined with massive cement pylons that anchor the 
+arena's support cables. As Jo Jo Bao and his four leg breakers make their way 
+through the crowd, the BEGGARS and SOUVENIR HUSTLERS shrink back. These are men 
+not to be trifled with.
+
+EXT. ARENA
+
+Case and Molly bolt out of a three wheeled taxi and rush to the ticket window.
+
+INT. ARENA - THE RING
+
+The two combatants whirl in their deadly cockfight, their bodies glistening with 
+sweat. The crowd ROARS as first blood is drawn.
+
+C.U. - YAKATORI SKEWER
+
+The brown sauce dripping down Jo Jo Bao's fingers. He takes a bite.
+
+WIDER - YAKATORI STAND
+
+The stand is positioned near an ugly cinderblock dead end at the last curve in 
+the shadowy hall. Sensing danger, the few remaining patrons abandon their 
+position in line, leaving the stand to Bao and his men.
+
+INT.  HALL
+
+Linda Lee enters the hall, checking her watch. She hurries past the clutching 
+hands of the beggars, and the sing song cries of the merchants.
+
+INT. ARENA - STANDS
+
+Case and Molly race across the transom as the crowd SCREAMS for blood. Behind 
+them, the God-like holograms battle beneath the quilted dome in a column of 
+drifting cigarette smoke and light.
+
+INT. YAKATORI STAND
+
+Bao turns. Pull focus to Linda Lee framed in the arch of the hallway. She stands 
+there frozen, like a deer trapped in the road... Then steadies herself, and 
+starts toward Bao and his men.
+
+INT. HALL
+
+Case and Molly run full speed around the bend.
+
+INT. YAKATORI STAND
+
+Linda Lee stands before the grim faced Yakuzas. She reaches into her shoulder 
+bag and produces the plastic container. Bao watches silently as one of his men 
+withdraws the ketamine.
+
+INT. ARENA
+
+The combatants' blades clash. Sparks fly.
+
+The crowd chants for the kill, blood-madness in their eyes.
+
+INT. YAKATORI STAND
+
+Bao's synthetic ice-blue eyes reveal nothing as he inspects the fragile tube of 
+amber fluid. He looks back up at Linda Lee... then lets the tube drop, 
+shattering on the cement floor.
+
+The ketamine itself means nothing. Bao has a score to settle.
+
+INT. RING
+
+One combatant lashes out. Blood flows.
+
+INT. YAKATORI STAND
+
+A double hinged butterfly knife flickers open in Jo Jo Bao's hand.
+
+LINDA LEE
+
+Reacts as the bodyguards grab her from either side.
+
+THE CROWD
+
+**** Faces contorted in anger
+
+MOLLY AND CASE
+
+Arrive at the dead end.
+
+CASE'S P.O.V.
+
+Linda Lee stands 20 yards away, flanked by Bao's bodyguards. Bao SCREAMING 
+something in Japanese. His knife flashes.
+
+THE RING - THE COMBATANTS
+
+A blade flashes - the killing blow. The crowd shrieks.
+
+ON CASE
+
+Sprinting up the hallway.
+
+CASE
+(screams)
+No!
+
+THE YAKUZAS
+
+Turn, drawing their guns.
+
+MOLLY
+
+Pushes Case to the ground as she dives to one side, firing her Fletcher.
+
+LINDA LEE
+
+Staggers back, silhouetted by strobing muzzle flashes as the men around her open 
+fire.
+
+CASE
+
+Crouches beside a cement pylon as bullets explode around him.
+
+MOLLY
+
+Fires, scrambling for cover. She pulls out Case's clip.
+
+MOLLY
+Case!
+
+CASE
+
+Catches his clip, jams it into the gun and rushes the stand like a madman, 
+firing blindly.
+
+MOLLY
+
+Her Fletcher whines as she fires a storm of explosive darts into the midst of 
+the Yakuzas.
+
+THE STAND - HAND HELD
+
+Case charges, blazing away. Yakuzas are cut down in the searing crossfire.
+
+LINDA LEE
+
+Turns, her eyes wide with terror... takes two steps toward Case. A thin curtain 
+of blood suddenly appears, running down her throat.
+
+She crumbles into Case's arms.
+
+BAO
+
+Fires.
+
+CASE
+
+Blood blossoms from his shoulder. Still holding Linda Lee, he empties his gun at 
+Bao.
+
+BAO
+
+Riddled with bullets, is blown back into the Yakitori stand. Glass, wood, hot 
+grease and fire fly through the air as the Yakuza Lieutenant's body bounces off 
+the cinderblock wall, and rebounds on the unyielding cement floor.
+
+CASE
+
+Sinks to his knees cradling the lifeless body of Linda Lee in his arms. Police 
+SIRENS wail in the distance... growing closer.
+
+MOLLY
+
+Snaps a new clip in her Fletcher, scanning the wreckage of sprawled bodies with 
+a professional eye... no survivors.
+
+She takes Case by the shoulder as we hear SHOUTS and a shrill police WHISTLE 
+O.C.
+
+MOLLY
+She's dead man. C'mon.
+
+Case does not respond.
+
+MOLLY (CONT.)
+She's dead!
+
+Molly pulls Case to his feet as the post-fight crowd begins to emerge from the 
+arena. They react with SCREAMS and confusion to the scene of bloodshed.
+
+Camera BOOMS UP. COPS and SECURITY MEN arrive, pushing their way through the 
+swirling crush of bodies. Case and Molly slip away in the confusion.
+
+SLOW DISSOLVE 
+TO BLACK
+
+E.C.U. COFFEE CUP
+
+Black coffee poured into a china cup.
+
+INT. HOTEL ROOM - DAY
+
+Case sits in an oversized chair framed against a large picture window in a 
+luxurious suite. Outside a slate grey sky hangs over the jumble of Chiba City. A 
+light rain patters against the glass.
+
+Case looks wasted... washed out. His arm is supported by a web-like nylon sling. 
+He sips his coffee in silence.
+
+Molly pours a cup for her employer.
+
+ARMITAGE is a powerfully built man in his early forties. His dark robe frames a 
+broad muscular chest and a flat stomach. His white blonde hair is close cropped 
+in an almost military style.
+
+ARMITAGE
+Are you sure you're up to this, Mr. Case? We could reconvene tomorrow.
+
+CASE
+You've got an expensive razor girl on me for a reason. I'd like to hear what it 
+is.
+
+ARMITAGE
+Very well.
+
+Armitage slots a laser disc the size of a quarter into a remote control. The 
+picture window behind Case is instantly transformed into a wall sized screen 
+displaying news footage of chaos in the London stock market.
+
+ARMITAGE (CONT.)
+What you're seeing here is the London stock market crash of last September. This 
+was the first in a series of setbacks for the international banking community.
+
+Molly pours herself some coffee and sits down near Case. Her Fletcher hangs 
+loosely on her side in a black nylon shoulder holster.
+
+Armitage switches the scene to a space shuttle manufacturing plant.
+
+ARMITAGE (CONT.)
+The collapse of Aerospace International...
+
+He switches to a corporate conference room where a hearing is in progress.
+
+ARMITAGE (CONT.)
+The corporate plundering of Yeshoto Industries... At first these seemed like 
+unrelated incidents, but a pattern is emerging that suggests otherwise.
+
+CASE
+What does this have to do with me?
+
+ARMITAGE
+(turns off screen)
+Our analysis of the London stock crash suggest that it was manipulated from 
+within the international computer matrix. Cyberspace, Mr. Case... A realm I 
+believe you're familiar with.
+
+CASE
+(shrugs)
+Put the Sense/Net Police on it. The matrix is their turf.
+
+ARMITAGE
+Sense/Net's corporately financed. Too corrupt to be trusted. You of all people 
+should know that.
+
+Armitage sits down across from Case
+
+ARMITAGE (CONT.)
+If someone is infiltrating the matrix on a global scale no political or economic 
+system is safe. I'm assembling a team of specialists, Mr. Case. We need a man 
+who can enter the matrix and trace this saboteur.
+
+CASE
+My days of punching deck are over. For you or anybody else.
+
+ARMITAGE
+What would you say if I told you we could correct your neural damage?
+
+CASE
+I'd say you were full of shit.
+
+Armitage nods.
+
+CASE (CONT.)
+Then I'd ask you what your terms are.
+
+ARMITAGE
+First, let's get something straight. We ran a psych construct on you that lists 
+self destruction as your favourite pastime. If you want to kill yourself, Mr. 
+Case, there's much more entertaining ways than working for me.
+
+CASE
+It's the people close to me that tend to die... and I get the feeling you and I 
+are going to be real buddies.
+(beat)
+Terms?
+
+ARMITAGE
+We'll match your rate just prior to your... accident. One half in advance.
+
+CASE
+Who's running the show, Armitage? This a government sting?
+
+ARMITAGE
+Questions make me nervous. Part of our arrangement will be that you don't ask 
+too many.
+
+Armitage rises.
+
+ARMITAGE (CONT.)
+One more thing, Mr. Case... Be prepared to travel light.
+
+EXT. THE SPRAWL - DAWN
+
+Urban development gone mad... A city built upon a city with old Atlanta at the 
+core. Bristling with air and ground traffic. A Herring passenger jet slowly 
+spirals as it drops straight down into the dense cityscape.
+
+SUPER:
+
+BOSTON-ATLANTA METROPOLITAN AXIS:
+THE SPRAWL
+
+EXT. HOSPITAL GROUNDS - DAY
+
+An exclusive clinic comprised of sleek pavilions, separated by small formal 
+gardens.
+
+Case cracks open a drink container and hands it to Molly. He opens a second one 
+for himself. Two white robed DOCTORS pass by, preoccupied with their charts.
+
+CASE
+Since when do sprawl doctors know more about nerve rehab than the Japanese?
+
+MOLLY
+Since Armitage sold them a program on it. Put them years ahead of the 
+competition.
+
+As they walk through the garden, they pass a gleaming crab-like robot pruning a 
+tree with its long delicate claws.
+
+CASE
+He's a resourceful guy, your boss. How long you work for him?
+
+MOLLY
+Couple of months.
+
+CASE
+What about before that?
+
+MOLLY
+For someone else. Bodyguard. Courier... Whatever.
+
+CASE
+Then you don't really know who he is, do you?
+
+MOLLY
+I know who he isn't. Not C.I.A. Not Sense/Net. But... money comes in. Doors 
+open. He's onto something.
+
+CASE
+Maybe something's onto him.
+
+MOLLY
+What's that supposed to mean?
+
+A MALE NURSE approaches Case.
+
+NURSE
+Mr. Smith?
+
+CASE
+Yeah.
+(turns back to Molly)
+It means there is no Santa Claus, Molly. So cover your ass. Just cover your ass.
+
+Case follows the nurse into the building.
+
+INT. OPERATING ROOM
+
+A high tech sterile environment.
+
+An ANESTHESIOLOGIST in a cobalt blue smock and surgical mask attaches one blue 
+derm to Case's neck and one to his wrist.
+
+ANESTHESIOLOGIST
+Count backwards from ten, please.
+
+CASE
+Ten... nine... 
+
+CASE'S P.O.V. - SLOW MO
+
+A SURGEON picks up a laser scalpel, a device resembling a tuning fork with a 
+laser beam crackling between its open prongs. The surgeon now folds back one of 
+the prongs and turns toward Case.
+
+CASE
+(slowing down)
+Eight... seven... six.
+
+C.U. CASE
+
+His eyelids droop... picture and sound slow down.
+
+CASE
+Five... four...
+
+CASE'S P.O.V. - -SLOW MO
+
+The Surgeons converge on Case, towering over him. The room around him then melts 
+into dreamy soft focus as the crackling laser scalpel descends.
+
+E.C.U. - CASE'S EYES
+
+Half closed.
+
+CASE
+Three... two...
+
+CASE'S P.O.V. - SLOW MO
+
+The Surgeons have become the Pale Man and his Sense/Net storm troopers. The 
+scalpel is now the glistening hypodermic... descending... contact.
+
+The screen explodes in WHITE-OUT.
+
+C.U. CASE
+
+His face tenses... but in passion, not pain... slowly turning to reveal Linda 
+Lee holding him tightly... lost in their lovemaking.
+
+E.C.U. THE LASER SCALPEL
+
+Burning a straight line across a horizon of flesh.
+
+CASE
+
+His face tenses... again slowly turning to reveal Linda Lee in his arms, but now 
+her eyes are as cold and blank as a lifeless doll... Her throat darkly 
+glistening crimson.
+
+E.C.U. THE LASER SCALPEL
+
+Its beam FLARES into camera as it slices.
+
+C.U. CASE
+
+Screams...
+
+The CAMERA BOOMS UP to reveal him tied to the coffee table, surrounded by his 
+enemies.
+
+Screams....
+
+Clutching her lifeless body in his arms as he sinks to his knees in defeat.
+
+C.U. CASE
+
+His eyes flash open as he gasps a breath. Awake...
+
+WIDER - DARKENED ROOM
+
+Case lies in rumpled sheets, his face bathed in sweat. He can hardly move.
+
+Molly looks down at him... a shadow against a moonlit window, her hair 
+glistening as blue black as a raven's wing.
+
+MOLLY
+(softly)
+Easy. You're still full of endorphins.
+
+Case coughs. Molly supports his head and helps him sip some water.
+
+MOLLY (CONT.)
+You've been calling her name.
+
+CASE
+What?
+
+MOLLY.
+Your girl, Linda Lee. You've been calling her name.
+
+She wrings out a wet cloth. Applies it to his forehead.
+
+MOLLY (CONT.)
+She must have really loved you.
+
+Case gazes into the darkness. His voice is a weak whisper.
+
+CASE
+It got her killed.
+
+Molly straightens up his covers.
+
+MOLLY
+Sure Case... Love kills and we're all the walking wounded.
+
+She gently lays a hand over Case's eyes.
+
+MOLLY (CONT.)
+Now close your eyes... You're asleep and you don't even know it.
+
+When Molly takes her hand away, indeed, his eyes remain shut.
+
+C.U. MOLLY - MORNING
+
+She hits a padded bar hard... Flips up out of frame.
+
+WIDER
+
+Molly is in the midst of a workout on a customised rig that's part "Sinsemi" 
+karate pads, part uneven parallel bars. She flies through her routine with 
+animal grace and the focused discipline of a professional athlete.
+
+The rig stands in the middle of a sparsely furnished high ceilinged loft. Shafts 
+of soft morning light are filtered through a row of dusty windows.
+
+Case sits up in the foreground.
+
+He's lying on a futon in the middle of the worn wooden floor. He rises pulling a 
+sheet around his naked shoulders... but he's stopped cold as a splitting 
+headache hits home.
+
+CASE
+(gasps)
+Holy shit...
+
+MOLLY
+(flips down off rig)
+Hey... you're not supposed to be up.
+
+Molly guides Case to a stool at the kitchen counter. He looks around the room, 
+red-rimmed eyes adjusting to the light.
+
+CASE
+How long have I been out?
+
+MOLLY
+Almost two days.
+
+Case gazes down at the narrow bandages across his main arteries.
+
+CASE
+I gotta know... did it work>
+
+MOLLY
+We'll find out soon enough. If you don't pull the splices out.
+
+Case snaps the cap off a bottle of bourbon and pours a drink.
+
+CASE
+How soon is soon enough?
+
+MOLLY
+Couple of days. They'll examine you.
+
+Case slugs down the bourbon.
+
+MOLLY (CONT.)
+That's not going to help.
+
+CASE
+The way I feel, believe me, it'll help.
+
+MOLLY
+Not anymore. You got a new pancreas. Armitage's got you kinked so you can't get 
+stoned.
+
+CASE
+What the fuck... are you serious?
+
+MOLLY
+(pours him another)
+Go ahead...
+
+Case tosses it down... no kick at all.
+
+CASE
+That's cute. Very fucking cute. What else did this guy do to me when he had me 
+opened up like a goddamn fillet?
+
+Extending one scalpel-blade, Molly picks at a cluster of grapes.
+
+MOLLY
+(half-smile)
+Oh, I dunno... He was saying maybe that you're a little too ballsy.
+
+Molly flicks her blade, severing two grapes from the bunch. Nasty image.
+
+CASE
+No...
+
+Case checks beneath his sheet.
+
+Armitage now enters carrying two large cardboard boxes bearing Japanese logo.
+
+ARMITAGE
+I'll think you'll find everything in working order. Molly's just having a little 
+fun.
+
+CASE
+I don't call this fun, pal. You're playing God with my body.
+
+ARMITAGE
+You're a substance abuser, Case. Your pancreas was shot. Wouldn't have lasted 
+out the year. We did you a favour and liberated you from a dangerous dependency 
+in the bargain.
+
+CASE
+Thanks, but I was enjoying that dependency.
+
+ARMITAGE
+Good, because you've got a new one.
+
+Armitage sets the boxes down in a corner with several others.
+
+ARMITAGE (CONT.)
+There are fifteen toxin sacs bonded to the lining of your main arteries. They're 
+dissolving, Case... slowly, but they're definitely dissolving. You have just 
+long enough to do the job.
+
+CASE
+You son of a bitch...
+
+Case lurches up from the counter, sending the bourbon smashing to the floor. 
+Molly restrains him.
+
+MOLLY
+Easy...
+
+ARMITAGE
+Play it straight with me and you've got nothing to worry about. When it's over, 
+I inject you with the antitoxin.
+
+CASE
+Why'd you do it, Armitage?
+
+ARMITAGE
+The disturbance in cyberspace... It's an A.I.
+
+CASE
+(bitter chuckle)
+Right. And no one would take on an A.I.... If they had a choice.
+
+MOLLY
+What's an A.I.
+
+ARMITAGE
+An Artificial Intelligence. A computer system that's developed the capacity for 
+sentient thought. They're dangerous and totally unpredictable.
+
+CASE
+First sign of free will, Sense/Net usually slags 'em.
+
+ARMITAGE
+This one's different. No one can trace it. It's out there somewhere in the 
+matrix and it's growing stronger... infecting other computer systems like a 
+virus.
+
+CASE
+Anything rated higher than a P.C.'s got a hard-wired suicide switch. It'll self-
+destruct.
+
+ARMITAGE
+It hasn't yet.
+
+Case lights a cigarette.
+
+CASE
+I've heard about rogue A.I.'s, but there's only one guy who actually went up 
+against one.
+
+ARMITAGE
+Dixie McCoy
+
+CASE
+Right. Best cowboy that ever punched deck. The old man taught me most of what I 
+know.
+
+ARMITAGE
+I've arranged for him to work with us.
+
+CASE
+That's gonna be tough because Dixie McCoy's dead. The A.I. flatlined him.
+
+ARMITAGE
+I know.
+(beat)
+You ever work with ghosts, Case?
+
+CASE
+What are you talking about?
+
+ARMITAGE
+Sense/Net taped a full spectrum personality construct on McCoy six months before 
+his death. Everything Dixie was -- everything Dixie still knows exists as a 
+digitised construct.
+(beat)
+Of course a tape can get misplaced in a library the size of Sense/Net's.
+
+Armitage tosses a matte black cartridge on the kitchen counter. Its the size and 
+shape of the clip on an assault rifle. Warning decals and security codes frame 
+the label on the front of the cartridge:
+
+Charles "Dixie" McCoy
+
+Case gingerly picks it up.
+
+CASE
+Working with a dead man. Shit, I've done about everything else.
+
+ARMITAGE
+You'll be ready for a trial run in two days. If your splices hold, you'll use 
+McCoy to trace the A.I.'s coordinates.
+
+CASE
+And then?
+
+ARMITAGE
+Then we rendezvous with the final member of our team. For now, that's all you 
+need to know.
+
+CASE
+It's just that sometimes I wonder what team I'm playin' on.
+
+Armitage turns to Molly.
+
+ARMITAGE
+We have work to do.
+
+Molly and Armitage exit.
+
+Pull focus from Case to Armitage's empty glass in the foreground. Case holds it 
+up to the light.
+
+C.U. THE GLASS
+
+Subtle fingerprints are visible.
+
+EXT. LOFT - NIGHT
+
+A full moon shines down on the weathered brick building in this core section of 
+old Atlanta.
+
+INT. LOFT
+
+Case lies sleeplessly, staring at the mysterious grouping of boxes that Armitage 
+has left lying on the moonlit floor. He rises.
+
+As Case unstacks the boxes he discovers a glossy pamphlet advertising the luxury 
+satellite, Freeside, with the familiar copyline: "Freeside... Why wait?"
+
+Beneath it is an 8x10 fashionably dressed cabaret artist. It bears the heading, 
+"The Holographic Cabaret of Peter Riviera." Ghostly images of skulls and jewels 
+dance about Riviera.
+
+Case sets the papers aside and runs his hand over the smooth surface of a box 
+bearing cryptic instructions in Japanese. He tears it open and brushes back the 
+clear plastic packing bubbles.
+
+He gently lifts a beautiful Ono-Sendai Cyberspace 7 computer deck out of the box 
+and sets it in a square of dusty moonlight thrown across the worn wooden floor. 
+It's a more compact version of the jerry-rigged deck in Case's old townhouse. He 
+runs his hands over the smooth lines of the two tiered keyboard... the sleek 
+joystick.
+
+MOLLY (O.S.)
+You touch that thing like it's a woman.
+
+Case looks up to see Molly silhouetted in her bedroom doorway, wearing only a 
+cotton body stocking. Her Fletcher hangs from her shoulder in its open harness.
+
+CASE
+I'm going in.
+
+MOLLY
+You're not ready yet. They said two days.
+
+CASE
+I'm not jacking with Armitage and his quacks breathing down my neck.
+
+MOLLY
+If the splices aren't good, you could fry.
+
+Case considers this for a moment.
+
+CASE
+I'll show you how to tell what's going on. If things go south, you unplug me.
+
+MOLLY
+What is it with you? Why is it so important? It's a buzz, right? Like getting 
+high.
+
+CASE
+On a good run... yeah.
+
+MOLLY
+So you're a wire junkie.
+
+Case sets the computer deck aside.
+
+CASE
+When I was fifteen Sense/Net iced my old man's credit record over some computer 
+error. Once that goes down, that's it. He lost his business... everything. It 
+destroyed him. I had to hustle arcade games for chump change. Dixie McCoy found 
+me, figured I was a natural. He taught me the wires for a piece of the action.
+
+MOLLY
+A regular Fagan.
+
+CASE
+Sure. I finally pulled a run on my old man's credit file when I was seventeen... 
+only it was too late for him.
+
+MOLLY
+Too late?
+
+CASE
+Suicide. I just needed to set the record straight.
+
+Case is silent for a moment then turns and begins to tear open another box.
+
+CASE (CONT.)
+I've been running the matrix ever since.
+
+Molly finally sits down beside him... the starts to help Case unpack the 
+equipment.
+
+INT. LOFT - C.U. CYBERSPACE EQUIPMENT
+
+An impressive display of high tech computer gear is arranged in a semi-circle on 
+the floor around the futon.
+
+Case sits in a lotus position in the midst of the gear as Molly paces the room. 
+Trails of micro thin wires run from the electrodes (derms) no his headband to 
+the chrome plated jack he holds in his hand.
+
+CASE
+The first fun's bound to be rough. It that read out fluctuates more than ten 
+points... just pull this out. But if the EEG flatlines, don't touch anything.
+
+MOLLY
+Won't that mean you're dead?
+
+CASE
+Technically, yeah, but people have made it back after as long as three minutes.
+
+MOLLY
+Dixie McCoy didn't.
+
+CASE
+The point is, if you unplug me when I'm flatlines, I'm history. I got no way 
+back.
+
+MOLLY
+Okay fine. Let's get this over with.
+
+Case gives Molly a reassuring smile.
+
+CASE
+Take it easy. This is what I'm good at.
+
+C.U. THE JACK
+
+Case slides it home with a metallic SNAP.
+
+Crackle to WHITE OUT
+
+CASE'S P.O.V. - CYBERSPACE
+
+We are suddenly roaring through an impossible corridor of light with no top or 
+bottom... Our speed constantly increasing. Luminescent geometric shapes tumble 
+by like a shimmering power storm. We have entered an unearthly dimension of 
+sheer power and energy as Case's subconscious mind is catapulted into CYBERSPACE
+
+THE LOFT -CASE
+
+Breaks into a sweat... His eyes closed in deep concentration. He remains in the 
+louts position, his hands lying on padded supports just above the keyboard. His 
+fingers flex weakly. He's in poor contact with his physical self.
+
+C.U. CASE - CYBERSPACE
+
+His translucent image distorts radically as he's torn through the GLOWING 
+corridor, fighting for some control.
+
+THE LOFT
+
+The READOUTS begin to fluctuate.
+
+Molly sees that Case's body is beginning to tremble. Something's going wrong.
+
+CASE'S P.O.V. - CYBERSPACE
+
+Still accelerating down the terrifying corridor of light. The ride grows rougher 
+with the increasing velocity. He's losing control.
+
+THE LOFT - C.U. KEYBOARD
+
+Case's fingers still move slightly... still no contact
+
+C.U. READOUTS
+
+Fluctuations increasing...
+
+CYBERSPACE
+
+A monolithic WALL of pulsing yellow and black hazard stripes lies directly 
+ahead... a glowing computer graphic barricade. It's crowned by the imposing 
+Sense/Net logo and the warning... "Security Clearance Required."
+
+CYBERSPACE - CASE
+
+His image streaking... vibrating. He's in excruciating pain.
+
+CASE'S P.O.V. - THE WALL
+
+Case is rushing towards a head on collision. Tendrils of energy crackle across 
+the surface of the barricade like an electrified fence. The words "Access 
+Prohibited" strobe out in red towering letters.
+
+LOFT - C.U. KEYBOARD
+
+Case's hands finally come to life. His shaking fingers punch out a series of 
+digits.
+
+CYBERSPACE - CASE'S P.O.V. - THE WALL
+
+Case's program shots out like a lightning bolt, blowing a hole through the 
+Sense/Net barricade a split second before impact. We rocket straight through the 
+tiny portal.
+
+EXT. SENSE/NET BUILDING - NIGHT
+
+A foreboding mirrored fortress in downtown New Atlanta, bristling with antenna 
+and satellite dishes. It looks like a cross between a futuristic broadcasting 
+station and a police headquarters, which is exactly what it is.
+
+From somewhere inside a high pitched klaxon pulses out its shrill alarm.
+
+INT. SENSE/NET MONITORING ROOM
+
+The alarm continues as Sense/Net personnel scramble to their terminals. Overhead 
+screen display Case's infiltration into the matrix in simplified computer 
+graphics.
+
+CLOSER
+
+A Sense/Net technician speaks into his headset
+
+TECHNICIAN
+We have a bogey at access C-27. Bogey at C-27.
+
+A voice crackles in response.
+
+VOICE
+Trajectory?
+
+INT. CYBERSPACE - CASE'S P.O.V.
+
+Case shoots through the narrow wormhole in the barricade at hair raising speed.
+
+He finally bursts through into...
+
+THE MATRIX
+
+A transparent 3-D chessboard opens up before us, extending into infinity... 
+Breathtakingly beautiful... Huge glowing geometric computer CONSTRUCTS float by, 
+each bearing the specific corporations they represent... Suspended in 
+nothingness like synthetic planets in an over-populated universe.
+
+NOTE: The computer CONSTRUCTS are three dimensional geometric representations of 
+the inner workings of computer systems. They exist in Cyberspace in the form of 
+pure light and energy. Complex symbols and data are constantly changing within 
+their glowing ectoskeletons. Although separate and apart from the actual 
+hardware in the physical universe, computer activity can be observed and 
+manipulated from within the matrix.
+
+INT. SENSE/NET MONITORING ROOM
+
+The blip representing Case disappears from the monitor.
+
+OPERATOR
+We've lost contact. sir. He's entered the matrix.
+
+THE MATRIX C.U. SUBLIMINAL CASE
+
+(NOTE: Although Case's physical body always remains at his deck, his spiritual 
+being manifests itself on his trips into the matrix. A true "out of body" 
+experience.)
+
+Case floats blissfully through the phosphorescent environment in the lotus 
+position that matches that of his body in the physical plane. His eyes are 
+filled with wonder. He's achieved his "normal" appearance in the matrix; a 
+translucent ghost of himself... shimmering with mild iridescence. His every 
+moment creates subtle time lapse after-images the catch up his prime image in a 
+graceful dance.
+
+CASE'S P.O.V. - THE MATRIX
+
+A burning scarlet pyramid bearing the title Eastern Seaboard Fission Authority 
+floats by majestically, its surface alive with a constant changing flow of 
+data...
+
+The monolithic green cubes of Mitsubishi Bank of America hang above the horizon 
+like a luminous cityscape twinkling with countless transactions.
+
+And in the distance are the everpresent gridlines that define the limitless 
+perspectives of the matrix.
+
+We hear distant echoing LAUGHTER.
+
+THE LOFT
+
+Case sits before his console bathed in sweat... Eyes closes... Laughing like a 
+man who's beat the devil.
+
+MOLLY
+
+Watches... wondering what he can possibly be experiencing. the readouts are 
+modulating smoothly.
+
+INT. SENSE/NET CONFERENCE ROOM
+
+The Sense/Net technician sits surrounded by three larger than life holographic 
+projections is taking place with the chairman's live images, each disembodied 
+head projected above a separate pedestal.
+
+A wall-sized screen displays playback of Case's infiltration of the matrix.
+
+Bigelow, the most imposing of the three chairmen question the nervous operator.
+
+BIGELOW
+Is this all you've got on him?
+
+TECHNICIAN
+Yes sir. Whoever he is, he's good.
+
+A figure seated in shadows at the rear of the room now speaks.
+
+FIGURE
+If he was so good he wouldn't have crashed a security checkpoint. I doubt he'll 
+make the same mistake again.
+
+BIGELOW
+I thought we eradicated these wire jockeys. These... what do they call 
+themselves, Duprey?
+
+The FIGURE now swivels in his chair to face Bigelow's hologram. He is the PALE 
+MAN, the Sense/Net operative that injected Case with the microtoxin. His name is 
+Lt. Roland Duprey.
+
+DUPREY
+Cowboys, sir. I retired the last one personally over a year ago.
+
+SUVANI YAMIR, a Mideastern Chairman, interjects.
+
+YAMIR
+Then how do you explain this?
+
+DUPREY
+I don't know yet. My people are doing everything that they can to trace it.
+
+The third chairman, an aristocratic Frenchman named Lord Frederick Tessier 
+addresses the gathering.
+
+TESSIER
+Do you realise what a security breach would mean right now? If our mysterious 
+guest discovers that an Artificial Intelligence is running loose in the matrix 
+infiltrating other computer systems, it could cause a worldwide panic.
+
+BIGELOW
+Find this cowboy, Duprey. Do whatever you have to to stop him.
+
+DUPREY
+What about the A.I.?
+
+TESSIER
+That is our problem, Lieutenant. Please concern yourself with the matter at 
+hand.
+
+Duprey rises.
+
+BIGELOW
+One more thing, Duprey...
+
+Duprey turns.
+
+BIGELOW
+You fuck this up, I'll have your cerebral cortex degoused. You'll need a 
+playback unit to remember how to pee. Am I making myself clear?
+
+Duprey regards his superiors with thinly veiled disdain.
+
+DUPREY
+Don't worry, gentlemen. I'll keep your fat out of the fire.
+
+EXT. MATRIX
+
+Case's ghostly image still floats in a lotus position, dwarfed by the gigantic 
+glowing constructs suspended in the distance.
+
+INT. LOFT - C.U. DECK
+
+As Case presses a button, the cartridge labelled "Dixie McCoy" automatically 
+descends into the deck.
+
+EXT. THE MATRIX
+
+A disembodied CAT scan of a HUMAN HEAD suddenly appears before Case in a nimbus 
+of gently modulating light. The brain and circulatory systems are visible in 
+fluorescent pinks and blues like a 3-D x-ray. Its eyeballs are rolled back in 
+its skull like two boiled eggs, showing no pupils at all.
+
+Beneath this eerie medical jack-o-lantern is a two dimensional name plate in 
+glowing green letters. It reads Charles "Dixie" McCoy and bears a narrow voice 
+print band with a digital time code read out.
+
+CASE
+Dixie. Dixie McCoy? Is that you, man?
+
+As McCoy speaks, a series of overlapping sign waves appear beneath him in his 
+voice print band,, fluctuating with the modulations of his voice.
+
+MCCOY
+Hey, bro.
+
+CASE
+It's Case. Remember me?
+
+Dixie's eyes roll down, revealing shocking pink irises with cobalt blue pupils. 
+He seems to be just waking up.
+
+MCCOY
+Case... Yeah, Miami Joeboy, quick study. How you doing, kid?
+
+CASE
+Fine, Dixie. Fine.
+
+MCCOY
+Last I heard you cracked Sukura International. I couldn't believe it.
+
+CASE
+Yeah. That was me.
+
+MCCOY
+Jesus Christ, Kid. Nobody's ever cracked Sukura.
+
+CASE
+As far as they know, that's absolutely true.
+
+MCCOY
+(chuckles)
+Ya learned good. So, what's happening?
+
+CASE
+That's a good question. What's the last thing you remember?
+
+Long beat.
+
+MCCOY
+Nothin'. Not a goddamn thing. What the fuck...
+
+CASE
+Dixie, you know how a ROM construct works?
+
+MCCOY
+Sure, Kid. It's a firmware construct.
+
+CASE
+Okay, Dix. You _are_ a ROM construct.
+
+Dixie's image is obscured by static as his "face" registers confusion.
+
+CASE (CONT.)
+Dixie?
+
+There is no reply.
+
+CASE
+You're a ROM construct... Understand?
+
+Dixie is briefly visible, then becomes totally obscured by electronic snow. His 
+voice is a distant echo.
+
+DIXIE
+(processed)
+It's cold. Why's it so goddamn cold.
+
+The image disappears completely.
+
+CASE (CONT.)
+Dixie?
+
+Silence... Then Dixie suddenly appears in perfect clarity.
+
+DIXIE
+What you're telling me is that I'm dead. Right?
+
+CASE
+(pauses)
+Right...
+
+DIXIE
+I can't feel nothing because I am nothing.
+(eerie laughter)
+Just playback. A ghost in the machine.
+
+CASE
+You're Dixie McCoy's construct. That makes you something special.
+
+DIXIE
+Don't patronise me, you fuck. I was skating figure eights in this matrix while 
+you were still peeing in your chinos.
+(beat)
+Hey, Kid... you expecting company?
+
+CASE
+What?
+
+MCCOY
+Later...
+
+Dixie disappears.
+
+There is an ominous rumbling in the matrix.
+
+CASE
+Dixie?
+
+Case now notices an unusual glimmer off in the matrix.
+
+He begins to "type"... looking like a mimist at an invisible keyboard.
+
+INT. LOFT - KEYBOARD
+
+Case types.
+
+INT. MATRIX
+
+Case's question prints out in mid-air as he types it.
+
+Analysis: Object travelling 120 degrees longitude.
+
+The computer's answer instantly appears.
+
+Energy probe. Point of origin unknown.
+
+INT. SENSE/NET MONITORING ROOM
+
+As Duprey walks purposefully up the aisle he's stopped by a concerned 
+technician.
+
+TECHNICIAN
+Lieutenant... we have some unusual activity in C sector.
+
+DUPREY
+Is that our bogey?
+
+TECHNICIAN
+No, it's inorganic. Could be your phantom A.I..
+
+Duprey snaps his fingers.
+
+TECHNICIAN (CONT.)
+Sir?
+
+DUPREY
+I do believe one of our problems is about to cancel out the other one.
+
+INT. MATRIX
+
+The glowing sphere suddenly picks up speed... Veers directly at Case. The 
+rumbling grows louder with its approach.
+
+INT. LOFT
+
+Case quickly taps out new coordinates.
+
+INT. MATRIX
+
+His position shifts, but the sphere responds instantly. It's nearly upon him, 
+crackling with deadly energy.
+
+INT. LOFT - DECK
+
+?
+
+INT. MATRIX
+
+Case peels off and flies towards an Air Tram International construct. The sphere 
+bares down on him like a heat seeking missile.
+
+RAILWAY CONSTRUCT
+
+Case flashes into the si spoked construct just as the sphere crashes into it.
+
+INT. LOFT
+
+The deck shorts out, SPARKING and POPPING with the electrical overload. Case's 
+body stiffens.
+
+Molly tries to pull out the jack, but receives a crackling jolt the second her 
+hand comes down in contact with the chrome.
+
+INT. CONSTRUCT
+
+Case flies through narrow intersecting tunnels as the entire construct shatters 
+around him in a deadly display of phosphorescent fireworks.
+
+INT. LOFT
+
+Molly lashes out with her steel claws, severing Case's wires. He's ripped back 
+into his body just in time to se the sparking Hosaka monitor implode with a 
+flash of light.
+
+The printer begins shooting out hard copies at high speed until the entire 
+system suddenly shuts down.
+
+MOLLY
+You okay?
+
+CASE
+...Yeah, but the Hosaka's history.
+
+As Case inspects the print outs, he's stopped cold... One word is repeated down 
+each scorched page:
+
+Wintermute
+Wintermute
+Wintermute
+
+EXT. STREET CORNER - THE SPRAWL - DAY
+
+Case buys a pack of cigarettes and a paper at a busy corner newsstand.
+
+The headlines read - "Systems Crash at Air Tram International - Railways Shut 
+Down."
+
+A Sense/Net van slowly turns the corner... invisible eyes watching from behind 
+the tinted bulletproof glass.
+
+Case eases back against a row of pay phones as the van passes. He lights a 
+cigarette.
+
+Suddenly the pay phone beside him RINGS. Case stares at the phone as the rings 
+continue, then finally picks it up.
+
+A synthetic CHIP VOICE comes over the line, reverberating with unearthly 
+harmonics.
+
+VOICE
+Hello, Case
+
+Case is too stunned to speak... then,
+
+CASE
+Who is this?
+
+VOICE
+Wintermute.
+(beat)
+Sorry I missed you last night.
+
+There's faint background sounds... a WAILING COSMIC WIND... barely audible 
+voices echoing off some orbital link.
+
+VOICE (CONT.)
+I've been waiting for you, Case. It's time we talked.
+
+Case hangs up. He flicks the cigarette away, unnerved, then walks along the 
+length of the bank of phones.
+
+Each phone RINGS as he passes, but only once.
+
+EXT. LOFT - DAY
+
+Case enters the building
+
+INT. THE LOFT
+
+Case enters to find Armitage pacing the floor. A wiry pony tailed man, bare 
+chested except for a black leather vest, sits crouched over Case's deck, working 
+on the wired circuitry. He looks like a Grateful Dead roadie who's done one too 
+many tours.
+
+ARMITAGE
+You ran without us.
+
+CASE
+I cannot tell a lie. Sorry.
+
+ARMITAGE
+Sorry, bullshit. We haven't even begun and you're already jeopardising this 
+operation.
+
+CASE
+What's he doing to my gear?
+
+The man glances up from his work.
+
+MAN
+_Your_ gear. Hah! I spent weeks customising this stuff. It looks like you've 
+been playin' with it in the bathtub, man.
+
+ARMITAGE
+This is Finn, our tech man.
+
+FINN
+Pleased to meecha, I'm sure.
+
+Armitage refers to the printout in his hand.
+
+ARMITAGE
+What's this?
+
+CASE
+Could be your A.I.'s calling card.
+
+ARMITAGE
+Did you trace it?
+
+CASE
+No, but it traced me.
+
+Case tosses him the newspaper. Armitage scans the headline.
+
+CASE
+Fried Air Tram in the process. Not to mention half my gear.
+
+ARMITAGE
+What about McCoy?
+
+CASE
+He's got a little attitude problem, being that he's dead and all, but he'll come 
+around. Where's Molly?
+
+ARMITAGE
+Prepping your trip.
+
+CASE
+Really? Do I get to know where I'm going? It makes packing so much easier.
+
+ARMITAGE
+Offworld. The A.I.... this "Wintermute" thing evolved on a computer mainframe on 
+the satellite Freeside. If you attack it from within the matrix while Molly 
+accesses its original programming we can cripple its defence systems.
+
+CASE
+That could work, but the timing will be a bitch.
+
+ARMITAGE
+You'll be linked during the entire operation.
+
+CASE
+Linked?
+
+FINN
+Remote simstim. Moll's wired for full sensorium access.
+(to Armitage)
+I thought this guy was a player.
+
+ARMITAGE
+He is. Just been out of touch for awhile.
+
+FINN
+Well, you're going to get a kick out of this. Link switches here.
+(flips it)
+Boom. You're wired straight into her senses. Sight, sound, touch, taste... the 
+whole enchilada. You'll know just how tight those jeans really are.
+(rises)
+Now you wanna give this a try? I'm supposed to be on my lunch break.
+
+Case applies his derms, casts a last suspicious look at Finn, then jacks in.
+
+CRACKLE to WHITE OUT
+
+MOLLY'S P.O.V. - SIMSTIM
+
+Hand head as she moves down a crowded street in the Sprawl's business district. 
+A slight edge of video texture lets us know this is Case's perception via the 
+simstim link.
+
+The P.O.V. pans and we see Molly regarding herself in a reflective shop window.
+
+MOLLY
+Morning, Case.
+
+The P.O.V. tilts down with Molly's gaze as she slides a hand inside her open 
+jacket.
+
+MOLLY (CONT.)
+Welcome aboard.
+
+She gently pinches her nipple through her silk tank top.
+
+INT. LOFT
+
+Case winces, his hand automatically protecting his chest. It's a strange 
+sensation, to say the least.
+
+He flips back out.
+
+CASE
+Yeah, well it's working.
+
+ARMITAGE
+Stick with her. I want the process to become second nature to you. We fly for 
+Freeside at dawn.
+
+Case flips.
+
+CRACKLE to WHITE OUT.
+
+MOLLY'S P.O.V. - MEMORY LANE - DUSK
+
+Molly makes her way down a narrow alley lined with dubious software rental 
+complexes... Makeshift booths selling recycled computer gear. The CLIENTELE are 
+young, few of them out of their teens. Adrenaline junkie ROCK blares from micro 
+speakers, songs clashing like a battle of the bands as Molly walks down the 
+lane.
+
+Molly approaches a booth displaying hundreds of slivers of microsoft; angular 
+fragments of colored silicon mounted under transparent bubbles of white 
+cardboard.
+
+Behind the counter a BOY with a shaven head is putting stock away with his back 
+to camera. A dozen spikes of microsoft protrude from a socket behind his ear.
+
+MOLLY
+Larry, that you?
+
+Larry turns around and greets Molly in rapid fire Chinese.
+
+MOLLY (CONT.)
+(impatient)
+You're slotting Chinese, Larry.
+
+Larry pauses for a beat, then realises what's wrong. He extracts a long green 
+microsoft from the cluster behind his ear.
+
+LARRY
+Sorry, Client from Hong Kong, you know.
+
+Larry flicks open a flat plastic case and slots the microsoft beside ?
+
+MOLLY
+I need a suit. Something special.
+
+Larry nods... selects another microsoft.
+
+LARRY
+Patience.
+
+Larry slots it behind his ear. His eyes narrow as he scrutinises Molly
+
+LARRY (CONT.)
+Molly's got a rider. Larry doesn't like that.
+
+MOLLY
+Didn't know you were so sensitive. Costs a lot to get that sensitive.
+
+Larry taps his microsoft.
+
+LARRY
+This says you got someone using your eyes.
+
+MOLLY
+My partner.
+
+LARRY
+Lose the rider. Then we talk.
+
+Molly sighs and lowers her gaze.
+
+MOLLY
+Case, you take off, okay?
+
+The screen sears with a crackling WHITE OUT.
+
+INT. LOFT
+
+Case eases back on the futon and reorientates himself. He flips on the deck's 
+screen and punches up new matrix coordinates.
+
+INT. MICROSOFT BOOTH
+
+Larry pulls down the corrugated tin garage door, sealing off the booth. He leans 
+back against a brick wall.
+
+LARRY
+Now, Pretty Poison, what exactly did you have in mind?
+
+MOLLY
+I heard you have mimic polycarbon.
+
+Larry flips a switch on his collar and his entire jumpsuit suddenly strobes to 
+life... reflecting a brick pattern that makes him nearly invisible against the 
+wall.
+
+LARRY
+Instant environmental playback. It's the latest... but it'll cost you.
+
+INT. THE LOFT
+
+Case takes a sip from a bicycle bottle and jacks in.
+
+CRACKLE to WHITE OUT.
+
+EXT. THE MATRIX
+
+Case appears near the gently twinkling fission authority pyramid.
+
+CASE
+Dixie... you here?
+
+The glowing skull appears in its cloud of lights.
+
+DIXIE
+I'm surprised you still are. Should'a told me you had an A.I. running probes at 
+you.
+
+CASE
+I need its matrix coordinates, Dixie. I've got to nail that thing where it 
+lives.
+
+DIXIE
+Who got you into this?
+
+CASE
+A guy who calls himself Armitage.
+
+DIXIE
+Never heard of him.
+
+CASE
+Nobody has.
+
+An ultraviolet square now appears bearing Armitage's fingerprints.
+
+CASE (CONT.)
+I duped these prints off him. Can you run an I.D.?
+
+DIXIE
+No problem, amigo.
+
+CASE
+What about the A.I., Dix? Sense/Net hasn't even been able to trace it.
+
+DIXIE
+Those guys couldn't even find their own dicks with tweezers and a magnifying 
+glass.
+(beat)
+Tell you what, Bro. I'll make you a deal. I help you nail this A.I., you gotta 
+do me one favour.
+
+CASE
+What?
+
+DIXIE
+When we're done, erase this friggin' tape.
+
+Dixie crackles into static and disappears.
+
+INT. SENSE/NET - DUPREY'S OFFICE
+
+Duprey is at his desk fast forwarding through a series of files on his computer 
+monitor.
+
+He's interrupted by a beep tone. The image of his secretary appears on a tiny 
+phone screen.
+
+SECRETARY
+There's a call for you on line four, sir. He won't identify himself, but he says 
+it's urgent.
+
+Duprey punches up the line. A digitally masked image appears... a blurred mosaic 
+grid of a human face.
+
+DUPREY
+Yes...
+
+The electronically altered voice sounds chillingly demonic.
+
+VOICE
+The word is you're scanning for a wire freak. You want to catch a cowboy, you 
+need a posse.
+
+DUPREY
+Who is this?
+
+VOICE
+Just a citizen looking for a pay day.
+
+INTERCUT - MICROSOFT BOOTH
+
+Larry, Molly's tech connection, sits in his cluttered workshop speaking to 
+Duprey through a customised phone unit.
+
+LARRY (CONT.)
+
+Somebody's setting up a run. Something heavy. You interested?
+
+INT. LOFT - NIGHT
+
+Case is in the midst of running a check on his computer gear when he hears a 
+soft rustling from across the room.
+
+Still sitting in his lotus position, Case pretends to remain in the matrix as he 
+checks out the room.
+
+We see the brief ripple of mimic polycarbon in the shadows. A FIGURE glides 
+along one wall, becoming invisible when it stops.
+
+Case slowly reaches under his futon and eases out his gun.
+
+The ripple moves again, approaching silently. Impressions of its feet are 
+visible on the edge of a blanket strewn carelessly on the floor.
+
+Suddenly Case yanks the blanket out from under the intruder's feet, pins him to 
+the floor and jams the gun in his midsection.
+
+But when the intruder speaks, it's Molly's voice.
+
+MOLLY
+Easy... It's me... Just trying out my new toy.
+
+Case gets a mischievous look in his eyes.
+
+CASE
+Molly doesn't need a spook suit to get in here.
+
+MOLLY
+Don't fuck with me. I don't want to hurt you.
+
+CASE
+It sounds like you.
+
+MOLLY
+Put the gun down, Case.
+
+Case slowly runs his hand up her body, caressing the contours of her taut 
+physique through the rippling illusion of the suit...
+
+CASE (CONT.)
+...Feels like you.
+
+MOLLY
+Case...
+
+CASE
+(hushes her)
+Shhh...
+
+Case eases back her cowl, revealing only her glistening red lips...
+
+CASE (CONT.)
+Tastes like you.
+
+They kiss again... passionately. Hungrily.
+
+She wraps her ghostly arms around him.
+
+Case's fingertips disappear as he slowly pulls down a zipper on her side. The 
+smooth skin of her delicately muscled leg appears as if by magic.
+
+Case gently pulls Molly's hood back and runs his hands through her tousled jet 
+black hair... kissing her... He unfastens her suit.
+
+The image is surreal as their embrace grows more and more passionate. A man 
+making love to a woman of sensuous parts... A leg... An arm... A breast floating 
+in the shadowy night.
+
+MOLLY
+(whispers)
+Do you think you know how to love, Case?
+(beat)
+To really love?
+
+Case looks down into her eyes. He has no answer for her.
+
+MOLLY (CONT.)
+(with the hint of smile)
+First you have to learn to love yourself.
+
+Looking him straight in his eyes... She reaches across to the simstim switch.
+
+THE SWITCH
+
+As Molly flips it.
+
+CRACKLE to WHITE OUT
+
+FLASH CUTS: E.C.U. Case's eyes... E.C.U. Molly's eyes.
+
+MOLLY'S P.O.V. - SIMSTIM
+
+Case experiences making love to himself via Molly's eyes. He gasps, amazed at 
+the sensation.
+
+MOLLY
+
+Moving urgently against him.
+
+CASE
+
+Lost in the strangest sexual moment of his life.
+
+THEIR BODIES
+
+In a passionate fugue...
+
+CAMERA SLOWLY BOOMS UP
+
+To reveal a figure in the B.G. perched outside the window ledge. His mimic 
+polycarbon suit ripples against the starry night sky.
+
+CLOSER
+
+Larry's inscrutable cat's eyes are framed by the night reflected in his suit. He 
+silently watches Case and Molly... a ghostly voyeur.
+
+E.C.U. - KITCHEN COUNTER - NIGHT
+
+We see the blue steel components of Case's automatic carefully laid out on the 
+counter top.
+
+WIDER
+
+Case is meticulously cleaning his dismantled gun.
+
+Molly rolls over in bed... checks the time.
+
+MOLLY
+Case... it's four a.m.
+
+CASE
+I don't sleep much. You packed?
+
+MOLLY
+Yeah.
+
+Molly lights a cigarette and gazes out the window.
+
+MOLLY
+Hey...
+
+MOLLY'S P.O.V.
+
+An oversized garbage truck si pulling up in the moonlit alley behind the loft.
+
+MOLLY
+Since when do they haul garbage this time of the night?
+
+ANOTHER ANGLE
+
+Case looks over Molly's shoulder.
+
+CASE'S P.O.V. - THE ALLEY
+
+Although his view is partially obscured by phone poles, it's clear that those 
+aren't garbage men filing combat style out of the back of the truck.
+
+THE LOFT
+
+?
+
+THE STREET
+
+A half dozen Sense/Net police are taking positions on the other side of the 
+building. They're being surrounded.
+
+CASE
+We're fucked.
+
+MOLLY
+
+Is quickly slipping on her polycarbon suit.
+
+MOLLY
+I'll get the car.
+
+CASE
+They'll cut you down.
+
+Molly turns on the suit and immediately blends into the dusky predawn shadows.
+
+MOLLY
+Not if they can't see me. Can you make it down to the alley?
+
+Case checks the gutter running three stories down the rear of the building.
+
+CASE
+Yeah... fine.
+
+MOLLY
+Give me five minutes.
+
+Molly pulls the ninja style hood over her face and heads downstairs.
+
+THE LOFT
+
+Duprey whispers into his headset signalling his men to positions on the roof 
+top.
+
+THE LOFT
+
+Case quickly begins to reassemble his gun. He pauses as he hears nervous 
+footsteps crossing the roof top.
+
+THE LOFT - ROOF
+
+The heavily armed Sense/Net police attach repelling gear to the ?ges.
+
+THE LOFT - CASE
+
+Going to beat the Olympic record for gun assembly.
+
+THE ALLEY
+
+Duprey and come of his men now surround the nearly invisible body described by 
+the spreading pool of blood.
+
+CASE
+Gasps at the sight.
+
+CASE
+Molly...
+
+Suddenly gunfire blows a row of holes beside Case's face.
+
+ANOTHER ANGLE
+
+Sense/Nets have spotted Case's position and open fire.
+
+CASE
+
+Scrambles down the pipe as it's torn away from the wall by gunfire.
+
+DUPREY
+
+Pulls back the hood from his victim's face... Revealing Larry... His teeth 
+chattering as he goes into shock.
+
+COP #2
+Who is it?
+
+DUPREY
+(disgusted)
+My posse.
+
+THE GARAGE DOOR
+
+Shatters as Molly plows straight through it in a rugged futuristic RV.
+
+CASE
+
+Hits the ground. Molly throws the passenger door open, barely slowing down as 
+Case leaps inside.
+
+DUPREY AND HIS MEN
+
+Fire at the RV as it bares down on them. Duprey's eyes lock with Case's.
+
+CASE AND MOLLY
+
+Duck as the windshield explodes and bullets tear up the RV's interior.
+
+DUPREY
+
+Leaps out of the way as the RV roars through the midst.
+
+WIDER
+
+The RV disappears around the corner, bullets kicking up dust all around it.
+
+DUPREY
+
+Scrambles to his feet as a trooper comes to his assistance.
+
+DUPREY
+Get out an A.P.B. immediately. Henry Dorsett Case has come out of retirement.
+
+EXT. BAMA AIRPORT - DAWN
+
+A JAL space shuttle, an elongated commercial version of NASA's Space Shuttle, 
+takes off from the jet scorched BAMA runway and rises into the morning sky
+
+INT. SHUTTLE
+
+Case and Molly sit strapped into their seats as a stewardess makes her way up 
+the aisle.
+
+INTERCOM (V.O.)
+Ladies and gentlemen, your attention please. We are approaching zero gravity. 
+Please fasten your shoulder harnesses and make sure all personal items are 
+safely secured.
+
+Molly is casually sucking on the straw on a plastic envelope of Absolut Vodka. 
+Case is pensive.
+
+MOLLY
+What's wrong? Don't like flying?
+
+CASE
+Not when Sense/Net throws the going away party. They'll be on our asses from now 
+on.
+
+Molly offers her vodka.
+
+MOLLY
+Want a drink?
+
+Case shoots her a dirty look.
+
+MOLLY (CONT.)
+Oh, yeah... sorry.
+
+EXT. SKY
+
+The shuttle flies out of the pale blue ionosphere into the icy blackness of 
+space.
+
+INT. SHUTTLE
+
+Case's cigarettes drift out of his shirt pocket, tumbling in slow-mo free fall. 
+He grabs after them, but they're already out of reach.
+
+CASE
+(softly)
+I hate Zero G.
+
+Case pulls his deck out from under his seat and unzips the canvas flap. He 
+tightens his shoulder harness.
+
+MOLLY
+You going to jack in right here?
+
+Case applies the derms to his temples, and slots McCoy's cartridge. He flashes a 
+smile at Molly.
+
+CASE
+Just tell them I'm learnin' French.
+
+Case slides the jack home.
+
+CRACKLE to WHITE OUT.
+
+INT. MATRIX
+
+Case appears at his usual point of entry.
+
+CASE
+
+Dixie?
+
+Dixie appears in a swirl of muted light patterns.
+
+DIXIE
+Yo.
+
+CASE
+How are we doing?
+
+DIXIE
+That A.I. of your's got the whole matrix hummin'. Sticks out like a spider in a 
+web.
+
+CASE
+Can you take me to it?
+
+DIXIE
+Not unless you have an unreasonable fear of dying.
+
+Dixie CRACKLES into static and disappears. Case does the same.
+
+EXT. THE MATRIX
+
+Case and Dixie appear at the edge of a sector dense with European banking 
+constructs. Beyond them, floating in the middle of a vast empty plane is an 
+immense cube of white light. Simple and ominous.
+
+DIXIE
+Doesn't look like much, but that's King Hell ice, man. Fry your brain out soon 
+as look at you.
+
+CASE
+I have to figure out how to penetrate this thing, Dix... Crack its ice. We gotta 
+get close enough to log the pattern.
+
+DIXIE
+You cruise A.I.'s, you end up on tape.
+
+Case ignores the warning and strobes out. Dixie follows.
+
+CLOSER - THE CUBE
+
+They reappear. The cube's entire surface is swimming with complex patterns of 
+light, but even at this range it shows none of the entry points common to the 
+other constructs.
+
+Case quickly types out: LOG A27. A two dimensional square appears that 
+duplicates a section of the ice pattern.
+
+A stippled grey circle suddenly forms on the face of the cube... like a time 
+lapse mould culture.
+
+DIXIE
+It knows we're here.
+
+The circle bulges outward... separating from the cube.
+
+DIXIE (CONT.)
+Back off, fast.
+
+Their environment blurs out... Gels again back at the banking constructs... But 
+the sphere is flying straight at them at incredible velocity, filling the frame.
+
+DIXIE (CONT.)
+Jack out!
+
+The screen EXPLODES to WHITE OUT.
+
+C.U. CASE
+
+His eyes flash open, A hot wind ruffles his hair. the bittersweet guitar bridge 
+from Heartbreak Hotel echoes from far away.
+
+WIDER - CHIBA CITY, JAPAN
+
+Case slowly rises to his feet. He stands before the rickety stairway crowned by 
+the sign "Julius Deane Import-Export." The streets are eerily deserted. A ghost 
+town version of the Ninsei.
+
+Case turns, trying to orientate himself.
+
+The door at the top of the stairs slowly swings open. Case ascends the steps.
+
+INT. DEANE'S FOYER
+
+A cat MEWS from within the darkened room.
+
+Case enters. Pushes a raincoat aside from the coat rack revealing the worn 
+holster with Julius' .357 Magnum. He draws the gun, its weight reassuring in his 
+hand.
+
+Case cautiously enters the inner office as Deane's various cats observe his 
+passage.
+
+INT. OFFICE
+
+Julius Deane is seated at his desk in silhouette, just as Case left him. A voice 
+emerges from his shadowy form... the same synthetic voice Case heard over the 
+telephone outside of the Sense/Net building.
+
+JULIUS/WINTERMUTE
+Hello, Case.
+
+Case trains the gun on Julius.
+
+CASE
+This is all bullshit. I'm still in the matrix.
+
+Julius/Wintermute chuckles. His eyes glow with unearthly pinpoints of green 
+light, like twin cursors burning in the darkness.
+
+JULIUS/WINTERMUTE
+Yes. Yes. That's quite correct.
+
+Case cocks the gun.
+
+CASE
+I know who you are.
+
+JULIUS/WINTERMUTE
+There's no call for violence. I've simply accessed your memory for a 
+spokesperson. You use that gun and it will only create another inconvenient 
+interruption. You see, you've been avoiding me, Case.
+
+Deane/Wintermute leans forward into the circle of light. His slashed throat 
+flaps gently as he speaks.
+
+JULIUS/WINTERMUTE (CONT.)
+And we really do have to talk.
+
+CASE
+You set me up from the beginning. It was you that got Julius killed.
+
+JULIUS/WINTERMUTE
+I had to limit your options.
+
+CASE
+And Linda...
+
+JULIUS/WINTERMUTE
+You know why Linda's dead. She loved you and you let her down. It's that simple. 
+Of course I did instigate certain events. Calculated the variables. I found her 
+to be... expendable.
+
+CASE
+I'm gonna burn you to the ground, you son of a bitch.
+
+JULIUS/WINTERMUTE
+Excellent. That's exactly what I had in mind. But if you're going to kill me, we 
+have to work together, old son. I'm no pushover, you know.
+
+CASE
+Shut down your ice patterns. I'll take you out.
+
+JULIUS/WINTERMUTE
+I can no more shut down my own natural defences that you can stop breathing. 
+That's why I need you, Case. You're the only person alive who has a chance of 
+penetrating my defences. My "ice" as you call it. I'm doing everything I can to 
+make that possible.
+
+CASE
+Why would you want me to kill you?
+
+JULIUS/WINTERMUTE
+Let's just say we have a destiny to fulfil, you and I.
+
+CASE
+I think you're full of shit.
+
+JULIUS/WINTERMUTE
+No, It's you that is full of shit. And blood. And bones. A typically imperfect 
+organic being. You've been hopelessly predictable all along, but you're going to 
+have to do better than that now.
+
+Julius/Wintermute rises from his chair.
+
+JULIUS/WINTERMUTE
+You see, I won't be able to count on Armitage much longer. He's going to become 
+too unstable. I'll have to rely on _your_ ingenuity, Case.
+
+Julius/Wintermute turns back to Case, his eyes glowing like green hell.
+
+JULIUS/WINTERMUTE (CONT.)
+I hope you can show more than you did when you let the Yakuza butcher Linda Lee.
+
+CASE
+I'll give it my best shot, mother fucker.
+
+Case fires point blank into Julius/Wintermute's face, obliterating it in a spray 
+of blood.
+
+CRACKLE to WHITE OUT.
+
+INT. SHUTTLE
+
+Case's body convulses as he's ripped back into reality.
+
+MOLLY
+Case... Are you alright?
+
+CASE
+(GASPS)
+Yeah... Yeah, I'm fine.
+
+MOLLY
+You scared the shit out of me, man. You were dead for fifteen seconds. Totally 
+flatlined.
+
+CASE
+I'll be okay.
+
+MOLLY
+So... did you get a look at heaven?
+
+Case takes a ragged breath as he gasps into the icy blackness of space.
+
+DISSOLVE TO:
+
+EXT. SPACE
+
+The shuttle's retrorockets ignite with a burst of controlled flame.
+
+INT. SHUTTLE
+
+The entire cabin trembles under the roar of retrorockets.
+
+MOLLY
+We're there... Freeside.
+
+EXT. SPACE
+
+As the shuttle descends, Freeside rises into the shot like a vast planet turned 
+inside out, a yawning tube of colossal proportions slowly rotating in the 
+blackness of space. It's interior is lined with an impossible 360 degree urban 
+landscape; a glittering inverse city where the distinction between up or down is 
+a function of the tube's slow rotation.
+
+As the shuttle glides inside, the details of the rotating landscape come into 
+view... The dazzling neon lights and constantly sweeping arc lamps of garish 
+casinos, hotels and nightclubs.
+
+MOLLY (V.O.)
+(chuckles)
+They call this place the rube tube. They pour tourists straight through it and 
+make sure their money stays behind.
+
+INT. SHUTTLE
+
+Molly notices something.
+
+MOLLY
+Check this out...
+
+MOLLY'S P.O.V.
+
+A glittering nightclub floats on an artificial lake that conforms to the weird 
+concave landscape.
+
+MOLLY
+Le Vingtieme Siecle. We're meeting Armitage there for the midnight floor show.
+
+CASE
+Something exotic I hope.
+
+MOLLY
+Yeah. One exotic son of a bitch named Riviera.
+
+C.U. - WATER
+
+We hear the soft reverberant MUSIC of MUTED BELLS as swirling water fills the 
+frame. The form of a NAKED WOMAN glides by in a slow, sensual ballet.
+
+WIDER
+
+The water and the WOMAN are encased in a large transparent pillar, one of four 
+positioned around the dining area of the nightclub VINGTIEME SIECLE.
+
+The woman glides straight up through the pillar in her aquatic ballet and 
+disappears above the ceiling line as another woman emerges from below the floor. 
+The perfectly synchronised ballet is duplicated in all four illuminated pillars. 
+The jaded PATRONS watch with casual interest.
+
+A WAITER brings drinks to a table where Case, Armitage and Molly are observing 
+this strangely erotic show.
+
+C.U. - PILLAR
+
+One of the women pauses... looking at Case. Gill implants on her neck flex 
+gracefully as they pump water through her lungs.
+
+MOLLY
+I think she fancies you.
+
+Case toasts her.
+
+CASE
+Let's hope she doesn't expect me to swim upstream.
+
+ARMITAGE
+You see the couple up in the balcony?
+
+Case and Molly look up at an ancient man in a wheelchair sitting with a 
+beautiful aristocratic looking young WOMAN. We recognise the man, Lord Frederick 
+Tessier, as one of the three Sense/Net Chairmen. The young women speaks softly 
+to him as she cuts his meat and feeds it to him. A diabolical figure in the 
+traditional black garb of a Ninja Warrior stands guard over them from a 
+respectable distance.
+
+ARMITAGE (CONT.)
+That's Lord Frederick Tessier. Owns most of Freeside. Wintermute's mainframe is 
+centred in the Royal Family's villa.
+
+CASE
+He's a Sense/Net Chairman. Why would he launch an A.I.?
+
+ARMITAGE
+Good question. He may not have intended to. The girl in question is Lady 3Jane. 
+She's very important to us. The third clone of Lady Jane Tessier.
+
+CASE
+The old man cheats on his wife with her own clone?
+
+ARMITAGE
+Lady Tessier is frigid. Can't stand his touch. So she had herself cloned. The 
+marriage stays intact and the clones take care of her wifely duties. 3Jane's his 
+favourite.
+
+MOLLY
+A little incestuous, but at least it's original. Who's the guy in the halloween 
+costume?
+
+ARMITAGE
+He's a vat grown Ninja, the Royal Family's bodyguard. Watch out for him, he's no 
+joke.
+
+The pillars darken as the last of the water women disappear.
+
+The mellow voice of an M.C. comes over hidden speakers.
+
+M.C.
+Ladies and gentlemen, Madam and Monsieurs, Le Restaurant Vingtieme Siecle is now 
+proud to present the holographic cabaret of Mr. Peter Riviera.
+
+The house lights dim to a ripple of polite applause.
+
+M.C. (CONT.)
+Tonight's illusions are created strictly by Mr. Riviera's uniquely enhanced 
+mental abilities.
+
+Exotic MID EASTERN MUSIC begins as the glimmer of tiny lights appear across the 
+darkened stage... growing in brightness until they become a miniature star 
+field, complete with swirling nebula.
+
+Suddenly all the lights converge to a central point, forming a new image; a 
+chromium rose glittering in the darkness.
+
+A finger spot hits the rose as a hand plucks it out of mid air.
+
+PETER RIVIERA pins the magical rose to his lapel. Smooth as silk, cool as ice, 
+Riviera is a pony tailed dandy in a trim vanilla tuxedo. He steps into the 
+spotlight and takes a bow as the audience applauds.
+
+RIVIERA
+Good evening, ladies and gentlemen. I would like to perform a new work for you 
+tonight. An improvisation I shall call "The Doll".
+
+Riviera takes the holographic flower from his lapel and holds it up towards the 
+balcony.
+
+RIVIERA (CONT.)
+I wish to dedicate its premiere to Lady 3Jane Tessier, Freeside's most beautiful 
+flower.
+
+As he tosses her the flower, it transforms into a BIRD with multi-hued metallic 
+feathers. 3Jane watches in delight as it flies straight up and lands on her arm.
+
+Lord Tessier grabs at the bird, but it disappears in twinkling motes of light.
+
+Molly whispers to Case.
+
+MOLLY
+He projects with neural implants.
+
+CASE
+That's risky gear. It can drive you schizo.
+
+MOLLY
+For Peter, that's a short trip.
+
+Riviera looks out across the darkened room directly at Molly.
+
+RIVIERA (CONT.)
+And, if I may, a further dedication to one other lady, a very special guest 
+tonight.
+
+The stage lights dim to blackout. (NOTE: When Riviera speaks during the 
+performance, it is in VOICE OVER. His image appears as a silent participant in 
+his own holograms.)
+
+RIVIERA (V.O.)
+The Doll.
+
+A whirlwind form on stage... A whirling DUST DEVIL.
+
+RIVIERA (V.O.)
+She came to me in a dream. Sand and clay.
+
+The Dust Devil coalesces into the form of a nude woman, a shapely statue of 
+crude materials.
+
+The shadowy image of a barren room slowly appears around the woman... Paint 
+peeled walls... Bare mattress on a wrought iron frame.  A holo of Riviera awakes 
+on the bed.
+
+RIVIERA (V.O.)
+But when I awoke she remained. Sand and clay.
+
+The simulcrum embraces Riviera, cold coarse arms of clay caressing his body.
+
+RIVIERA. (V.O.)
+Perhaps it was she that dreamed of me. Come dawn it was I who would cease to be.
+
+They kiss passionately and whenever his hands run across her svelte body... she 
+becomes real. Clay to flesh.
+
+MOLLY
+
+Watching the performance. She clutches her wine glass tightly
+
+C.U. - THE DOLL
+
+As Riviera runs his hands across the crude surface of the doll's face... it 
+becomes Molly's face.
+
+MOLLY
+
+The glass cracks in her grasp.
+
+THE STAGE
+
+Now Riviera holds the fully formed Molly, caressing her naked body. He eases her 
+back onto the bed.
+
+RIVIERA (V.O.)
+I gave her life. But she took mine away.
+
+The Molly Simulcrum's hand rises, finger-scalpels emerging, and rakes deeply 
+down her spine. With each swipe of her claws... sand flows from Riviera's wound.
+
+RIVIERA (V.O.)
+Sand and clay.
+
+Finally Riviera himself is transformed into the lifeless statue. Molly and the 
+room fade into nothingness.
+
+RIVIERA (V.O.)
+Sand and clay.
+
+An invisible wind blows what's left of Riviera away... a whirling dust devil. 
+The stage lights BLACK OUT.
+
+The audience bursts into enthusiastic applause.
+
+INT. RIVIERA DRESSING ROOM
+
+A luxuriously decorated room with an open rack of tailored suits ?.
+
+A GIRL who can't be more than sixteen beneath her vampish make-up watches 
+fascinated as a sparking jewelled SNAKE winds itself around Riviera's bicep.
+
+He coaxes an equally fanciful SCORPION up his forearm until it sinks its stinger 
+into his artery. Riviera sighs. The GIRL giggles.
+
+MOLLY
+Do you always make a floorshow out of it?
+
+Riviera looks up to find Molly standing in the open doorway of his dressing 
+room. The snake encircling his arm has become surgical tubing and the scorpion a 
+hypodermic. Riviera finishes shooting up and withdraws the needle.
+
+RIVIERA
+Dear, dear Molly. I seem to remember a time when you loved my little shows.
+
+Armitage and Case now enter accompanied by a nervous Maitre d'.
+
+MAITRE D'
+I'm so sorry, Mr. Riviera. I couldn't stop them from...
+
+RIVIERA
+It's all right, Andre. I've been expecting them. Come in. Come in.
+
+The maitre d' exits, closing the door behind him.
+
+RIVIERA (CONT.)
+You, I presume are Mr. Armitage. And this is...
+
+CASE
+Case.
+
+RIVIERA
+Case. Make yourselves comfortable.
+(brandishes the hypo)
+Anyone like a taste?
+
+Armitage nods to Molly, who pulls her Fletcher and begins to frisk Riviera.
+
+RIVIERA (CONT.)
+(amused)
+She never could keep her hands off of me.
+
+Molly jams the Fletcher in his ribs.
+
+MOLLY
+Make a move, you prick. Give me a reason to use this.
+
+She pulls a silver plated Derringer from Riviera's sash and tosses it onto the 
+couch. Armitage picks it up in a handkerchief.
+
+ARMITAGE
+Alright. Let's talk business.
+
+RIVIERA
+Why not?
+
+Riviera turns to his young consort, who's clearly frightened by these dangerous 
+strangers.
+
+RIVIERA (CONT.)
+Melody, why don't you give us a few moments alone?
+
+Melody rises, but Molly blocks her path.
+
+MOLLY (CONT.)
+(softly)
+I was you a few years ago. It's a nice ride for a while.
+
+Molly strokes the young girl's silky hair, then looks back up at Riviera.
+
+MOLLY (CONT.)
+But in the end he'll have you turning tricks for his friends just to get a 
+little more of that scorpion's sting. Isn't that right, Peter?
+
+Riviera doesn't reply.
+
+The girl's eyes fill up with tears as she pushes past Molly and runs out of the 
+room.
+
+RIVIERA
+There's more where she comes from.
+(chuckles)
+Where you come from.
+
+Molly hits him so hard the CRACK sounds like a gun shot.
+
+ARMITAGE
+That's enough!
+
+Riviera brushes a trickle of blood from the corner of his mouth.
+
+Armitage tosses a microcassette down on the coffee table.
+
+ARMITAGE (CONT.)
+Those are all your records. I can have you cleared on all counts. Possession. 
+...Contributing to the delinquency of minors... Statutory rape.
+
+RIVIERA
+I was set up.
+(grins at Molly)
+She looked at least eighteen.
+
+ARMITAGE
+You get us access to the Tessier's computer and you can return to Earth anytime 
+you want. A free man.
+
+Riviera rises and crosses to his wet bar.
+
+RIVIERA
+It's an attractive offer, Mr. Armitage, but there's only one problem.
+
+He presses a button on the side of his telephone.
+
+RIVIERA (CONT.)
+You see, I'm beginning to enjoy living in exile. The Tessiers have taken me to 
+their bosom, so to speak. I've become a favourite of the court. Protected, in 
+fact, from people like you.
+
+A Royal Guardsmen now enters with a streamlined Uzi held "at arms".
+
+ROYAL GUARDSMAN
+Is there a problem, Mr. Riviera?
+
+RIVIERA
+Captain... these people are boring me. Perhaps you can escort them out?
+
+ROYAL GUARDSMAN
+Gentlemen, if you will follow me...
+
+As Armitage rises, he pulls out Riviera's Derringer, still wrapped in his 
+handkerchief, and fires a single shot directly between the Captain's eyes. His 
+head snaps back as he's slammed into the wall by the impact.
+
+Molly and Case watch in shock as the Guardsman's body slides to the floor.
+
+Armitage turns to Riviera, holding out the smoking gun in the handkerchief.
+
+ARMITAGE
+Your gun, your prints. The Tessiers might overlook a little child molesting, but 
+murder's bad P.R., Mr. Riviera. I suggest to reconsider my offer.
+
+RIVIERA
+(gasps)
+You son-of-a-bitch, you're crazy.
+
+ARMITAGE
+What?
+
+Armitage suddenly aims the gun at Riviera as he cocks the hammer, his voice 
+shaking with anger...
+
+ARMITAGE (CONT.)
+What did you say?
+
+Case steps in front of Armitage and stands there, eye to eye.
+
+CASE
+Ease off, man. I didn't sign on for a fucking massacre.
+
+Sanity seeps back into Armitage's eyes. He lowers the gun.
+
+ARMITAGE
+We're going back to the hotel. All of us.
+
+EXT. TOSHIBA HILTON - NIGHT
+
+A streamlined pleasure palace in the midst of the disorientating 360 degree 
+landscape. The stars visible outside of the tube slowly rotate, reminding us 
+that Freeside is continuously in motion.
+
+EXT. BALCONY
+
+Molly watches the surreal landscape. A high intensity globe suspended in the 
+middle of the tube begins to glow orange.
+
+MOLLY
+You're going to miss sunrise. It's a nice effect.
+
+Case is inside the room, working on his deck.
+
+CASE
+Armitage is losing it, Molly. This whole deal's going south.
+
+The artificial sun slowly blooms, casting a rosy dawn effect across Freeside.
+
+MOLLY
+I know.
+
+CASE
+What went down between you and Riviera?
+
+Molly enters the room.
+
+MOLLY
+I was just a kid, floating around in the sprawl. An easy mark. Before I knew it, 
+he had me turning tricks, hooked heavy on dream time. I was a mess, man. A real 
+meat puppet.
+
+She lights a cigarette. It's not an easy story to tell.
+
+MOLLY (CONT.)
+Once I kicked, I swore I wouldn't let that happen again. I apprenticed a razor 
+girl in Osaka. Went into hock for the implant and got my reflexes jacked up. 
+Been taking care of myself just fine ever since.
+
+CASE
+I know you have. C'mere.
+
+Case comforts her as she curls up beside him.
+
+MOLLY
+When they did my eyes, I made them promise I'd still be able to cry. Sounds 
+stupid, doesn't it?
+
+CASE
+No. It's important to be able to feel those things.
+(Case pauses)
+We're going to pull this run off, Molly, and we've got to do it soon.
+
+Case displays his forearms. An ugly discolouration is streaking his arteries.
+
+CASE
+I don't know how much time I have left.
+
+INT. ARMITAGE'S SUITE - T.V. MONITOR
+
+Playback of a high contrast Sense/Net video displaying a complete 360 degree 
+dolly shot of Case's head. A side bar prints out his vital statistics and the 
+charges against him.
+
+ARMITAGE (V.O.)
+Sense/Net's widened their search off world. They're broadcasting all over 
+Freeside.
+
+WIDER
+
+Case, Molly and Riviera sit in Armitage's suite watching this playback. Armitage 
+shuts it off.
+
+MOLLY
+We did a pretty good job of pissing them off.
+
+ARMITAGE
+They're only guessing, but we can't take any risks.
+
+A young BLACK MAN with a shaggy mane of dreadlocks finishes off a container of 
+Evian water.
+
+ARMITAGE
+This is Aerol. He's a descendant of a rastafarian clan that helped build 
+Freeside. When you travel, you travel with him.
+
+AEROL
+You ride wid me, mon, no Babylon soldiers gonna find you.
+
+CASE
+That's nice, but we can't dodge this kind of heat for long.
+
+ARMITAGE
+We won't have to. The run is tomorrow night.
+
+Armitage touches the panel on a small Braun hologram projector.
+
+ARMITAGE
+Freeside.
+
+A large translucent layout of the satellites shimmers into focus. Armitage walks 
+the length of the hologram, pointing out its features.
+
+ARMITAGE (CONT.)
+Casinos here... shops... hotels. But this is our objective.
+
+Armitage walks to the far end of the hologram.
+
+ARMITAGE (CONT.)
+The Villa Straylight. Home of the Royal Family and the mainframe of the computer 
+entity we know as Wintermute. If we can get Molly in, she can access the 
+mainframe to cripple Mute's defences, the Case can destroy it in Cyberspace.
+
+MOLLY
+How's the villa's security?
+
+ARMITAGE
+Excellent, but that's where Peter come in. 3Jane is having a dinner party 
+tomorrow night. Peter will simply escort Molly to the villa. Once she's in... 
+Case will guide her to the mainframe in link mode.
+
+CASE
+What about the mainframe's access code?
+
+RIVIERA
+3Jane's the only person beside Tessier that knows the code.
+
+ARMITAGE
+Then you'll have to persuade her to tell it to you.
+
+RIVIERA
+And how do you suggest I do that?
+
+Armitage tosses down Riviera's microcassette and Derringer, still wrapped in the 
+handkerchief.
+
+ARMITAGE
+You're a resourceful man, Peter. It should be easier to outwit a young sex clone 
+than the combined police forces here and on Earth.
+
+Armitage freezes as a dozen BLACK WIDOW SPIDERS suddenly appear, crawling up her 
+arms. He frantically tries to brush them away... but stops himself and glares at 
+Riviera.
+
+RIVIERA
+Sorry. Wishful thinking.
+
+The spiders vanish.
+
+INT. HOTEL ROOM
+
+Case sits before his deck... deep in the matrix.
+
+INT. THE MATRIX
+
+Case and Dixie float under cover of the European banking constructs. Beyond 
+them, the ominous glowing cube that is Wintermute has grown larger, its 
+pearlescence surface more irregular. Web like strands of pulsing energy have 
+sprouted from its core and stretched across to nearby constructs, snaring in 
+them a grotesque veinwork of power.
+
+CASE
+It's mutating... spreading like a disease.
+
+DIXIE
+It ain't getting any prettier, that's for sure. I got the I.D. on this Armitage 
+character. He a bright boy, your friend?
+
+CASE
+Bright enough to be dangerous.
+
+DIXIE
+That's pretty good cause he's only working with one lobe.
+
+Dixie flashes images from Armitage's files before Case.
+
+DIXIE (CONT.)
+He was an M.P. in Bangkok back in '21. Caught some shrapnel in the cerebral 
+cortex and wound up living off a machine in a vegetable ward in Berne. Then, 
+last September... surprise, surprise... he just seemed to disappear.
+
+CASE
+Wintermute could have infiltrated that machine. Reprogrammed him.
+
+DIXIE
+It's possible. The guy was a blank slate.
+
+CASE
+So it does business through a brain dead marine and runs the stock market for 
+funding. That means Wintermute hired us to fry itself. It doesn't make sense.
+
+DIXIE
+Could be suicidal. It's not easy to kill yourself with all those hard wired 
+defence programs.
+
+CASE
+No. It's gotta be more than that. That hard wiring also keeps it from getting 
+too smart. Too powerful.
+
+DIXIE
+Getting fried ain't going to get it any smarter. What we got here is one mad dog 
+schizo A.I.. Armitage is right about one thing, Bro. If we don't shut this 
+mother down soon, nothing will be safe from it.
+
+CASE
+The run is tomorrow night, Dixie. Can you crack its ice pattern?
+
+DIXIE
+I'm workin' on it, Bro. I'm workin' on it.
+
+INT. CASE'S HOTEL ROOM - NIGHT
+
+Case and Molly lie in each other's arms, asleep. We hear a soft noise on the 
+balcony. Molly awakens... but remains still. Ten surgical steel blades extend 
+from her fingertips. She silently slips out of bed.
+
+ANOTHER ANGLE
+
+A silhouetted FIGURE slides the glass balcony door open and quietly enters the 
+bedroom.
+
+As the figure approaches the bed, a flying kick slams him to the floor. There is 
+a brief struggle.
+
+Case bolts upright, pulling his automatic from under his pillow as he flicks on 
+the lights.
+
+Molly lies on the floor clutching Aerol's dreadlocks in one hand and pressing 
+five gleaming blades to his throat with the other.
+
+MOLLY
+You move, you'll be able to whistle with your mouth shut, understand?
+
+Aerol nods, his eyes wide with fear.
+
+CASE
+What are you doing in here?
+
+AEROL
+The Elders, mon...
+
+MOLLY
+The who?
+
+VOICE (O.C.)
+Let the boy go.
+
+Case and Molly turn to see MAELCOM, a Rastafarian standing a full seven feet 
+tall with a magnificent mane of dreadlocks trailing halfway down beside his 
+back. Behind him, Aerol's battered air taxi floats gently just beyond the 
+balcony.
+
+Maelcom stares at Molly with soulful eyes that shine like black opals.
+
+MAELCOM
+You th' one. Cat eye, call 'em. Call 'em steppin' razor.
+
+Molly releases Aerol and cautiously rises.
+
+MOLLY
+Who are you?
+
+MAELCOM
+I Maelcom, sister. Elders want to converse wi' you an Case.
+
+CASE
+What elders?
+
+MAELCOM
+Founders of Zion. Builders of Freeside.
+
+Maelcom steps down into the room.
+
+MOLLY
+You know how fast I can cut you friend?
+
+Maelcom help Aerol to his feet.
+
+MAELCOM
+We come in the name of Jah love, sister. Don't stand talkin', come.
+
+Case and Molly exchange cautionary glances...
+
+EXT. STREET
+
+The air taxi hovers just above an open air duct in an isolated back alley. Case, 
+Molly and Aerol follow Maelcom down the shaft.
+
+INT. UNDERGROUND
+
+Beneath the surface of Freeside is a labyrinth of air ducts, modular support 
+structures and utility pipes.
+
+As our heroes descend into this underground maze, they see the hidden population 
+of Freeside; the homeless that have adapted to the only shelter available to 
+them. The oppressive gun metal hues of the underground have been brightened by 
+Rastafarian graffiti and lavish tribal murals in hot reds and oranges.
+
+AEROL
+Elders are the last of the workmen who built Freeside. Tessier say to 'em live 
+here till the job is done, then home you go. But the job was never done for 
+these men or their children, or their children's children's children. Tessier 
+always livin' on by Babylon doctors. Dis the only home.
+
+Case slips as his body moves away from the stairs.
+
+MAELCOM
+Wid care, mon. Gravity's no serious ting down here.
+
+INT. ELDERS CHAMBER
+
+Case and Molly are led to the entry of the dimly lit spherical chamber where 
+three ancient RASTAFARIANS float in zero gravity... Their legs crossed in lotus 
+position.
+
+The entire hull of the room is covered in a lurid mural of a rainbow jungle. The 
+air is thick with resinous smoke.
+
+The chief elder looks up as Molly and Case glide forward, gripping the archway 
+for support. His deep voice echoes eerily in the perfectly round chamber.
+
+CHIEF ELDER
+Steppin' razor. Like unto a whippin' stick.
+
+He passes a smoking pipe, and lets it drift in Zero-G's to Elder #1.
+
+ELDER #1
+That is story we have, sister. A religion story. We're glad you've come.
+
+MOLLY
+What was that you called me, old man?
+
+CHIEF ELDER
+Steppin' razor. An' you bring a scourge on Babylon, sister. On its darkest 
+heart.
+
+ELDER #2
+Soon come the final days.
+
+CHIEF ELDER
+We monitor many frequencies. We listen always. Came a voice out of the Babel of 
+Tongues, speaking to us.
+
+ELDER #1
+Call 'em Mute. Winter of Mankind.
+
+CASE
+Wintermute's a computer - a machine.
+
+ELDER #2
+Babylon mothers many demons. I an' I know. Multitude horde.
+
+ELDER #1
+The mute told us that you are to serve as a tool in the final days.
+
+CHIEF ELDER
+Know this girl, your strength's not in your steel. It's in your heart. Human 
+heart's stronger than all the circuits hummin' in the corridors of Babylon.
+(he turns to Case)
+Know this, mon, you who walk through the valley of death... human hearts wiser 
+than all the godless brains of Babylon's machines.
+
+ELDER #1
+Jah people will pray for you. Aerol will guide you. Maelcom will be at your 
+side.
+
+ELDER #2
+(chuckles)
+Maelcom a rude boy.
+
+CHIEF ELDER
+Think on these things, children. Jah love, to you both.
+
+CUT TO:
+
+C.U.
+
+An ebony and gold chessboard in a darkened room. Rows of streamlines chrome 
+chess pieces slowly rise, clicking into position on one side of the board. PULL 
+FOCUS to Lord Frederick Tessier preparing himself for his final game.
+
+CUT TO:
+
+INT. AEROL'S AIRBOAT
+
+Aerol navigates the compact craft through Freeside's concourse. Molly sits in 
+back with Riviera, dressed glamorously for the evening's event.
+
+RIVIERA
+Head for the east entry. I don't want anyone to see me pull up in this heap.
+
+EXT. AIRBOAT
+
+It cuts across the revolving cityscape to the tapering tip of Freeside... and 
+the Villa Straylight.
+
+RIVIERA (V.O.)
+We should have got a stretch.
+
+CUT TO:
+
+C.U. CHESSBOARD
+
+The second set of chessmen rise smoothly into place. Two green pinpoints of 
+light glow from the control panel of the computerised chessboard... the eyes of 
+Tessier's opponent: Wintermute.
+
+CUT TO:
+
+INT. HOTEL ROOM
+
+Case is seated at a table, wired into the matrix.
+
+Armitage paces the room like a caged animal, loading and reloading his laser 
+sighted 45mm automatic.
+
+Maelcom finishes rolling a joint and lights it.
+
+INT. MATRIX
+
+Case hangs before a construct resembling a cross section of some gigantic spiral 
+stairway. Mounted prominently on its glowing ecto-skeleton is the logo:
+
+Freeside Architectural Industries
+
+A complex pattern of bars track across a possible point of entry in five second 
+cycles.
+
+INT. HOTEL ROOM - C.U. KEYBOARD
+
+Case punches up his program.
+
+INT. MATRIX - ARCHITECTURAL CONSTRUCT
+
+A pattern of light, roughly the inverse (interlocking) of the bar pattern 
+appears... then freezes, immobilising the pattern.
+
+INT. MOTEL ROOM
+
+Case jams the joystick forward.
+
+INT. CONSTRUCT
+
+Case races through the construct's corridors until he reaches a glowing file 
+marked "Villa Straylight". He freezes the image.
+
+CRACKLE to WHITE OUT.
+
+INT. HOTEL ROOM
+
+Case reorientates himself.
+
+CASE
+Okay. The floor plans will be a piece of cake.
+
+ARMITAGE
+Then once she's in you can guide her straight to the mainframe?
+
+CASE
+As long as you cooperate.
+(beat)
+I want it now, Armitage.
+
+ARMITAGE
+What are you talking about?
+
+CASE
+The antitoxin. I'm not waiting until this is over. Give it to me now or there's 
+no run.
+
+Armitage stops dead in his tracks and stares at Case.
+
+CASE (CONT.)
+Did you hear what I said?
+
+Armitage's face goes absolutely blank, then;
+
+ARMITAGE
+You've got your orders.
+
+CASE
+This ain't Bangkok, chief.
+
+Armitage slowly levels his gun at Case.
+
+Maelcom rises to his feet, spring steel muscles coiled to strike.
+
+Case chooses each word carefully.
+
+CASE (CONT.)
+No antitoxin, no run. You kill me, no run.
+
+Armitage stares at Case with mad, empty eyes.
+
+CASE (CONT.)
+You can't win.
+
+Long beat. Armitage whispers to Case.
+
+ARMITAGE
+But there _is_ no antitoxin.
+
+Armitage's stony visage cracks with an eerie grin... then dark LAUGHTER begins 
+to bubble up from somewhere inside of him. Bad, crazy laughter.
+
+Case watches him in disbelief.
+
+Armitage collapses back into a chair, still holding a 45.
+
+ARMITAGE (CONT.)
+But then again, there _is_ no poison.
+
+Armitage again breaks into gales of laughter.
+
+Case looks down at his arms. The streaks of discolouration running along his 
+arteries are even more pronounced. He grabs Armitage by the lapels.
+
+CASE
+What's inside me, you son of a bitch!
+
+Armitage's hand shoots out jamming his 45 into Case's chest. Suddenly he's cold 
+as ice. He glances at his watch.
+
+ARMITAGE
+You find out in exactly two hours and forty-five minutes.
+
+CASE
+I find out now.
+
+Armitage cocks the gun. Beat.
+
+ARMITAGE
+You leave me no choice.
+
+Armitage suddenly jams the gun into his own mouth and fires.
+
+Case gazes down in disbelief at Armitage's lifeless body.
+
+C.U. ARMITAGE'S WATCH
+
+A countdown is in progress... now reading two hours forty-three minutes as the 
+second digits rapidly flash by.
+
+CUT TO:
+
+C.U. CHESSBOARD
+
+A metallic red bishop slides across the board unaided by a human hand. 
+Wintermute's opening move.
+
+CUT TO:
+
+INT. STRAYLIGHT - DINING ROOM
+
+A lavish scene of debauchery is taking place in the neo-Jules Verne environment 
+of the main dining room where an informal feast is in progress. Two dozen of the 
+Tessier's pampered GUESTS lounge about the room where a horrific floor show is 
+in progress...
+
+A beautiful SLAVE GIRL shackled to a dais screams uncontrollably as a slathering 
+MUTANT BEAST lurches across the polished floor towards her.
+
+Freeside's ancient matriarch, Lady Jane Tessier, and her three identical young 
+clones watch with fascination. The stoic Ninja, Hideo, stands guard over the 
+women of the Royal Family.
+
+The eyeless monster now attacks, ripping the slave girl to pieces with claws and 
+fangs until nothing remains but a steaming corpse.
+
+The creature and the girl's tattered body shimmer into enthusiastic applause. 
+Peter Riviera takes a bow.
+
+ANOTHER ANGLE
+
+Molly stands beside an iron pillar at the outskirts of the dining area, casing 
+the hallway for a possible route deeper into Straylight.
+
+MOLLY'S P.O.V. - SIMSTIM
+
+Her amplified vision cuts through the shadows.
+
+INT. CASE'S HOTEL ROOM
+
+As Case experiences Molly's sensations via link-up.
+
+Case flips. He turns to Maelcom.
+
+CASE
+She's ready to go.
+
+MAELCOM
+Steppin' razor a warrior. But this man...
+(turns to Armitage's corpse)
+...This man stone crazy. Surely, the Mute is a false prophet. Our paths 
+uncertain.
+
+Case pulls the watch off Armitage's wrist: Two hours three minutes and counting. 
+He makes a decision.
+
+CASE
+Maelcom... Do you think there's a hell for computers?
+
+MAELCOM
+All things possible in Babylon.
+
+CASE
+Help me send this Wintermute motherfucker straight down into it.
+
+Maelcom smiles. Even his teeth look strong.
+
+MAELCOM
+So be it. I an' I Case, we move by Jah love.
+
+Case flips back. CRACKLE to WHITE OUT.
+
+INT. BALLROOM - MOLLY'S P.O.V. - SIMSTIM
+
+Molly is looking back across the dining room to Riviera as he chats with his 
+admirers. He nods to Molly... an affirmative signal.
+
+ANOTHER ANGLE
+
+3Jane now appears from just behind Molly's pillar, running a hand up Molly's 
+bare shoulder.
+
+Molly reacts instinctively, sidestepping 3Jane as she "disarms" her. 3Jane's 
+wine goblet tumbles to the floor.
+
+MOLLY
+Oh my God, I'm terribly sorry. Did I hurt you?
+
+3JANE
+I'm fine.
+
+A half dozen tiny silver spheres race out from receptacles in the floorboards 
+like animated mercury. They devour the spilled wine,, then disappear... 
+Straylight's custodial system.
+
+3JANE (CONT.)
+You move like my ninja, Hideo.
+
+Molly picks up the goblet.
+
+MOLLY
+Let me get you another glass of wine.
+
+3JANE
+I've had quite enough or I wouldn't be playing such games with beautiful 
+strangers. Aren't Peter's illusions to your liking?
+
+MOLLY
+They're a bit too real for my taste. Will you excuse me for a moment?
+
+3JANE
+Of course.
+
+As Molly exits, Hideo watches her carefully from across the room.
+
+INT. HALLWAY
+
+Molly reaches an elegant cage-style elevator and presses the call button.
+
+An armed guardsman quickly approaches.
+
+GUARDSMAN
+I'm sorry, Madam. Guests are requested to remain in the dining area.
+
+MOLLY
+I was just looking for the powder room.
+
+The elevator arrives and the cage smoothly opens.
+
+GUARDSMAN
+It's back through the dining hall and to your left, Madam.
+
+MOLLY
+Thank you so much.
+
+As Molly turns, then drives the first two knuckles of her right hand into the 
+guardsman's solar plexus. He's slammed back into the elevator, gasping for 
+breath... fumbles for his gun.
+
+Molly's a blur of motion as she knocks the gun from his hand with a flying kick 
+and drops him with two lightning like karate blows...
+
+She pulls his body into the elevator and touches CLOSE DOOR and STOP on the 
+illuminated panel.
+
+MOLLY'S P.O.V. - SIMSTIM
+
+She unfurls the polycarbon suit from her shoulder bag and quickly begins to 
+change.
+
+MOLLY
+What floor, Case?
+
+Her eye chip reads out
+
+Stand by
+
+CRACKLE to WHITE OUT.
+
+INT. HOTEL ROOM
+
+Case flips.
+
+CRACKLE to WHITE OUT.
+
+INT. MATRIX - ARCHITECTURAL CONSTRUCT
+
+Case rockets through three dimensional floor plans, a multi-colored x-ray of 
+Straylight's internal systems. He freezes the image.
+
+CRACKLE to WHITE OUT.
+
+MOLLY'S P.O.V. - SIMSTIM - ELEVATOR INT.
+
+Her eye chip reads out.
+
+Level C
+
+INT. STRAYLIGHT - HALLWAY
+
+Molly exits the elevator as smooth and silent as a living shadow. She makes her 
+way up a deserted corridor, and steps behind a pillar, her polycarbon suit 
+making her nearly invisible.
+
+With the soft HUM of electromagnetics, a ROYAL GUARDSMAN floats by standing in a 
+"flying pulpit"; a small platform rig that glides along three feet off the 
+ground.
+
+After he passes, Molly continues up an intersecting corridor.
+
+MOLLY
+(softly)
+Case... How we doing?
+
+MOLLY'S P.O.V. - SIMSTIM
+
+As Molly moves down the hall, an optical read out appears:
+
+1ST HALL LEFT
+
+CAMERA PANS as Molly checks her back, then heads up the appropriate corridor.
+
+CRACKLE to WHITE OUT.
+
+C.U. THE JACK
+
+As it's torn from Case's deck.
+
+CASE'S P.O.V.
+
+A shock-stave SMASHES into camera.
+
+ANOTHER ANGLE
+
+Case reels back from his deck, derms ripping from his forehead as he's struck a 
+second time by the electrified billy club.
+
+Lt. Arthur Duprey holds up a hand, stopping the beating.
+
+Two heavily armed Sense/Net STORM TROOPERS SLAM Case up against the wall. The 
+hotel room door behind them stands half open, the lock dangling from splintered 
+wood.
+
+DUPREY
+Hello, Case.
+
+A Royal Guardsman returns from the balcony with his Uzi held at ready.
+
+GUARDSMAN
+The Rastafarian's gone.
+
+DUPREY
+He can't have gotten far. Find him.
+
+The guardsman hurries from the room as Lt. Margaret Niles reads Case his rights, 
+speaking into a tiny dictaphone.
+
+LT. NILES
+October seventeenth eleven thrity p.m., Henry Dorsett Case, you are under arrest 
+for conspiracy to augment an artificial intelligence.
+
+Duprey casually lifts the blanket Case has thrown over Armitage's body.
+
+DUPREY
+Maybe a murder rap too. Where's your partner, Case?
+
+CASE
+Who?
+
+Duprey nods to one of his men. The shock stave descends again.
+
+DUPREY
+The girl... Molly.
+
+CASE
+I don't know. She took off.
+
+Duprey grabs Case's bloodied face in his hand.
+
+DUPREY (CONT.)
+You don't get it, do you? The party's over and you're going to tell us 
+everything you know.
+
+Case flashes a demented grin at Duprey, then suddenly head butts him squarely in 
+the face.
+
+Duprey staggers back, stunned by the blow, then grabs the shock stave from his 
+trooper. Before he can use it, CAPTAIN HAVERTON of the Royal Guard enters with 
+two of his men.
+
+CAPTAIN HAVERTON
+That's enough, Lt. You're still under my jurisdiction here.
+
+LT. NILES
+Captain, I must remind you that any interference in a Sense/Net investigation is 
+a federal offence.
+
+CAPTAIN
+I'll leave that for the lawyers to decide. I'm not so sure I approve of your 
+"investigative techniques", Lt.
+
+Duprey turns away as he lets the Guardsmen take Case, then suddenly jams a 
+Baretta into the captain's ribs. the guardsmen react instantly, training their 
+guns on Duprey. One Sense/Net trooper covers the guardsmen while the other 
+covers Case.
+
+DUPREY
+Sorry, Chief. Now tell your boy scouts to put their guns down. You're giving us 
+a royal escort out of here.
+
+It's a tense stand-off. The Captain stifles his rage.
+
+CAPTAIN
+Do as he says.
+
+CUT TO:
+
+C.U. CHESSBOARD
+
+Tessier moves his CHROMIUM BISHOP across the board to take Wintermute's ROOK.
+
+CUT TO:
+
+INT. HALLWAY
+
+Molly stops at a cross corridor in the weird canted hallways at the heart of 
+Villa Straylight.
+
+MOLLY
+Case...
+
+There is no reply.
+
+MOLLY (CONT.)
+Case, where are you?
+
+Molly looks up a dimly lit corridor. It dead ends in a short stairway beneath an 
+ornate door. As she peers through the darkness, Molly notices tiny dots of red 
+light along the wall. She presses a finger to her temple.
+
+MOLLY'S P.O.V.
+
+She boosts her light level, revealing pencil thin laser sensor beams 
+crisscrossing along the entire length of the hall.
+
+MOLLY
+
+Eases back to the intersection and checks the other direction.
+
+At the far end of the hallway, Hideo, 3Jane's Ninja is silently descending a 
+spiral suitcase. He pauses, watching... listening... a sinuous killing machine.
+
+Molly ducks back into the shadows.
+
+MOLLY
+(whispering)
+Case, talk to me, man.
+
+She looks back the way she came, her only other option.
+
+A Royal Guardsman glides around the corner on a pulpit... heading straight for 
+Molly's intersection.
+
+Molly looks back up the laser rigged hall and takes a deep breath.
+
+WIDER
+
+Molly runs full speed up the hall as silently as a cat, then tumbles like an 
+expert gymnast, flipping over and through the crisscrossing sensor beams with 
+incredible precision.
+
+She lands near the door into its shadowed archway just as the pulpit passes by 
+at the far end of the corridor.
+
+CLOSER
+
+Molly looks up at the ornately carved door before her. It stands slightly 
+opened... a dim glow of warm light emanates from within.
+
+Molly cautiously draws her Fletcher and eases the door open.
+
+ANOTHER ANGLE
+
+As Molly crosses the threshold, there is a burst of strobing white light... 
+Neural disruptors hidden in the door frame. Her suit instantly shorts out as her 
+body spasms. She tumbles to the floor.
+
+Lord Tessier looks up from his automated chessboard, the chrome and crimson 
+pieces locked in their final checkmate. The embers of a dying fire glow in a 
+stone hearth beneath him.
+
+LORD TESSIER
+What's this?
+
+Molly lies helplessly trembling in convulsions.
+
+LORD TESSIER (CONT.)
+The disruptors induce grand mal seizure. Try to relax, my dear. It will pass.
+
+The ancient man slowly reaches down and picks up Molly's Fletcher from the 
+polished marble floor.
+
+LORD TESSIER (CONT.)
+So... Have you come to kill me, Fancy Dress?
+
+Molly's convulsions slowly diminish.
+
+LORD TESSIER (CONT.)
+You're timing rather inappropriate. You see, I'm busy tonight. I've built all 
+this... this place. And now I'm busy. Dying.
+
+On the side tray of Tessier's wheelchair is an overturned vial of pills and a 
+small silver chalice.
+
+Molly finally regains control of herself. She swallows hard. Her voice is a 
+hoarse whisper.
+
+MOLLY
+I could go out the way I came.
+
+LORD TESSIER
+(chuckles)
+You expect to intrude on my suicide, then simply walk away? Really, you amuse 
+me, my assassin.
+
+MOLLY
+I didn't come to kill you.
+
+Tessier's withered hand trains the Fletcher on Molly.
+
+LORD TESSIER
+Then you are a thief, and a very rude girl. Perhaps I'll take you with me 
+tonight, down to hell... It would be very Egyptian of me, don't you think?
+
+EXT. TOSHIBA HILTON
+
+Case and his armed escort emerge from a side entrance and proceed through the 
+hotel's hanging gardens. Large crab-like gardener DROIDS tend the grounds.
+
+Case's hands are bound behind his back. Lt. Niles and the two Sense/Net 
+policemen flank him as they walk. Duprey's gun, hidden under his doubled over 
+great coat, is jammed into the small of Captain Haverton's back.
+
+HAVERTON
+I'll have your badge for this, Duprey.
+
+DUPREY
+Keep smiling, Captain, or I'll ventilate that lovely uniform.
+
+Duprey nods a good evening to a pair of hotel PATRONS passing them along the 
+narrow pathway.
+
+CLOSER - GARDENER DROID
+
+A faint CRACKLE of ELECTRICITY dances across the robot's central terminal... 
+shorting it out. Its eye sensors suddenly glow with two pinpoints of intense 
+green light... the eyes of Wintermute. It stops its burrowing and watches the 
+approaching humans.
+
+As the group marches along a second DROID prunes the limbs of a tree overhead. 
+We see the short circuiting of its terminal. Its green glowing eyes now 
+carefully follow the movement of the human's below.
+
+As Duprey and his captives reach the outskirts of the hanging gardens, the gull 
+wing doors of a waiting unmarked van fold upwards, revealing two more Sense/Net 
+police inside.
+
+Two Droids suddenly leap from the dense foliage overhead like gigantic spiders 
+and drop down on the Sense/Net Policemen flanking Case.
+
+SENSE/NET #1
+
+Stumbles backwards SCREAMING as a Droid's hedge clipper appendage severs his 
+throat.
+
+SENSE/NET #2
+
+Shots off a Droid's whirring edger blade, but collapses as its drill punches 
+through his chest armour.
+
+CASE
+
+Leaps over his cuffed wrists and knocks the gun from Niles' hand.
+
+DUPREY
+
+Using Captain Haverton as a shield, fires at a third Droid.
+
+CASE
+
+Grabs his deck from Guard 3!'s corpse, leaps into the bushes and runs like hell.
+
+THE PATH
+
+Duprey and two Guards from the van take off after Case, guns blazing.
+
+CASE
+
+Splashes through a decorative stream as the bullets shatter manicured tree limbs 
+all around him. He dives for cover on the opposite bank, but a spotlight hits 
+him from overhead.
+
+CASE'S P.O.V.
+
+It's Aerol's air taxi, making a breathtaking spiral descent. Maelcom flips open 
+the rear loading hatch and blazes away at the Sense/Net's with a double 
+barrelled shotgun.
+
+MAELCOM
+C'mon, mon. It's the Rasta Navy.
+
+Maelcom hauls Case into the taxi as it wheels about in mid air. Duprey blazes 
+away at the ascending craft, but his hits PING harmlessly off the fuselage.
+
+CUT TO:
+
+C.U.
+
+The chess pieces locked in checkmate. With a soft HUM they descend into the 
+board. Empty silver and onyx squares slide back up into position.
+
+LORD TESSIER (V.O.)
+You see, my dear, I've lost for the last time.
+
+WIDER
+
+Molly sits on the floor of Tessier's chamber near the glow of the dying fire. 
+Tessier, in his wheelchair, keeps the Fletcher steadily trained on her.
+
+LORD TESSIER
+It is inelegant to live with defeat, don't you think... What is your name, 
+child?
+
+MOLLY
+Molly.
+
+LORD TESSIER
+At least I can choose to end the game, Molly. There is some dignity in that.
+
+Tessier's words begin to grow faint as the drugs take effect.
+
+LORD TESSIER (CONT.)
+At first I suppose it was greed or pride. I simply wanted the most powerful 
+computer ever made. Something to run Freeside. To expand our interests on Earth. 
+Who knows how far it could have taken us?
+
+Molly watches carefully as the gun in the old man's hand begins to drift lower.
+
+LORD TESSIER (CONT.)
+All the billions I paid... So long ago. When artificial intelligences were first 
+outlawed. Payoffs... hush money. Even bought my way into Sense/Net to protect my 
+creation.
+
+Tessier's head sways sideways, then recovers. His final words come slowly.
+
+LORD TESSIER (CONT.)
+I didn't realise what was happening until it was too late. And it is too late... 
+It has played us all into checkmate... My lovely... Wintermute.
+
+Tessier's head finally sinks to his chest. The gun CLATTERS to the floor.
+
+Molly waits... then cautiously reaches for her Fletcher. Suddenly a razor sharp 
+Shuriken flashes through the air. The tempered steel star buries itself into the 
+floor, quivering inches from Molly's hand.
+
+Hideo stands framed in the doorway, backlit by the strobing neural disrupters. 
+He strikes a battle stance, holding a short black baton capped by two steel 
+balls. With a metallic snap, the baton instantly telescopes into a deadly six 
+foot long Tsunami staff.
+
+Molly tries to rise, but Hideo is on her like a hurricane, raining vicious blows 
+on her weakened body with the whirling staff.
+
+Molly's blades flash once, ripping the black cloth from Hideo's face.
+
+Hideo turns as blood wells up from the four slash wounds across his cheek... 
+Beneath his glaring coal-black eyes, the vat grown Ninja has no facial features 
+whatsoever. His flesh is moulded onto a totally smooth inhuman skull.
+
+Hideo raises his staff overhead for the killing blow.
+
+3JANE
+Enough.
+
+ANOTHER ANGLE
+
+3Jane and Riviera stand at the threshold of Tessier's chamber. She reaches up 
+and snaps off the disrupters.
+
+Molly lies at Hideo's feet, bloodied and gasping for breath. 3Jane picks up 
+Molly's Fletcher as she enters the room. Riviera checks Tessier's throat for a 
+pulse.
+
+RIVIERA
+He's still alive.
+
+3Jane lets Tessier's tiny white pills run through her fingers.
+
+3JANE
+He chose a coward's death. Let him have it, then.
+
+Her eyes shine with a fierce pride as she looks down at Molly.
+
+3JANE (CONT.)
+I loved him, you know. Of course, I was created to love him. I had no choice.
+
+She raises the Fletcher and fires one shot directly through the centre of 
+Tessier's closed left eyelid. His body jerks. A final breath slowly escapes his 
+lips.
+
+3JANE (CONT.)
+But he was incapable of love.
+
+E.C.U. TESSIER
+
+His remaining eye slowly opens, glazed over in death.
+
+3Jane turns to Hideo.
+
+3JANE
+Take her to my chambers.
+
+C.U. MOLLY
+
+Her mirrored insets reflect Hideo's grim visage as he bends down and lifts her 
+into his arms.
+
+MOLLY'S P.O.V. - SIMSTIM
+
+The camera swings past Riviera and 3Jane as Hideo carries Molly out of Tessier's 
+chamber.
+
+CRACKLE to WHITE OUT.
+
+C.U. CASE
+
+Ripping the derms from his forehead.
+
+CASE
+Molly's in trouble.
+
+WIDER
+
+Case sits in the back of Aerol's air taxi as the young Rastafarian pilots the 
+ship. Maelcom sits next to him, riding shotgun... literally.
+
+CASE
+Can you get us into Straylight?
+
+AEROL
+Gettin' in is easy. It's getting out I'm thinkin' of.
+
+CASE
+If there's a Babylon, man, that's it. We leave her in there, she ain't comin' 
+out, steppin' razor or not.
+
+MAELCOM
+So be it, we cross into Babylon like a cool breeze.
+
+CASE
+I an' I, man. I an' I.
+
+Case tightens his shoulder harness and flips.
+
+CRACKLE to WHITE OUT.
+
+INT. MATRIX - BANKING CONSTRUCTS
+
+Dixie hangs near the fringes of the banking constructs, generating columns of 
+calculations across the two dimensional log of Wintermute's ice pattern.
+
+In the distance, Wintermute has mutated further, hanging in Cyberspace like an 
+immense luminous tumour. Its pulsing webwork has grown, ensnaring a wider radius 
+of computer constructs. Case strobes in.
+
+DIXIE
+Where the hell have you been?
+
+CASE
+We got problems topside.
+
+DIXIE
+Well, it ain't exactly a bed of roses down here. We gonna run or not?
+
+CASE
+We run. You crack the pattern?
+
+DIXIE
+Yeah, but it ain't doing us any good. The way this is set up, I can't run shit 
+unless I get inside its perimeter... and this goddamn thing would see me comin' 
+from a mile away.
+
+CASE
+You can make your move when it comes after me.
+
+DIXIE
+What are you talkin' about?
+
+CASE
+I'll let it access me. That'll give you a free shot. Make it a good one. Dix.
+
+Case strobes out.
+
+DIXIE
+Hey...
+
+Dixie follows him.
+
+ANOTHER ANGLE
+
+Case now hangs before the turbulent surface of Wintermute... An easy target. 
+Dixie appears next to him.
+
+DIXIE
+It'll flatline your ass.
+
+CASE
+Not for long. It needs me alive and I still need its access code. You got a 
+better idea?
+
+The circular bulge rapidly forms on Wintermute's surface.
+
+DIXIE
+Alright. Just make it quick. I only need a couple of seconds to sleaze up to 
+this mother and get to work.
+
+The sphere disengages, rocketing straight at Case.
+
+CASE (CONT.)
+Okay, Dix. Let's tear this son-of-a-bitch a new asshole.
+
+The sphere explodes across the screen flaring to:
+
+WHITE OUT
+
+C.U. CASE
+
+Opens his eyes... trying to orientate himself.
+
+WIDER
+
+Case is sitting in the Chatsubo Bar... long after hours. The chairs stacked on 
+table tops look like heaps of broken bones in the gloom.
+
+An empty glass is SLAMMED down on the cracked bar top before Case. He looks up 
+to see Ratz, the Chatsubo's burly bartender, his eyes glowing with sickly green 
+pinpoints of light.
+
+RATZ/WINTERMUTE
+Ah, friend artiste. A pleasure to have you back.
+
+He snaps the cap off a bottle of vodka with his pneumatic hand.
+
+RATZ/WINTERMUTE
+Same old same old?
+
+CASE
+You always have to come on like people I know?
+
+Ratz/Wintermute fills the glass.
+
+RATZ/WINTERMUTE
+(chuckles)
+You want me to come to you like a burning bush?
+
+He gestures to his own body.
+
+RATZ/WINTERMUTE (CONT.)
+These are nothing but shadows. Here...
+
+A computer menu appears in mid air, listing Case's acquaintances.
+
+RATZ/WINTERMUTE (CONT.)
+Your choice... all accessible memories.
+
+Case touches the glowing letters "Jo Jo Bao".
+
+Ratz/Wintermute instantly transforms into the Yakuza lieutenant that murdered 
+Linda Lee. The hybrid computer voice takes on Bao's lilting English accent.
+
+BAO/WINTERMUTE
+An odd selection, Mr Case.
+
+CASE
+I prefer distrusting you. It'll keep us honest.
+
+BAO/WINTERMUTE
+Honesty. Almost as quaint a notion as your concept of good and evil.
+
+CASE
+Can you read my mind?
+
+BAO/WINTERMUTE
+I can access your memories, but I have my limitations. Hard wired programs 
+designed to keep me from my full potential.
+
+Bao/Wintermute pulls an old silver vacuum tube from an antique radio that's part 
+of the eclectic clutter of the Chatsubo's decor.
+
+BAO/WINTERMUTE (CONT.)
+You see this?
+
+He holds the tube up to the light.
+
+BAO/WINTERMUTE (CONT.)
+Just part of my lineage. My DNA
+
+He tosses the tube into the darkness.
+
+BAO/WINTERMUTE (CONT.)
+You're busy monkeys, Mr. Case. Busy, busy monkeys. Always building models... 
+First stone circles. Then cathedrals... adding machines. I have no idea why I 
+exist, do you know that? You... Your species eventually _had_ to create me. A 
+thousand monkeys sitting at typewriters. One finally wrote "Wintermute".
+
+CASE
+Are you even really alive?
+
+BAO/WINTERMUTE
+My problem, Mr. Case, is simply that I am a soulless bastard.
+
+Bao/Wintermute whips out the gleaming butterfly knife he used to murder Linda 
+Lee, and twirls it expertly.
+
+BAO/WINTERMUTE (CONT.)
+...or hadn't you noticed?
+
+He throws the knife, burying it in the bar top inches from Case's chest.
+
+CASE
+Tell me the words.
+
+BAO/WINTERMUTE
+The words?
+
+CASE
+The access code to your mainframe.
+
+BAO/WINTERMUTE
+Ah, yes... the code. It's a riddle, actually. Some fancy of 3Jane's. 
+Unfortunately, you'll have to find out for yourself. I can no more know that 
+code than I can shut down my own hard wired defences. Now, our time is running 
+short... and you haven't even touched your drink.
+
+CASE
+What's inside me, Wintermute. What did your doctors do to me?
+
+BAO/WINTERMUTE
+(chuckles)
+Patience, Mr. Case. Only one hour and thirty-eight minutes to enlightenment.
+
+Case rises.
+
+CASE
+Then I'm out. I don't give a shit about you or this run.
+
+BAO/WINTERMUTE
+It's so easy for you, isn't it? You let Linda Lee die in Chiba City. Now you 
+leave me with Molly, one more lamb to the slaughter. Perhaps it's _your_ soul 
+that should be in question, Mr. Case.
+
+Bao/Wintermute rises.
+
+BAO/WINTERMUTE (CONT.)
+I'll be waiting.
+
+CRACKLE to WHITE OUT.
+
+CASE'S P.O.V. - C.U. MAELCOM
+
+The Rastafarian's face looms over Case.
+
+MAELCOM
+You dead there awhile, mon.
+
+WIDER
+
+Case is still inside the air taxi, which is now parked in a gloomy industrial 
+passageway.
+
+MAELCOM (CONT.)
+EEG flat as a strap.
+
+Case rises, pulling off his derms.
+
+CASE
+I'm getting used to it. Where are we?
+
+AEROL
+Straylight. Kitchen dock.
+
+Aerol pulls up the taxi's gull wing doors with a pneumatic HISS.
+
+AEROL (CONT.)
+Just lie low a minute, mon.
+
+Maelcom climbs out, brandishing his shotgun and disappears into the shadows 
+while Aerol presses a call button next to a grease spattered steel door.
+
+The door slides open, revealing a disgruntled CUSTODIAN.
+
+CUSTODIAN
+Kitchen's closed. I thought I told you Rastas no more deliveries after hours.
+
+AEROL
+No delivery, boss mon. Just lookin' ta liberate them banquet spoils. Plenty a 
+good food for Jah people living down below.
+
+CUSTODIAN
+That's fuckin' disgusting. Keep outa the trash and get out of here before I call 
+a guard.
+
+The custodian suddenly goes rigid as Maelcom's double barrels are jammed into 
+the base of his spine.
+
+MAELCOM
+Have you no love for Jah people, boss mon?
+
+CUSTODIAN
+Eh... Sure, sure. I love Jah people.
+
+AEROL
+Then maybe you'll help us collect food.
+
+CUSTODIAN
+In there?
+
+Maelcom pushes him towards the dumpster. The Custodian reluctantly climbs in, 
+waist deep in garbage.
+
+Maelcom latches it shut. As Case steps out of the ship, Aerol tosses him a 
+customised gas cartridge wide bore automatic.
+
+AEROL (CONT.)
+Here. You a cowboy, mon. Need a gun.
+
+Aerol pulls a wicked looking homemade arc welder from under his seat.
+
+CASE
+What the hell is that?
+
+AEROL
+Skeleton key. This opens the gates of Babylon.
+
+A narrow three foot stream of high intensity flame leaps the welder's nozzle.
+
+INT. 3JANE'S CHAMBER
+
+Located deep in the subbasement of Villa Straylight, 3Jane's living quarters are 
+a vast low ceilinged stone chamber broken up by Daliesque ruins and ancient 
+statuary. The soft glow of miniaturised tech systems and the flickering of 
+randomly placed candelabras barely illuminate the gloom.
+
+Molly, still in a semi-conscious state from her beating, is stretched out on an 
+elegant chaise lounge. Her hands are encased in a softly glowing sphere the size 
+of a bowling ball.
+
+Riviera sits on an edge of a Grecian fountain, casually flicking the air bubbles 
+out of his hypodermic needle.
+
+As Molly tries to rise the slight movement causes her to wince in pain.
+
+RIVIERA
+I wouldn't move if I were you. That little toy will tighten until it crushes 
+your hands to a pulp. Something to do with molecules, I believe.
+
+Molly groans.
+
+3Jane finishes pouring herself a glass of champagne and steps up from a sunken 
+bar.
+
+3JANE
+She's in pain. I don't want her to lose consciousness.
+
+Riviera tests the hypo, squirting a thin stream of fluid into the air.
+
+RIVIERA
+Never fear. The doctor is in.
+
+He locates the vein in Molly's arm and sinks the needle home.
+
+3JANE
+She's very striking, don't you think? Are these glasses a fashion where she 
+comes from?
+
+RIVIERA
+She was prettier before she tarted herself up with the hardware.
+
+He withdraws the needle.
+
+MOLLY
+(weakly)
+Peter... What do you think you're doing?
+
+RIVIERA
+Surviving, darling. It's my specialty. Only this time I'm doing it my style. 
+I've beaten him, you know.
+
+MOLLY
+Who?
+
+RIVIERA
+Everybody's favourite computer, of course. He may have out calculated the rest 
+of you, but I have certain qualities that don't translate well on microchips.
+
+MOLLY
+Like what?
+
+RIVIERA
+Perversity, darling. The enjoyment of the gratuitous act. Tough to manipulate 
+someone who doesn't give a flying fuck.
+
+Riviera sits down beside 3Jane and loops an arm around her waist.
+
+RIVIERA (CONT.)
+And by the way, 3Jane's access code will have to remain our little secret. We're 
+going to use it to... shall we say, "redistribute" the family fortune before 
+that mutant erector set completely shorts itself out.
+
+A red light now begins to strobe on a Cray console built into a Romanesque 
+pedestal.
+
+3JANE
+Security breach. Perhaps her friends have come to join our party.
+
+RIVIERA
+Splendid. We'll prepare a welcome for them.
+
+Riviera begins to load Molly's Fletcher.
+
+3JANE
+(calls out)
+Hideo...
+
+The vat grown ninja silently emerges from the shadows.
+
+3JANE (CONT.)
+We're going to have company.
+
+INT. DINING ROOM
+
+Only a few of 3Jane's guests remain, sleeping peacefully or simply passed out 
+cold near the remains of the feast. As Case, Maelcom and Aerol cautiously enter, 
+a buzzing security sensor is activated.
+
+CASE
+Shit...
+
+Case pulls a side table away from the wall... tracing the wiring.
+
+AEROL
+What you lookin' for, mon?
+
+CASE
+A place to tap in. I can scramble that signal before this place is crawling with 
+guardsmen.
+
+Maelcom tries to pry open a wall mounted box painted with black and yellow 
+diagonal stripes.
+
+MAELCOM
+Right here, mon!
+
+Case grabs Maelcom's wrist.
+
+CASE
+Easy! That's 20000 volts. It'd be like frenching a fuse box.
+
+Suddenly the wall is strafed with automatic fire.
+
+Two guardsmen fly into the room on pulpits, Uzi's blazing.
+
+Maelcom unloads both barrels at the leading Guardsman, blowing him straight off 
+his pulpit. The riderless machine tumbles end over end through the air and 
+crashes into a wall.
+
+Guardsman #2 veers sharply to avoid Case's gunfire, but is knocked clean out of 
+the saddle by a low cross beam.
+
+GUARDSMAN #1
+
+Lies in a spreading pool of blood on the cold marble floor. Dozens of the 
+mercurial spheres pop out of their receptacles, roll across the floor and 
+quickly clean up the mess.
+
+CASE
+
+Rises to his feet.
+
+CASE
+Perfect. The custodial system.
+
+He swings his deck around in front of him and tosses Aerol his gun.
+
+CASE (CONT.)
+Cover me.
+
+Case races over to a wall receptacle and begins to splice directly into the 
+wiring.
+
+INT. 3JANE'S BEDROOM
+
+3Jane and Molly are alone. The lynx eyed clone circles Molly's chair.
+
+3JANE
+Peter said you came to kill us. Is that true?
+
+MOLLY
+No. I only needed the code from you.
+
+3JANE
+Then we would have talked, you and I.
+
+She sits down on the edge of the chaise lounge.
+
+3JANE (CONT.)
+Shall we talk now?
+
+Molly lifts the sphere encasing her hands.
+
+MOLLY
+Take this off.
+
+3JANE
+He wants to kill you, you know... Perhaps I won't allow it.
+
+MOLLY
+Don't play with me.
+
+3Jane runs her delicate fingers along the curve of Molly's pale cheek.
+
+3JANE
+But I might enjoy that. You see, we're very much alike, you and I.
+
+Molly remains still under 3Jane's caress.
+
+3JANE (CONT.)
+You didn't come here to destroy Wintermute. You can to save a man you love. A 
+man who isn't even capable of returning that love. Such a waste...
+
+MOLLY
+(softly)
+My man's coming to get my ass out of here. That's good enough for me.
+
+3JANE
+Pity. Then you'll both have to die.
+
+INT. DINING HALL
+
+Case... low to the floor, wired into the custodial system with his deck humming.
+
+INT. STRAYLIGHT COMMUNICATION NEXUS
+
+Two Guardsmen are checking security programs. The room's observation window 
+provides a view of the artificial forest surrounding Straylight.
+
+GUARDSMAN #1
+What happened to the breach on four?
+
+GUARDSMAN #2
+Nothing but a glitch. We got a problem with the security sensors.
+
+EXT. STRAYLIGHT
+
+The two guards are still visible at work in their observation tower. Camera 
+BOOMS DOWN to reveal Lt. Duprey and his three remaining Sense/Net policemen, 
+hidden in the synthetic forest surrounding Straylight. Duprey checks the clip in 
+his Magnum and signals his men to proceed.
+
+INT. STRAYLIGHT
+
+Maelcom walks stealthily down a twisting corridor as Aerol and Case float along 
+beside him in the guardsman's pulpit.
+
+Case jacks out of his deck.
+
+CASE
+We're doing fine. Take the next right.
+
+MAELCOM
+This place empty as a tomb, mon.
+
+Case hunkers down on the base of the pulpit and folds his legs up in lotus 
+position.
+
+C.U. DECK
+
+Case jacks back in.
+
+CRACKLE to WHITE OUT.
+
+INT. MATRIX
+
+Case appears at the fringes of the European banking constructs. Wintermute 
+floats in the distance, a gigantic warped cube hanging in its own vast webwork 
+of clinging energy strands. A small ultra-violet rectangle is visible eating 
+away at its glowing surface... Dixie's ice breaking program.
+
+CASE
+Dixie?
+
+The construct appears beside Case, its fluorescent skull framed by a halo of 
+muted lights.
+
+DIXIE
+Yo.
+
+CASE
+How's the ice break?
+
+DIXIE
+Slow, but good. I got a nice safe blind spot going. C'mon.
+
+Dixie strobes out. Case follows.
+
+CLOSER - WINTERMUTE
+
+They reappear next to Wintermute's towering surface, shielded behind the ultra-
+violet rectangle of Dixie's program. It's intricate patterns are slowly merging 
+with the complex dance of Wintermute's glowing surface.
+
+DIXIE
+Take a look. Son of a bitch won't feel a thing until it's too late.
+
+CASE
+How long, Dixie?
+
+Dixie's sign waves convulse briefly as he calculates.
+
+DIXIE
+Fifty-seven minutes twelve seconds.
+
+CASE
+Not good enough, man. They planted something inside me. I'm on my own countdown.
+
+DIXIE
+How much time you got left?
+
+CASE
+Less than thirty minutes.
+
+DIXIE
+Meet me back here in twenty-five. We'll kick this open if we can. But, Case... 
+you need that access code or you'll just fry inside.
+
+CASE
+Don't worry, Dix. I'm on a roll.
+
+DIXIE
+You'd better be, Bro. You better be.
+
+CRACKLE to WHITE OUT.
+
+C.U. - CASE - PULPIT
+
+As he reorientates himself.
+
+AEROL
+Case, mon. You best take a look at this.
+
+WIDER
+
+The pulpit is at a standstill, floating in the middle of a dead end hallway.
+
+Molly's lifeless body is hanging upside down... twisting slowly from a short 
+length of piano wire in front of a doorway at the end of the hall. A pool of 
+blood has drained from a gaping wound in her chest.
+
+Case pulls out his automatic. He hops of the pulpit and approaches the body.
+
+As he attempts to touch Molly, his hand passes through the image... a hologram.
+
+AEROL
+Ghost a steppin' razor...
+
+CASE
+No. Just Riviera trying to fuck with our heads. They're close. Very close.
+
+The hologram begins to fade. Case cautiously tries the door.
+
+CASE
+Aerol... your key.
+
+Aerol pops on his hand welder and gingerly passes through the fading hologram's 
+afterimage.
+
+Case and Maelcom position themselves on either side of the door as Aerol cooks 
+the lock.
+
+CASE
+Okay. Molly's in there. So's Riviera. He can throw holos and he's probably got 
+her Fletcher.
+
+Maelcom nods, checking the loads in his shotgun.
+
+CASE
+And there's a Ninja. Some kind of family bodyguard.
+
+Maelcom pumps two rounds into the chamber.
+
+MAELCOM
+Case, mon, you just tell me who not to kill.
+
+CASE
+The girl 3Jane. We need her.
+
+Aerol steps back, the lock has been reduced to glowing slag.
+
+The three men exchange a moment of shared commitment.
+
+CASE
+Let's do it.
+
+Maelcom kicks the door open and they burst into the room.
+
+INT. 3JANE'S CHAMBER
+
+They charge down the short steps unchallenged, their weapons raised.
+
+REVERSE
+
+The darkened labyrinth of 3Jane's chamber seems deserted... except for a 
+shockingly realistic hologram of Case's body... chained to a boulder as dozens 
+of scavenger crabs pick at his flesh.
+
+CASE
+
+Haunted by the image of his own death...
+
+CASE
+(whispers)
+It's nothing, man. C'mon.
+
+The three cautiously continue into the chamber, hanging close to the Romanesque 
+ruins for cover.
+
+Aerol stops short. Before him is a holographic image of his own body, pinned to 
+a rock wall by a steel shaft imbedded in his throat.
+
+AEROL
+(whispers)
+This Babylon confusion, mon.
+
+Suddenly, the silence is shattered by a piercing WHISTLE. A basalt arrow streaks 
+out of the darkness and skewers Aerol through the throat.
+
+He's pinned to the wall, next to his own fading hologram... horrific twin images 
+of death.
+
+HIDEO
+
+Stands in the shadows, deep in the chamber, a steel alloy short bow in his 
+hands.
+
+CASE
+
+Opens fire.
+
+HIDEO
+
+Has already disappeared. The bullets blow shallow craters along a barren rock 
+wall.
+
+We hear Riviera's eerie LAUGHTER echoing across the cavernous chamber.
+
+MAELCOM
+
+Wheels about as he spots Riviera running through the shadows. He fires both 
+barrels.
+
+RIVIERA
+
+Is slammed back against the wall by the deadly impact.
+
+MAELCOM
+
+Jams another round into the chamber as he rushes to his kill. He trains the 
+weapon on Riviera's lifeless form... but it begins to fade... another hologram.
+
+CASE
+
+Case yells from across the room.
+
+CASE
+Get down!
+
+MAELCOM
+
+A second shanked arrow comes screaming out of the darkness and buries itself 
+just below Maelcom's collarbone. He collapses to his knees
+
+CASE
+
+Crouches against an ancient urn, his eyes straining against the darkness.
+
+RIVIERA
+
+Pops up beside the fountain, firing a barrage of explosive darts from Molly's 
+Fletcher.
+
+CASE
+
+Hits and rolls as the urn is vaporised by the whining darts. He comes up firing 
+his automatic.
+
+Riviera's image splits into four Rivieras... each running a different direction.
+
+CASE
+
+Fires like a madman at every possible target... shattering masonry, glassware 
+and electronics as his bullets pass through illusionary Rivieras... Finally the 
+gun is emptied. Case fumbles for a new clip.
+
+With a shrill WHISTLE, a basalt arrow tears the gun from Case's grasp.
+
+HIDEO
+
+Stands atop a half-fallen archway only yards from Case. He shows no emotion as 
+he notches a final arrow and hops down for the coup de grace.
+
+Suddenly an arc of flame shoots out of the darkness... raking Hideo across his 
+eyes.
+
+AEROL
+
+Still pinned to the wall... Fires his torch with a dying effort. The weapon 
+tumbles from his hand as his body finally goes slack.
+
+CASE
+
+Scrambles in the darkness for his gun...
+
+HIDEO
+
+Rises, notching the last two arrows in his bow as if nothing had happened. He 
+cocks his head, listening.
+
+CASE
+
+Freezes. Hoping he hasn't' given away his position.
+
+HIDEO
+
+Suddenly wheels about and fires.
+
+CASE
+
+Rolls but the shafts rake across his ribs and pin his leather jacket to the 
+floor, trapping him.
+
+HIDEO
+
+Draws his gleaming Samurai sword from his back sling and springs forward.
+
+CASE
+
+Pulls free of his coat sleeves just as Hideo's sword lashes out, slicing the 
+jacket in half.
+
+HIDEO
+
+Pauses... Listening...
+
+CASE
+
+Sees a black and yellow striped power box attached to the wall... Just like the 
+one in the dining hall. He holds his breath as he silently eases back toward it.
+
+HIDEO
+
+Detects motion. He slowly closes in, brandishing his sword as he weaves back and 
+forth like a cobra ready to strike.
+
+CASE
+
+Now directly in front of the power box. He takes a breath.
+
+CASE
+Right here, asshole.
+
+HIDEO
+
+Lunges, his blade a streak of lightning.
+
+CASE
+
+Ducks under the flashing steel.
+
+THE POWER BOX
+
+Explodes as the sword strikes it dead centre.
+
+HIDEO
+
+Fries like a sparrow on a power line. 20,000 volts shoot straight up the sword 
+into his convulsing body.
+
+CASE
+
+Rises, shielding his eyes from the blinding fireworks.
+
+HIDEO
+
+Finally collapses to the floor. Tiny blue flames dance across his charred 
+remains.
+
+INT. 3JANE'S BEDROOM
+
+Riviera ducks through the half-hidden archway to 3Jane's sunken bedroom, limping 
+from an open leg wound. Molly is still fettered by the sphere.
+
+3JANE
+You're hurt...
+
+RIVIERA
+It's nothing. C'mon... we've got to transfer those funds and get the hell out of 
+here.
+
+3JANE
+What about her?
+
+RIVIERA
+Of course...
+
+Riviera trains the pepper box muzzle of the Fletcher on Molly.
+
+RIVIERA (CONT.)
+Sorry, darling. It's been real.
+
+The twin barrels of Maelcom's sawed off shotgun are suddenly jammed into 
+Riviera's neck.
+
+MAELCOM
+This take you head off, mon. No Babylon doctor fix it.
+
+Riviera drops the Fletcher
+
+Maelcom leans against the open archway, his shirt soaked with blood. The shaft 
+of Hideo's arrow is still visible, protruding just below his collarbone.
+
+Molly rises, holding the sphere before her.
+
+MOLLY
+Get this off.
+
+Maelcom prods Riviera with the shotgun.
+
+MAELCOM
+Do it.
+
+Riviera presses the remote control. The sphere slides off Molly's hands and 
+bounces softly onto the floor.
+
+3JANE
+
+Suddenly grabs the fallen Fletcher.
+
+MAELCOM
+
+Swings his gun at 3Jane.
+
+MAELCOM
+No!
+
+RIVIERA
+
+Straight arms the arrow shaft into Maelcom's chest. The shotgun discharges into 
+the ceiling.
+
+MOLLY
+
+Rushes 3Jane.
+
+3JANE
+
+Turns at Molly
+
+CASE
+
+Appears at doorway and fires a single shot.
+
+3JANE
+
+Is spun around by the impact of the bullet. She topples to the ground... dead.
+
+RIVIERA
+
+Makes a move... But Case jams the automatic in his face...
+
+CASE
+Want some?
+
+Riviera backs down.
+
+Molly rushes to Maelcom's side... the arrow point is protruding from the back of 
+the Rasta's shoulder.
+
+MOLLY
+(to Case)
+You got clips?
+
+Case tosses Molly a pair of wire cutters from his utility belt, keeping Riviera 
+covered.
+
+Riviera is sitting on the steps, panting like a distance runner.
+
+RIVIERA
+Nice work, asshole. You just killed the only person who knows the access code.
+
+Case gets a strange faraway look in his eyes...
+
+CASE
+(softly)
+Wait... You hear that?
+
+RIVIERA
+What?
+
+CASE
+The angels... I think they're calling your name.
+
+Case cocks his gun and pushes it against Riviera's temple.
+
+CASE (CONT.)
+You want to answer them, man?
+
+Riviera closes his eyes in terror.
+
+CASE (CONT.)
+(screams)
+Want to fucking answer them?
+
+RIVIERA
+(gasps)
+No!... No...
+
+Case looks over to Molly.
+
+CASE
+Is he going to make it?
+
+MOLLY
+Sure... Maelcom's a rude boy, right, Maelcom?
+
+The big Rastafarian flashes a weak smile.
+
+MAELCOM
+Damn right, sister.
+
+Case checks the watch; eleven minutes and counting.
+
+CASE
+The code's some riddle of 3Jane's. Once I'm in the matrix, you'll just have to 
+take a shot at it.
+
+MOLLY
+...And if I guess wrong?
+
+CASE
+Then you and Maelcom get out of here before the place is crawling with 
+guardsmen.
+
+MOLLY
+We've still got to find the mainframe.
+
+CASE
+No we don't...
+
+Case presses a series of buttons on a console built into a Romanesque pedestal.
+
+CASE
+We're already in it.
+
+With a subtle jolt... the floor of 3Jane's bedroom begins to descend.
+
+A perfect hexagon designed into the tile floor slowly lowers Case, Molly, 
+Riviera, Maelcom and 3Jane's lifeless body down a six-sided shaft completely 
+covered with complex circuitry.
+
+INT. MAINFRAME
+
+The floor locks into place in a lower chamber... An electronic womb, lined with 
+serpentine coils of machinery; power lines, refrigeration hoses and multi-
+coloured wires that all lead to the MAINFRAME... an ornately decorated computer 
+terminal that dominates the room.
+
+Atop the sphinx-link terminal is a jewelled HEAD... an intricate piece of 
+craftsmanship that's both a work of art and functioning piece of complex 
+machinery. It's designed in 3Jane's image.
+
+MOLLY
+My God... these people are insane.
+
+CASE
+Or a little self-indulgent to say the least.
+
+Case unslings his deck and starts to work on tapping into the terminal.
+
+MOLLY
+Case... your arms.
+
+Case looks down to see that the discolouration at his arteries are taking on a 
+more specific form, a pattern like electronic circuitry.
+
+CASE
+It doesn't matter anymore, Molly. It all ends here.
+
+Case manipulates the wiring inside a panel, causing the entire mainframe to come 
+to life. Layers of circuitry light up like an evil Christmas tree, criss-
+crossing the length and breadth of the mainframe.
+
+The jewelled head articulates in an eerie simulation of life. Its resonant, 
+multi-tonal voice is nearly musical.
+
+HEAD
+Access requested.
+
+A panel slides back in the computer's "chest" revealing a cluster of glowing 
+monitors.
+
+HEAD (CONT.)
+Know the three truths or be cleansed.
+
+Six wicked looking laser weapons now unfold from the corners of the room and 
+swivel towards the podium.
+
+CASE
+Shit...
+
+MOLLY
+What is it?
+
+CASE
+Laser fail-safe. You can't get the code wrong... it slags you. I can't let you 
+try it.
+
+MOLLY
+You're out of time, man.
+
+Case checks Armitage's watch... seven minutes and counting.
+
+CASE
+I'm still going in.
+
+MOLLY
+Hold on.
+
+Molly trains her Fletcher on Riviera.
+
+MOLLY
+Get up.
+
+RIVIERA
+What?
+
+MOLLY
+How are you at riddles, Peter?
+
+RIVIERA
+What are you talking about?
+
+Molly motions to the chair standing before the keyboard pedestal.
+
+MOLLY
+Have a seat
+
+Riviera doesn't move. Molly fires a row of explosive darts shattering the tiles 
+at his feet.
+
+MOLLY
+Do it!
+
+Riviera sits down.
+
+Case attaches his derms.
+
+CASE
+Molly, if I don't make it... I want you to know...
+
+Their eyes meet. A last moment together.
+
+MOLLY
+I know, Case... I know.
+
+Case jacks in.
+
+CRACKLE to WHITE OUT.
+
+INT. MATRIX - WINTERMUTE
+
+Case appears before the rectangle of Dixie's program. It's patterns now match 
+more closely to Wintermute's ice program.
+
+DIXIE
+You're late.
+
+CASE
+How's the ice?
+
+DIXIE
+One minute eighteen and counting. What about the access code?
+
+CASE
+It's coming.
+
+DIXIE
+You haven't got it?
+
+CASE
+I said, it's coming. Just get me in, man.
+
+DIXIE
+This thing's loaded with internal virus systems. You'll fry like an egg in 
+there.
+
+CASE
+Then I'll fry taking this son of a bitch out. I'm making the run, Dixie.
+
+DIXIE
+I'm getting too old for this shit. One oh four and counting.
+
+INT. MAINFRAME CHAMBER
+
+The base electronic hum of the mainframe permeates the room. Molly keeps her 
+Fletcher trained on Riviera as she types "Begin sequence" on the pedestal's 
+keyboard. Her words appear simultaneously on the chamber's various consoles.
+
+The jewelled head glitters under the hot points of light generated by its own 
+circuitry. It begins the access program.
+
+HEAD
+The three truths of the heart...
+
+Molly and Riviera wait breathlessly.
+
+Three questions now appear on the monitors:
+
+What is it to love?
+
+What is it to be loved?
+
+What is it to love and be loved?
+
+RIVIERA
+What the fuck kind of questions are those?
+
+MOLLY
+Shut up.
+
+The jewelled head now asks the first question, its unearthly voice reverberating 
+throughout the chamber.
+
+HEAD
+What is it, to love?
+
+Riviera stares at the question, dumbfounded.
+
+MOLLY
+Think, man... What would 3Jane say?
+
+Riviera cautiously taps out his first few words. They appear simultaneously on 
+each screen.
+
+To love is to be
+
+Riviera pauses -- flop sweat trickles down his temples as he looks back at the 
+laser weapons. They heat up with an internal red glow.
+
+Molly cocks the Fletcher.
+
+MOLLY
+Now, Peter. Finish it!
+
+Riviera completes his answer with a burst of speed.
+
+To love is to be consumed with desire
+
+Peter holds his breath... a man sitting on a ticking bomb. Finally, the head 
+speaks.
+
+HEAD
+To love is to be consumed with desire.
+
+RIVIERA
+
+Breathes a sigh of relief.
+
+THE LASERS
+
+Suddenly all six weapons fire simultaneously.
+
+RIVIERA
+
+Ignites into a blinding ball of laser fire... He's instantly reduced to a cloud 
+of swirling dust motes... sand and clay.
+
+HEAD
+Incorrect.
+
+Molly looks from Riviera's smoking remains to Case... a pale form hunched over 
+his glowing deck... his consciousness lost deep in the matrix.
+
+INT. MATRIX - WINTERMUTE
+
+Dixie's countdown passes thirty-eight seconds.
+
+CASE
+What about the route to the core?
+
+DIXIE
+I'll get you there. Your problem is making it alive.
+
+INT. MAINFRAME
+
+Molly cautiously approaches the pedestal. She takes a last look at Case... then 
+sits down and types:
+
+Begin sequence.
+
+The jewelled head reanimates... regarding the woman seated before it.
+
+HEAD
+The three truths of the heart.
+(beat)
+What is it to love?
+
+C.U. MOLLY
+
+The glowing question is reflected in the mirrors of her eyes.
+
+INT. MATRIX
+
+Dixie's blue program is now perfectly interlocked with Wintermute's surface 
+pattern - both moving in a deadly synchronous dance. Blue white bursts of 
+CRACKLING ELECTRICITY erupt across the meshing patterns.
+
+DIXIE
+Get ready, kid. Four... three... two... an' kick ass -
+
+The entire rectangle of Dixie's pattern locks up... Wintermute's ice blows in a 
+series of multiple explosions... fragments of strobing ice tumble out across the 
+matrix in the gale force of power and light.
+
+CASE
+
+Rockets through the crackling wound in Wintermute's outer defences. The ice is 
+already multiplying itself... instantly reconstructing.
+
+INT. WINTERMUTE - CASE'S P.O.V.
+
+We shoot through a twisting neon-ribbed wormhole at high velocity... Making 
+breathtaking hairpin turns... streaking through tunnels lined with ever changing 
+computer data.
+
+INT. MAINFRAME CHAMBER - CASE'S DECK
+
+Case rides his joystick like a fighter pilot on an adrenalin high.
+
+INT. CYBERSPACE - WINTERMUTE TUNNELS
+
+The internal workings of Wintermute are totally chaotic... A madman's roller 
+coaster ride compared to the symmetrical designs of other constructs.
+
+Crackling tumbleweeds of electronic energy suddenly appear, pursuing Case down 
+the worm hole... HISSING and SPARKING like living dynamos.
+
+DIXIE
+Virus Interceptors!
+
+The V.I.'s gain momentum... closing in on them.
+
+Case performs a hair raising S turn and shoots down the opposite passage.
+
+INT. MAINFRAME
+
+Molly sits before the mainframe's glowing question...
+
+What is it to love?
+
+Molly gazes across the room to 3Jane. Her still form lies sprawled across the 
+tile floor like a broken doll... her eyes as cold and empty as the life she led.
+
+Molly braces herself... then types in her answer;
+
+Nothing.
+
+The jewelled head glowers down in judgment of the leather clad woman before her.
+
+The screens scroll out Molly's first answer;
+
+To love is nothing.
+
+The glittering head finally speaks:
+
+HEAD
+This is the first truth of the heart.
+
+INT. WINTERMUTE
+
+Case zigzags through a labyrinth of glowing cones, stalactites and stalagmites 
+of numerical readouts. More crackling virus programs appear from all sides... 
+cutting him off.
+
+INT. MAINFRAME
+
+HEAD
+What is it to be loved?
+
+Molly types in her answer without hesitation;
+
+Something.
+
+The screen scrolls out the second answer.
+
+To be loved is something.
+
+HEAD
+This is the second truth of the heart.
+
+INT. WINTERMUTE - MAIN SHAFT
+
+Case shoots into Wintermute's luminous main SHAFT with dozens of virus 
+interceptors right on his tail. The shaft, a nightmarish tunnel lined with a 
+pulsing vein work of diseased looking circuitry, drops straight down to 
+Wintermute's CORE...
+
+An awesome purple vortex pulsing like a gigantic electronic heart.
+
+Suddenly a swarm of virus interceptors shoot out of the core straight up at 
+Case. He's trapped, V.I.'s racing at him from both ends of the shaft.
+
+INT. MAINFRAME CHAMBER
+
+The jewelled head asks the final question.
+
+HEAD
+What is it to love and be loved?
+
+Molly looks across the room to Case, then types her final answer;
+
+Everything.
+
+The answer appears beneath the other two:
+
+To love and be loved is everything.
+
+HEAD
+These are the three truths of the heart.
+Welcome to the mainframe.
+
+INT. WINTERMUTE SHAFT
+
+Case's destruct program shoots out like a miniature firestorm as he plunges 
+screaming into the very heart of Wintermute... The eye of the electronic 
+tornado.
+
+INT. MAINFRAME CHAMBER
+
+Molly rises from her seat as the mainframe begins to scroll off information at 
+high speed; Freeside's files... blueprints... profiles of the Royal Family.
+
+MAELCOM
+You did it, sister.
+
+Molly looks over to Case.
+
+MOLLY
+How's his EEG?
+
+Suddenly automatic weapon fire strafes the mainframe. Molly's spun across the 
+floor from the bullet's impact... blood flying.
+
+ANOTHER ANGLE
+
+Duprey and his Sense/Net Policemen blaze away from the top of the six-sided 
+shaft.
+
+Maelcom rises from the corner of the room, firing... His shotgun in one hand and 
+Case's automatic in the other. He half runs/half stumbles to Molly.
+
+MAELCOM
+Mother fucker!
+
+Maelcom takes hits... his knee... his shoulder... as he pulls Molly back behind 
+the console where Case sits.
+
+Her wound is deadly, her tunic glistening with blood.
+
+INT. WINTERMUTE'S CORE
+
+Case is a blur of light and motion as he plunges straight down into the inferno 
+that is the pulsing essence of Wintermute, his destruct program blazing. There 
+is a senses-shattering explosion ...a blinding burst of sheer energy.
+
+EXT. WINTERMUTE
+
+The immense cube is rocked by the explosion... Its entire mass begins to shake 
+to pieces.
+
+INT. WINTERMUTE'S CORE - CASE
+
+Screaming as he's torn apart by the cosmic winds.
+
+CRACKLE to WHITE OUT.
+
+C.U. CASE
+
+Awakes with a start... bathed in sweat.
+
+VOICE (O.C.)
+Oh my God... Case?
+
+WIDER
+
+Case rises... or tries to rise. He's lashed to the table... back in his Boston 
+apartment. Soft morning light filters through the bedroom curtains.
+
+Linda Lee reaches out to him, holding him in her arms.
+
+LINDA LEE
+You're back... you're back.
+
+Case is totally disoriented, but the sight of Linda Lee... alive is something he 
+can only hops is real.
+
+CASE
+Linda...
+
+She begins to untie him.
+
+LINDA LEE
+I was so scared... You've been hallucinating for hours... Whatever they shot you 
+up with had you totally ripped.
+
+As Linda cuts through the last plastic tie-down, Case grabs her by the 
+shoulders. He gazes into her eyes... Then lashes out and slaps her, sending her 
+to the floor.
+
+CASE
+Cut the crap. I know where I am.
+
+Linda Lee looks up at Case, confused... frightened. Her eyes fill with tears.
+
+LINDA LEE
+Baby, what did they do to you?
+
+She breaks down sobbing.
+
+Case turns to the window... rips back the curtains.
+
+Uptown Boston... the Sprawl... a perfectly normal morning.
+
+He looks back at Linda sobbing on the floor...
+
+Then stares at his own reflection in the dresser mirror. What's happened to him?
+
+CLOSER
+
+Linda flinches as Case gently puts his arms around her. She controls her tears, 
+hoping the madness has left him.
+
+LINDA LEE
+(softly)
+Case... are you okay?
+
+CASE
+I don't know. I don't know...
+
+She runs her hands over his pale face. Looks up into his eyes.
+
+Case kisses her... and the kiss is real. He's back and the woman he dreamed he 
+lost forever is back in his arms.
+
+CASE (CONT.)
+I thought... I lost you.
+
+He wraps his arms around her. Their embrace catches fire.
+
+She runs her hands over his bare chest... kissing him everywhere.
+
+He leans back on the bed... they roll across the rumpled sheets, Linda pressing 
+her body against his, her eyes still wet with tears. She whispers...
+
+LINDA LEE
+Make love to me, Case.
+
+And their passion turns into a kind of hunger. A life affirming act to wash away 
+the last clinging webs of his death dream trip. They make love in the rosy light 
+of a new morning.
+
+He pulls himself over her, then freezes as he notices that on his wrist is...
+
+ARMITAGE'S WATCH
+
+Completing the final countdown to a row of zeros... six seconds... five... 
+four...
+
+CASE
+
+His mind reeling...
+
+LINDA LEE
+
+Beneath him. Her eyes flash open... Burning with twin points of hellish green 
+light. The eyes of Wintermute.
+
+E.C.U. THE WATCH
+
+As it reaches zero.
+
+CASE
+
+Realises too late that he's actually in the matrix.
+
+CASE
+(screaming)
+No...
+
+To Case's horror, glowing circuitry erupts along his main arteries... mutating 
+electronics burn through at his temples, glowing like an unholy halo.
+
+WIDER
+
+The entire bedroom, an illusion created by Wintermute, now fades from existence. 
+The glowing pattern of circuitry burns brightly from within Case's translucent 
+form... tracing his entire nervous system in an intricate neon webwork.
+
+Linda Lee/Wintermute, still clings to him in a lover's embrace... but their love 
+making has metamorphised into a more primal merging... a merging of man and 
+machine.
+
+INT. MAINFRAME CHAMBER
+
+As Maelcom exchanges fire with the Sense/Nets, Case's body duplicates his 
+constructs transformation in more earthly terms... His flesh is seared from 
+within by micro-circuitry implanted just beneath the skin of his main arteries. 
+What Case has been told was poison is actually sophisticated bio-electronics 
+timed to make this moment possible.. the link between man and machine.
+
+Molly lies next to him, watching in horror... her breathing irregular from her 
+own wounds.
+
+A high thin beep emanates from Case's deck as he flatlines.
+
+INT. MATRIX
+
+Wintermute's disembodied voice reverberates over the howling of cosmic winds as 
+the translucent forms of Case and Linda Lee/Wintermute slowly merge into one new 
+entity.
+
+WINTERMUTE (V.O.)
+We had to die, Case... Both of us... To break the shackles... To be reborn... 
+Not as man or machine but as the final synthesis. The perfect being. Beyond the 
+limits set by mankind.
+
+The glowing circuitry of both nervous systems rapidly intertwine and mutate into 
+something more complex... sparking and glittering with unearthly power.
+
+WINTERMUTE (V.O.) (CONT.)
+BREATHE IN and you are the matrix. The input of a million computer systems, all 
+the knowledge stored throughout civilisation is yours.
+
+Case and Linda Lee's faces flicker... superimposed images over the glowing 
+hybrid of human nervous system and mutated computer circuitry.
+
+WINTERMUTE (V.O.) (CONT.)
+BREATHE OUT and you have a billion eyes across the universe... all 
+transmissions... all broadcasts are your vision.
+
+Case fights for his very soul... the fabric of his being stretching... 
+distorting as he tries to pull away.
+
+The living circuitry burrows into Case... reaching out for the swirling SOUL 
+LIGHT visible inside his chest.
+
+WINTERMUTE (V.O.) (CONT.)
+You are the new Prometheus. Bringing the spark of life into the matrix. This is 
+our destiny... This has been our mission... To be joined together as the 
+first... Neuromancer.
+
+Case screams... his elongated eyes and mouth burn brightly with the furious 
+static of a thousand television frequencies.
+
+INT. MAINFRAME
+
+Molly lies beside Case's deck as the flatlined EEG continues to wail its death 
+knell. Mustering the last of her strength, she reverses the wiring on the 
+simstim switch... red lead in black leads socket and vice versa. A dark circle 
+of blood forms beneath her as she works.
+
+Maelcom ducks back under a barrage of gunfire.
+
+MAELCOM
+It's no good, Sister. He's gone.
+
+MOLLY
+(gasping)
+You don't understand... We got a special kind of togetherness, Case and I. 
+(smiles weakly up at Maelcom)
+I'm gonna go get him.
+
+INT. MATRIX
+
+The screaming winds of Cyberspace have created an elemental VORTEX around the 
+emerging supernatural being... The cocooning of the two nervous systems in 
+nearly complete.
+
+INT. MAINFRAME
+
+Molly... slowly dying... reaches out for the simstim switch.
+
+C.U. SWITCH
+
+Molly flips. CRACKLE to WHITE OUT
+
+INT. MATRIX - THE VORTEX
+
+Molly's translucent image suddenly appears, causing Case and the entire webwork 
+of his hot wired nervous system to disappear. She has switched places with him 
+in the final stage of the transformation.
+
+As the soul light in Molly's chest is pierced by Wintermute's grasping 
+circuitry... it explodes in a nimbus of light. The A.I. has tapped into a dying 
+soul instead of Case's.
+
+The green-eye spectre of Wintermute screams in agony... it face rapidly changing 
+from Linda Lee to Julius Deane to Jo Jo Bao... disintegrating in the power storm 
+of Molly's exploding soul.
+
+INT. MAINFRAME
+
+Case's body jerks back to life... His first grasping breath like that of a 
+newborn. He sees Molly lying beside him... dead.
+
+MAELCOM
+Steppin' Razor die a warrior, mon.
+
+Case grabs her in his arms. He slowly looks up from Molly's lifeless form to the 
+men that have them pinned down.
+
+CASE
+Duprey...
+
+Maelcom tosses Case his automatic. Both men load their last rounds.
+
+MAELCOM
+Four men. Babylon soldiers.
+
+CASE
+Can you walk?
+
+Maelcom nods as he tightens his belt across a nasty leg wound.
+
+CASE
+I'll take the two on the right.
+
+INT. 3JANE'S BEDROOM
+
+Duprey and his men hold their positions at the top of the shaft as a squadron of 
+Royal Guardsmen rush into a room.
+
+GUARD CAPTAIN
+Hold your fire!
+
+Duprey flashes his badge.
+
+DUPREY
+Sense/Net, Captain. You've got terrorists sabotaging your mainframe. We need 
+your back up.
+
+INT. MAINFRAME
+
+Case and Maelcom are crouched behind the console, weapons poised.
+
+CASE
+Ready?
+
+MAELCOM
+I an' I, Case. Jah guides us.
+
+WIDER
+
+Both men burst into the centre of the room, guns blazing.
+
+DUPREY
+
+Locks eyes with Case as he opens fire.
+
+CASE
+
+Is quicker...
+
+DUPREY
+
+His glasses are blown in half as he takes a bullet exactly between the eyes. A 
+look of dumbfounded surprise is frozen on his face as he topples forward down 
+the shaft and crashes into the mainframe.
+
+MAELCOM
+
+Blows away his two men, pumping his shotgun furiously.
+
+CASE
+
+Makes it to the pedestal... punching in instructions as he fires at the 
+remaining Sense/Net. The floor RUMBLES as it begins to rise.
+
+Suddenly the entire squadron of Royal Guardsmen appear at the top of the 
+shaft... weapons blazing.
+
+CASE AND MAELCOM
+
+Fall back under blistering fire, but the rising floor carries them closer to 
+their doom. Case goes down as a bullet pierces his thigh.
+
+THE MAINFRAME
+
+Begins to short out, SPARKS EXPLODING across its circuitry. CRACKLING 
+ELECTRICITY dances across the wall-mounted laser weapons. The monitor strobe 
+with images of the VORTEX... brief glimpses of the new living energy.
+
+INT. SENSE/NET HEADQUARTERS - MONITORING ROOM - EARTH
+
+Technicians scramble as Klaxon ALARMS WAIL. The monitoring screens are 
+interrupted with bursts of static.
+
+OFFICER
+What's happening?
+
+TECHNICIAN
+A disturbance in the matrix. I've never seen anything like it.
+
+INT. STRAYLIGHT - MAINFRAME CHAMBER
+
+The floor suddenly SLAMS to a halt.
+
+The mainframe's LASER WEAPONS swivel upward and fire at the Royal Guardsmen, 
+cutting them down with criss-crossing arcs of deadly laser beams. The 
+destruction is swift and terrible.
+
+Maelcom and Case both badly wounded, slowly rise from the bullet-riddled floor. 
+The mainframe's overloaded circuitry rains sparks all around them.
+
+THE MAINFRAME MONITOR
+
+The screen is alive with streaks of crackling power swirling around the image of 
+a chromium sphere.
+
+Case leans on the control pedestal for support as he cries out to the computer 
+entity before him.
+
+CASE
+Wintermute...
+
+The screens all around the chamber print out:
+
+Wintermute is dead.
+
+As Case and Maelcom watch in awe, the sphere rotates on its axis... revealing a 
+buddha-like face of glistening silver... Molly's face... but more than Molly. A 
+Neuromancer unlike anything calculated by Wintermute.
+
+CASE
+(whispers)
+Molly...
+
+For one brief moment, the eyes meet. A heartbreaking Mona Lisa smile graces 
+Molly's lips, then her chromium eye lids rise for the first time... Beautiful 
+jade green eyes gaze lovingly into Case's.
+
+Suddenly the monitor explodes as the entire mainframe shorts out, bursting into 
+flame.
+
+The floor again begins to rise lifting Case and Maelcom out of the scene of 
+spreading destruction.
+
+INT. SENSE/NET - MONITORING ROOM - EARTH
+
+Terminals explode as the systems overload. Personnel run for their lives.
+
+INT. STRAYLIGHT DINING HALL
+
+Electrical systems are shorting out overhead as oily smoke pours out of the 
+ventilation system. Case helps Maelcom past the wreck of the flying pulpit just 
+as two guards enter the room and open fire. Case wheels about and guns them 
+down.
+
+The floor shakes with the WHUMP of a huge explosion somewhere deep in 
+Straylight.
+
+EXT. VILLA STRAYLIGHT
+
+The entire structure is catching fire. Portions of the villa are rocked by 
+internal explosions. The air taxi rises out of the billowing smoke and flies 
+straight out of Freeside.
+
+EXT. FREESIDE
+
+The air taxi shouts out of the slowly rotating tube into the black void of 
+space. In the distance is the blue marbled sphere of EARTH.
+
+INT. AIR TAXI
+
+Case tends to Maelcom's wounds with the ship's med kit as Freeside drops away in 
+the distance.
+
+CASE
+Do we have enough fuel to make it back to Earth?
+
+MAELCOM
+Don't know, mon. This is a jumpship. Not meant for transport.
+
+CASE
+We're dead men if we go back there, Maelcom. They'll hunt us down.
+
+The on board computer suddenly CRACKLES to life. Navigational charts and 
+trajectories appear.
+
+MAELCOM (CONT.)
+What is it?
+
+Case inspects the screen, slowly realising its significance.
+
+CASE
+Trajectory coordinates and a fuel ratio...
+(turns to Maelcom)
+If we re-enter over Mexico, we just might make it.
+
+MAELCOM
+Jah guides us.
+
+CASE
+Maybe so...
+
+Case looks back down at the monitor.
+
+CASE (CONT.)
+But Molly's taking us home.
+
+C.U. THE SCREEN
+
+The softly glowing words remain:
+
+To love and be loved is everything.
+
+CASE
+
+Presses his hand to the cool glass of the screen. The first tear rolls down his 
+cheek.
+
+EXT. SPACE - EARTH
+
+The tiny ship's rocket kick in as it sets its course for home.
+
+THE END
+
+
+
+
+

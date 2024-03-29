@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+<title>Check out our sponsor - Spency.tv</title>
+    
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+</head>
+
+<style type="text/css">
+
+body {
+  font-size: 16px;
+}
+
+.header {
+  background: #000000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+  margin: auto;
+  -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  -o-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  height: 80px;
+}
+
+.header .container, .header .container-fluid, .header .row {
+  height: 100%; 
+}
+
+.header .logo img {
+  width: 200px;
+  height: auto; 
+}
+
+.hero {
+  background: url(/images/background.jpg) no-repeat 50% 50%/cover;
+  background-color: #c61c1f !important;
+}
+
+.section {
+  position: relative;
+  padding: 0px 0 60px 0;
+  margin-top: 80px;
+  height: calc(100vh - 120px);
+}
+
+.section .hero-header {
+  background: rgba(0,0,0,0.2);
+  text-align:center;
+  color:#ffffff;
+  padding: 20px 0;
+  margin-bottom: 60px;
+  background-color: #c61c1f !important;
+}
+    
+.section .hero-header h1{
+  font-size: 30px;
+}
+
+ul.menu {
+  -ms-flex-pack: end!important;
+  justify-content: flex-end!important;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  -ms-flex-align: center!important;
+  align-items: center!important;
+}
+
+ul.menu li {
+  list-style: none;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  padding: 0 10px;
+}
+
+ul.menu li a {
+  position: relative;
+  color: #ffffff;
+  -webkit-transition: 0.2s all ease-in 0s;
+  -moz-transition: 0.2s all ease-in 0s;
+  -ms-transition: 0.2s all ease-in 0s;
+  -o-transition: 0.2s all ease-in 0s;
+  transition: 0.2s all ease-in 0s;
+}
+
+ul.menu li a:hover {
+  text-decoration: none;
+}
+
+ul.menu li a.btn-primary {
+  background: #c61c1f;
+  color: #ffffff;
+  border: 0;
+}
+
+ul.menu li a.btn-primary:hover, ul.menu li a.btn-primary:focus {
+  background: #b11a1c;
+  color: #ffffff;
+}
+
+.playerWrapOuter{
+  padding: 0;
+  border: 20px solid #ffffff;
+  background: #ffffff;
+  position: relative;
+  -webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  -moz-box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  -ms-box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  -o-box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.embed-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  background-color: #f4f4f6;
+  display: block;
+}
+
+.embed-responsive iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+
+.footer {
+  background: #000000;
+  color: #776633;
+  height: 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+  margin: auto; 
+}
+
+.footer .container, .footer .row {
+  height: 100%; 
+}
+    
+.footer p {
+  margin-bottom: 0; 
+}
+
+.footer-nav {
+  -ms-flex-pack: end!important;
+  justify-content: flex-end!important;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.footer-nav a {
+  list-style: none;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  color: #ffffff;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+
+.hytPlayerWrap{display: block; position: relative;}.hytPlayerWrap.ended::after{content:""; position: absolute; top: 0; left: 0; bottom: 0; right: 0; cursor: pointer; background-color: black; background-repeat: no-repeat; background-position: center; background-size: 64px 64px; background-image: url(data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgNTEwIDUxMCI+PHBhdGggZD0iTTI1NSAxMDJWMEwxMjcuNSAxMjcuNSAyNTUgMjU1VjE1M2M4NC4xNSAwIDE1MyA2OC44NSAxNTMgMTUzcy02OC44NSAxNTMtMTUzIDE1My0xNTMtNjguODUtMTUzLTE1M0g1MWMwIDExMi4yIDkxLjggMjA0IDIwNCAyMDRzMjA0LTkxLjggMjA0LTIwNC05MS44LTIwNC0yMDQtMjA0eiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==);}.hytPlayerWrap.paused::after{content:""; position: absolute; top: 0px; left: 0; bottom: 0px; right: 0; margin: auto; cursor: pointer; background-color: black; background-repeat: no-repeat; background-position: center; background-size: 40px 40px; background-image: url(data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNzA2LjY2NyIgaGVpZ2h0PSIxNzA2LjY2NyIgdmlld0JveD0iMCAwIDEyODAgMTI4MCI+PHBhdGggZD0iTTE1Ny42MzUgMi45ODRMMTI2MC45NzkgNjQwIDE1Ny42MzUgMTI3Ny4wMTZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+);
+}
+    
+/* Video Form Subscribe Form styling starts here */
+
+.scb-form-wrap {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-play-btn {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 68px;
+  height: 48px;
+  margin-left: -34px;
+  margin-top: -24px;
+  -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+  transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+  z-index: 63;
+}
+
+.video-play-btn svg {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.video-play-btn svg path.ytp-large-play-button-bg {
+  transition: fill .1s cubic-bezier(0.4,0.0,1,1),fill-opacity .1s cubic-bezier(0.4,0.0,1,1);
+  fill: #212121;
+  fill-opacity: .8;
+}
+
+.scb-form-wrap:hover .video-play-btn path.ytp-large-play-button-bg {
+  fill: #ff0000;
+  fill-opacity: 1;
+}
+
+.scb-form-wrap.video-play-btn-hide .video-play-btn {
+  display: none;
+}
+
+.scb-btn { 
+  background: #cc0000;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 10px 25px;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 50px;
+}
+
+.scb-btn:hover, .scb-btn:focus {
+  background: #cc0000;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.scb-form-wrap .form-group {
+  position: relative;
+  margin: 0;
+}
+
+.scb-form-wrap .form-group em {
+  font-style: normal;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+  font-size: 20px;
+  color: #cc0000;
+}
+
+.scb-form-wrap .form-group .form-control {
+  border-radius: 4px;
+  text-align: left;
+  font-weight: bold;
+  width: 300px;
+  padding: 10px 50px 10px 40px;
+  height: 50px;
+  line-height: 26px;
+  color: #000000;
+  border: 2px solid #cc0000;
+  margin: 0;
+  font-size: 18px;
+}
+
+.field {
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  opacity: 0;
+  z-index: 99;
+  visibility: hidden;
+  -webkit-transition: 0.5s all linear 0s;
+  -moz-transition: 0.5s all linear 0s;
+  -ms-transition: 0.5s all linear 0s;
+  -o-transition: 0.5s all linear 0s;
+  transition: 0.5s all linear 0s;
+}
+
+.field.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+#sub-form .email-valider {
+  display: none;
+  position: absolute;
+  right: 0;
+  bottom: 100%;
+  margin-bottom: 10px;
+  text-align: right;
+  color: #ffffff;
+  text-align: right;
+  z-index: 9;
+  padding: 5px 15px 5px 15px;
+  height: 36px;
+  text-shadow: 2px 3px 10px rgba(0,0,0,0.5);
+}
+
+#sub-form .email-valider:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  right: 100%;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  border-right: 15px solid transparent;
+  opacity: 0.5;
+}
+
+#sub-form .email-valider.email-error {
+  background: rgba(255,0,0,0.5);
+  color: #ffffff;
+}
+
+#sub-form .email-valider.email-error:after {
+  border-right-color: rgba(255,0,0,1);
+}
+
+#sub-form .email-valider.email-success {
+  background: rgba(50,170,0,0.5);
+  color: #ffffff;
+}
+
+#sub-form .email-valider.email-success:after {
+  border-right-color: rgba(50,170,0,1);
+}
+
+#sub-form .email-valider.active {
+  display: block;
+}
+
+#sub-form .next {
+  position: absolute;
+  top: 6px;
+  width: 36px;
+  height: 36px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  right: 8px;
+  padding: 0;
+  background: #eeeeee;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+  -webkit-transition: 0.2s all ease-in 0s;
+  -moz-transition: 0.2s all ease-in 0s;
+  -ms-transition: 0.2s all ease-in 0s;
+  -o-transition: 0.2s all ease-in 0s;
+  transition: 0.2s all ease-in 0s;
+  color: #000000;
+  z-index: 9;
+  border: 0;
+}
+
+#sub-form .email-field .next {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#sub-form .email-field .next.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+#sub-form .next em {
+  font-size: 18px;
+  margin-left: -2px;
+  font-style: normal;
+  color: #000000;
+}
+
+#sub-form .next:hover {
+  background: #cc0000;
+  color: #ffffff;
+}
+
+#sub-form .next:hover em {
+  color: #ffffff;
+}
+    
+@media only screen and (max-width:1023px) and (min-width:768px) {
+  .playerWrapOuter {
+    border: 15px solid #ffffff;
+  }
+}
+
+@media only screen and (max-width:767px) and (min-width:568px) {
+  .playerWrapOuter {
+    border: 10px solid #ffffff;
+  }
+  
+  .section {
+    padding: 0px 0 40px 0;
+  }
+  
+  .section .hero-header {
+    margin-bottom: 40px;
+    padding: 15px 0;
+  }
+  
+  .section .hero-header h1 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width:567px) and (min-width:320px) {
+  .playerWrapOuter {
+    border: 10px solid #ffffff;
+  }
+  .header .logo img {
+    width: 140px;
+    height: auto;
+  }
+  .section {
+    padding: 0px 0 30px 0;
+  }
+  .section .hero-header{
+    margin-bottom: 30px;
+    padding: 10px 0;
+  }
+  .section .hero-header h1 {
+    font-size: 18px;
+  }
+
+  .scb-btn {
+    font-size: 14px;
+    padding: 8px 16px;
+    height: 40px;
+  }
+
+  .scb-form-wrap .field {
+    max-width: 90%;
+    bottom: 10px;
+  }
+  
+  .scb-form-wrap .form-group {
+    width: 100%;
+  }
+
+  .scb-form-wrap .form-group .form-control {
+    width: 100%;
+    font-size: 15px;
+    padding:8px 50px 8px 35px;
+    height: 40px;
+  }
+
+  .scb-form-wrap .form-group em {
+    font-size: 15px !important;
+  }
+
+  #sub-form .email-valider {
+    padding: 2px 10px 2px 10px;
+    height: 24px;
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+
+  #sub-form .email-valider:after {
+    border-top-width: 12px;
+    border-bottom-width: 12px;
+    border-right-width: 8px;
+  }
+
+.footer p, .footer-nav a {
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+#sub-form .next {
+  top: 5px;
+  width: 28px;
+  height: 28px;
+  line-height: 12px;
+  padding-right: 3px;
+  }
+}
+
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+      
+<body>
+<header class="header">
+<div class="container">
+<div class="row align-items-center">
+  
+<div class="col-sm-3 col-9">
+  <a href="https://www.domainster.com" title="Domainster Domain Brokerage">
+  <img title="Domainster" width="200" height="35" src="https://s3.amazonaws.com/assets.domainster/images/logo-white.png" /></a>
+</div>
+
+<div class="col-sm-9 col-3 text-right">
+  <button type="button" class="btn btn-success" a href="https://www.domainster.com">Get Started</button>
+</div>
+</div>
+  
+</div> <!-- container -->
+</header>
+          
+<div class="px-4 pt-5 my-5 text-center border-bottom">
+  <h2 class="display-4 fw-bold">This Domain May Be For Sale!</h1>
+  <h3 class="display-6 fw-bold">You can find out after watching the video</h3>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">
+      <div class="video" data-id="M7lc1UVf-VE"></div>
+  
+      <!-- iframe width="640" height="385" src="" frameborder="0" allow="autoplay; encrypted-media"></iframe -->
+      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mt-5 mb-5">
+        <a href="https://www.Spency.tv"> 
+        <button disabled id="sponsorbutton" role="button" class="btn btn-primary btn-lg px-4 me-sm-3">
+          Visit Sponsor
+        </button></a>
+
+        <a href="https://www.baidu.eu/domain-marketplace/KPMA-DY32E-C-M15C">
+        <button disabled id="domainbutton" role="button" class="btn btn-secondary btn-lg px-4 me-sm-3" data-toggle="tooltip" data-placement="top" title="Please watch video first">
+          Domain Info
+        </button></a>
+  
+        <!-- span style="visibility: hidden;width: 120px;background-color: #555; color: #fff;text-align: center;padding: 5px 0;border-radius: 6px;" class="tooltiptext">
+          Tooltip text
+        </span -->
+  
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+</body>
+</html>
+
+<script>
+var video;
+var uuid = Math.floor (100 + Math.random () * 900) + "-" + Math.floor (1000 + Math.random () * 9000) + "-" + Math.floor (10 + Math.random () * 90);
+
+window.onload = async () => {
+
+console.log (window.location.href);
+
+let url = window.location.href;
+
+let payload = { request: "getvideo", uuid };
+
+let fetched = await fetch ("/api", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify (payload) })
+let data = await (fetched.json ());
+if (typeof data.video !== "undefined") video = data.video;
+console.log (data);
+
+const tag = document.createElement ("script");
+tag.src = "https://www.youtube.com/player_api";
+const firstScriptTag = document.getElementsByTagName ("script")[0];
+firstScriptTag.parentNode.insertBefore (tag, firstScriptTag);
+
+window.onYouTubePlayerAPIReady = function () {
+  const video = document.querySelector (".video");
+  const videoId = video.getAttribute ("data-id");
+  new YT.Player (video, {
+    width: 606,
+    height: 344,
+    videoId: data.video,
+    playerVars: {
+      autoplay: 0,
+      controls: 1,
+      showinfo: 1,
+      rel: 0,
+      iv_load_policy: 3,
+      cc_load_policy: 0,
+      fs: 0,
+      disablekb: 1
+    },
+    events: { 
+      "onReady": onPlayerReady,
+      "onStateChange": onPlayerStateChange
+    }
+  });
+};
+
+function onPlayerReady () {
+  console.log ("onPlayerReady");
+}
+
+async function onPlayerStateChange (e) {
+  console.log ("onPlayerStateChange:", e.data);
+
+  if (e.data == 1) {
+    document.getElementById ("domainbutton").classList.remove ("btn-secondary");
+    document.getElementById ("domainbutton").classList.add ("btn-danger");
+    document.getElementById ("domainbutton").setAttribute ('href', "https://www.baidu.eu/domain-marketplace/KPMA-DY32E-C-M15C");
+
+    document.getElementById ("domainbutton").removeAttribute ("disabled");
+    document.getElementById ("sponsorbutton").removeAttribute ("disabled");
+  }
+
+  let data = { request: "report", payload: { uuid, video: video, action: e.data } } 
+
+  console.log ("POSTING:");
+  console.log (data);
+
+  let fetched = await fetch (window.location.href, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify (data) })
+  let response = await (fetched.json ());
+}
+
+}
+
+</script>
+
